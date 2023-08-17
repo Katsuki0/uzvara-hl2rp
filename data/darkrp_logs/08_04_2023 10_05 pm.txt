@@ -1,0 +1,9 @@
+Fri Aug  4 22:05:17 2023	Bot01 (BOT) has joined the game
+Fri Aug  4 22:05:17 2023	Bot01 (BOT) spawned
+Fri Aug  4 22:05:35 2023	Bot01 was killed by Themself with a suicide trick
+Fri Aug  4 22:06:22 2023	Bot01 (BOT) disconnected
+Fri Aug  4 22:13:24 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Fri Aug  4 22:13:24 2023	Garry Huffan (STEAM_0:0:45477833) spawned
+Fri Aug  4 22:14:51 2023	Garry Huffan (STEAM_0:0:45477833): /dropmoney 1000
+Fri Aug  4 22:14:52 2023	Garry Huffan (STEAM_0:0:45477833) has dropped 1,000 KWD
+Fri Aug  4 22:15:26 2023	Garry Huffan (STEAM_0:0:45477833) disconnected

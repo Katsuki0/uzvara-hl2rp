@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "rp_city11_sv"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "map",
+	"tags": [
+		"realism",
+		"roleplay"
+	]
+}"
+}

@@ -1,0 +1,9 @@
+Mon Jul 31 00:36:59 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Jul 31 00:36:59 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Mon Jul 31 00:43:46 2023	Я не Shapka (STEAM_0:0:45477833): !hp ^ 1
+Mon Jul 31 00:52:13 2023	Я не Shapka (STEAM_0:0:45477833): !hp ^ 2
+Mon Jul 31 00:52:24 2023	Bot01 (BOT) has joined the game
+Mon Jul 31 00:52:24 2023	Bot01 (BOT) spawned
+Mon Jul 31 00:52:26 2023	Я не Shapka (STEAM_0:0:45477833): !bring bot
+Mon Jul 31 00:52:50 2023	Я не Shapka (STEAM_0:0:45477833): !bring bot
+Mon Jul 31 00:52:52 2023	Я не Shapka (STEAM_0:0:45477833): !freeze bot

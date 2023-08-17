@@ -1,0 +1,16 @@
+[Tue Jul 18 18:02:27 2023] Player "Я не Shapka" <STEAM_0:0:45477833> is attempting to connect.
+[Tue Jul 18 18:03:04 2023] Player "Я не Shapka" <STEAM_0:0:45477833> has spawned in the server
+[Tue Jul 18 18:03:39 2023] <STEAM_0:0:45477833> Я не Shapka: gnome
+[Tue Jul 18 18:03:56 2023] <STEAM_0:0:45477833> Я не Shapka: gay
+[Tue Jul 18 18:04:01 2023] <STEAM_0:0:45477833> Я не Shapka: 123
+[Tue Jul 18 18:05:29 2023] Player "Я не Shapka" <STEAM_0:0:45477833> is attempting to connect.
+[Tue Jul 18 18:06:44 2023] Player "Я не Shapka" <STEAM_0:0:45477833> is attempting to connect.
+[Tue Jul 18 18:06:50 2023] Player "Я не Shapka" <STEAM_0:0:45477833> is attempting to connect.
+[Tue Jul 18 18:06:58 2023] Player "Я не Shapka" <STEAM_0:0:45477833> has spawned in the server
+[Tue Jul 18 18:07:24 2023] <STEAM_0:0:45477833> Я не Shapka: 123
+[Tue Jul 18 18:07:26 2023] <STEAM_0:0:45477833> Я не Shapka: 123
+[Tue Jul 18 18:07:27 2023] <STEAM_0:0:45477833> Я не Shapka: 213
+[Tue Jul 18 18:07:32 2023] <STEAM_0:0:45477833> Я не Shapka: gay
+[Tue Jul 18 18:07:35 2023] <STEAM_0:0:45477833> Я не Shapka: !prefix
+[Tue Jul 18 18:07:47 2023] <STEAM_0:0:45477833> Я не Shapka: !my_prefix
+[Tue Jul 18 18:08:30 2023] <STEAM_0:0:45477833> Я не Shapka: why you bully me

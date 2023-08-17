@@ -1,0 +1,19 @@
+Mon Aug 14 00:12:39 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Aug 14 00:12:39 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Mon Aug 14 00:12:49 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Mon Aug 14 00:12:49 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Mon Aug 14 00:15:31 2023	Я не Shapka (STEAM_0:0:45477833): проп
+Mon Aug 14 00:15:49 2023	Я не Shapka (STEAM_0:0:45477833): я
+Mon Aug 14 00:15:50 2023	Я не Shapka (STEAM_0:0:45477833): ебанусь
+Mon Aug 14 00:15:51 2023	Я не Shapka (STEAM_0:0:45477833): щас
+Mon Aug 14 00:16:05 2023	vadimhalo (STEAM_0:0:172707452): может другим займёшься
+Mon Aug 14 00:16:09 2023	vadimhalo (STEAM_0:0:172707452): это не критично
+Mon Aug 14 00:16:15 2023	Я не Shapka (STEAM_0:0:45477833): а чем еще
+Mon Aug 14 00:16:17 2023	Я не Shapka (STEAM_0:0:45477833): я вроде все сделал
+Mon Aug 14 00:16:23 2023	vadimhalo (STEAM_0:0:172707452): удалять модеры
+Mon Aug 14 00:16:24 2023	vadimhalo (STEAM_0:0:172707452): могут?
+Mon Aug 14 00:16:38 2023	vadimhalo (STEAM_0:0:172707452): пропы
+Mon Aug 14 00:17:05 2023	Я не Shapka (STEAM_0:0:45477833): Так
+Mon Aug 14 00:17:09 2023	Я не Shapka (STEAM_0:0:45477833): мб у тебя кастрированый фпп
+Mon Aug 14 00:17:23 2023	vadimhalo (STEAM_0:0:172707452): да наверно
+Mon Aug 14 00:17:30 2023	vadimhalo (STEAM_0:0:172707452): версия наверно в 2019

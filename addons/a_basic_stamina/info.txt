@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Basic Stamina Mod"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "tool",
+	"tags": 
+	[
+		"realism",
+		"roleplay"
+	]
+}"
+}

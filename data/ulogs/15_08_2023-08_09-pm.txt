@@ -1,0 +1,51 @@
+15/08/2023 - 08:09:19 PM	Kserg31(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:21 PM	Jack(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:31 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:31 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:32 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:33 PM	bug.vadik(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:34 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:35 PM	FANCA(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:35 PM	[KILL] Жорка Дридмен(Гражданин) killed himself
+15/08/2023 - 08:09:40 PM	привет мой лучший(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:40 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:40 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:48 PM	Drake(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:50 PM	vadimhalo(Joining/Connecting) connected from the server
+15/08/2023 - 08:09:51 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:51 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:52 PM	FANCA(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:53 PM	bug.vadik(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:54 PM	FANCA(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:54 PM	FANCA(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:57 PM	bug.vadik(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:57 PM	bug.vadik(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:57 PM	bug.vadik(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:58 PM	Drake(Гражданин) entered 'discs_request'
+15/08/2023 - 08:09:58 PM	привет мой лучший(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:00 PM	Drake(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:00 PM	привет мой лучший(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:00 PM	привет мой лучший(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:00 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:01 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:03 PM	FANCA(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:05 PM	привет мой лучший(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:05 PM	bug.vadik(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:08 PM	Drake(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:09 PM	vadimhalo(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:10 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:10 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:12 PM	vadimhalo(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:12 PM	vadimhalo(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:13 PM	FANCA(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:13 PM	vadimhalo(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:15 PM	привет мой лучший(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:15 PM	bug.vadik(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:16 PM	hshg Allan(Joining/Connecting) connected from the server
+15/08/2023 - 08:10:18 PM	Drake(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:20 PM	vadimhalo(Гражданин) said '!menu'
+15/08/2023 - 08:10:20 PM	Kserg31(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:21 PM	Жорка Дридмен(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:22 PM	FANCA(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:23 PM	vadimhalo(Гражданин) entered 'discs_request'
+15/08/2023 - 08:10:23 PM	vadimhalo(Гражданин) used ULX command ' map gm_abandonedbunker'

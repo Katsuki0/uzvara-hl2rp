@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Custom Commands"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "servercontent",
+	"tags": 
+	[
+		"roleplay",
+		"fun"
+	]
+}"
+}

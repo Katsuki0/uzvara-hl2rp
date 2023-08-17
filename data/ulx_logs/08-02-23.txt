@@ -1,0 +1,461 @@
+<Logging continued from "data/ulx_logs/08-01-23.txt">
+[10:55:21] Client "Total Devastation" connected.
+[10:56:30] Client "Total Devastation" spawned in server <STEAM_0:1:487509974> (took 69 seconds).
+[11:03:48] Total Devastation: /admingruzhcchik
+[11:04:48] Total Devastation: /me поднял коробку
+[11:04:58] Total Devastation: /me отдал коробку кладовщику
+[11:05:06] Total Devastation: /me поднял коробку
+[11:05:14] Total Devastation: /me отдал коробку кладовщику
+[11:05:44] Total Devastation: /me поднял коробку
+[11:05:54] Total Devastation: /me отдал коробку кладовщику
+[11:06:00] Total Devastation: /me поднял коробку
+[11:06:08] Total Devastation: /me отдал коробку кладовщику
+[11:06:14] Total Devastation: /me поднял коробку
+[11:06:23] Total Devastation: /me отдал коробку кладовщику
+[11:06:28] Total Devastation: /me поднял коробку
+[11:06:37] Total Devastation: /me отдал коробку кладовщику
+[11:06:48] Total Devastation: /me поднял коробку
+[11:06:56] Total Devastation: /me отдал коробку кладовщику
+[11:07:01] Total Devastation: /me поднял коробку
+[11:07:09] Total Devastation: /me отдал коробку кладовщику
+[11:07:14] Total Devastation: /me поднял коробку
+[11:07:23] Total Devastation: /me отдал коробку кладовщику
+[11:07:27] Total Devastation: /me поднял коробку
+[11:07:35] Total Devastation: /me отдал коробку кладовщику
+[11:07:50] Total Devastation: /me поднял коробку
+[11:07:58] Total Devastation: /me отдал коробку кладовщику
+[11:08:04] Total Devastation: /me поднял коробку
+[11:08:12] Total Devastation: /me отдал коробку кладовщику
+[11:08:22] Total Devastation: /me поднял коробку
+[11:08:30] Total Devastation: /me отдал коробку кладовщику
+[11:08:36] Total Devastation: /me поднял коробку
+[11:08:44] Total Devastation: /me отдал коробку кладовщику
+[11:08:50] Total Devastation: /me поднял коробку
+[11:08:58] Total Devastation: /me отдал коробку кладовщику
+[11:09:14] Total Devastation: /me поднял коробку
+[11:09:22] Total Devastation: /me отдал коробку кладовщику
+[11:09:28] Total Devastation: /me поднял коробку
+[11:09:36] Total Devastation: /me отдал коробку кладовщику
+[11:09:44] Total Devastation: /me поднял коробку
+[11:09:52] Total Devastation: /me отдал коробку кладовщику
+[11:09:57] Total Devastation: /me поднял коробку
+[11:10:04] Total Devastation: /me отдал коробку кладовщику
+[11:10:10] Total Devastation: /me поднял коробку
+[11:10:17] Total Devastation: /me отдал коробку кладовщику
+[11:10:25] Total Devastation: /me поднял коробку
+[11:10:33] Total Devastation: /me отдал коробку кладовщику
+[11:10:41] Total Devastation: /me поднял коробку
+[11:10:49] Total Devastation: /me отдал коробку кладовщику
+[11:10:56] Total Devastation: /me поднял коробку
+[11:11:04] Total Devastation: /me отдал коробку кладовщику
+[11:11:09] Total Devastation: /me поднял коробку
+[11:11:17] Total Devastation: /me отдал коробку кладовщику
+[11:11:22] Total Devastation: /me поднял коробку
+[11:11:30] Total Devastation: /me отдал коробку кладовщику
+[11:11:35] Total Devastation: /me поднял коробку
+[11:11:43] Total Devastation: /me отдал коробку кладовщику
+[11:11:50] Total Devastation: /me поднял коробку
+[11:11:58] Total Devastation: /me отдал коробку кладовщику
+[11:12:03] Total Devastation: /me поднял коробку
+[11:12:11] Total Devastation: /me отдал коробку кладовщику
+[11:12:17] Total Devastation: /me поднял коробку
+[11:12:25] Total Devastation: /me отдал коробку кладовщику
+[11:12:31] Total Devastation: /me поднял коробку
+[11:12:39] Total Devastation: /me отдал коробку кладовщику
+[11:12:55] Total Devastation: /me поднял коробку
+[11:13:03] Total Devastation: /me отдал коробку кладовщику
+[11:13:11] Total Devastation: /me поднял коробку
+[11:13:19] Total Devastation: /me отдал коробку кладовщику
+[11:13:28] Total Devastation: /me поднял коробку
+[11:13:36] Total Devastation: /me отдал коробку кладовщику
+[11:13:48] Total Devastation: /me поднял коробку
+[11:13:56] Total Devastation: /me отдал коробку кладовщику
+[11:14:05] Total Devastation: /me поднял коробку
+[11:14:13] Total Devastation: /me отдал коробку кладовщику
+[11:14:18] Total Devastation: /me поднял коробку
+[11:14:23] Total Devastation: /me уронил коробку
+[11:14:35] Total Devastation: /me поднял коробку
+[11:14:43] Total Devastation: /me отдал коробку кладовщику
+[11:14:48] Total Devastation: /me поднял коробку
+[11:14:57] Total Devastation: /me отдал коробку кладовщику
+[11:15:12] Total Devastation: /me поднял коробку
+[11:15:20] Total Devastation: /me отдал коробку кладовщику
+[11:15:25] Total Devastation: /me поднял коробку
+[11:15:33] Total Devastation: /me отдал коробку кладовщику
+[11:15:38] Total Devastation: /me поднял коробку
+[11:15:46] Total Devastation: /me отдал коробку кладовщику
+[11:15:53] Total Devastation: /me поднял коробку
+[11:16:01] Total Devastation: /me отдал коробку кладовщику
+[11:16:38] Total Devastation: /me поднял коробку
+[11:16:46] Total Devastation: /me отдал коробку кладовщику
+[11:16:53] Total Devastation: /me поднял коробку
+[11:17:02] Total Devastation: /me отдал коробку кладовщику
+[11:17:08] Total Devastation: /me поднял коробку
+[11:17:22] Total Devastation: /me отдал коробку кладовщику
+[11:17:32] Total Devastation: /me поднял коробку
+[11:17:40] Total Devastation: /me отдал коробку кладовщику
+[11:17:45] Total Devastation: /me поднял коробку
+[11:17:53] Total Devastation: /me отдал коробку кладовщику
+[11:17:59] Total Devastation: /me поднял коробку
+[11:18:08] Total Devastation: /me уронил коробку
+[11:18:14] Total Devastation: /me поднял коробку
+[11:18:22] Total Devastation: /me отдал коробку кладовщику
+[11:18:27] Total Devastation: /me поднял коробку
+[11:18:35] Total Devastation: /me отдал коробку кладовщику
+[11:18:40] Total Devastation: /me поднял коробку
+[11:18:48] Total Devastation: /me отдал коробку кладовщику
+[11:18:53] Total Devastation: /me поднял коробку
+[11:19:01] Total Devastation: /me отдал коробку кладовщику
+[11:19:11] Total Devastation: /me поднял коробку
+[11:19:19] Total Devastation: /me отдал коробку кладовщику
+[11:19:27] Total Devastation: /me поднял коробку
+[11:19:37] Total Devastation: /me отдал коробку кладовщику
+[11:19:50] Total Devastation: /me поднял коробку
+[11:19:58] Total Devastation: /me отдал коробку кладовщику
+[11:20:07] Total Devastation: /me поднял коробку
+[11:20:15] Total Devastation: /me отдал коробку кладовщику
+[11:20:23] Total Devastation: /me поднял коробку
+[11:20:31] Total Devastation: /me отдал коробку кладовщику
+[11:20:39] Total Devastation: /me поднял коробку
+[11:20:46] Total Devastation: /me отдал коробку кладовщику
+[11:20:51] Total Devastation: /me поднял коробку
+[11:20:59] Total Devastation: /me отдал коробку кладовщику
+[11:21:05] Total Devastation: /me поднял коробку
+[11:21:13] Total Devastation: /me отдал коробку кладовщику
+[11:21:46] Total Devastation: /me поднял коробку
+[11:21:54] Total Devastation: /me отдал коробку кладовщику
+[11:21:59] Total Devastation: /me поднял коробку
+[11:22:06] Total Devastation: /me отдал коробку кладовщику
+[11:22:12] Total Devastation: /me поднял коробку
+[11:22:20] Total Devastation: /me отдал коробку кладовщику
+[11:22:24] Total Devastation: /me поднял коробку
+[11:22:33] Total Devastation: /me отдал коробку кладовщику
+[11:22:44] Total Devastation: /me поднял коробку
+[11:22:52] Total Devastation: /me отдал коробку кладовщику
+[11:22:57] Total Devastation: /me поднял коробку
+[11:23:06] Total Devastation: /me отдал коробку кладовщику
+[11:23:11] Total Devastation: /me поднял коробку
+[11:23:19] Total Devastation: /me отдал коробку кладовщику
+[11:23:24] Total Devastation: /me поднял коробку
+[11:23:32] Total Devastation: /me отдал коробку кладовщику
+[11:23:37] Total Devastation: /me поднял коробку
+[11:23:46] Total Devastation: /me отдал коробку кладовщику
+[11:23:51] Total Devastation: /me поднял коробку
+[11:23:59] Total Devastation: /me отдал коробку кладовщику
+[11:24:04] Total Devastation: /me поднял коробку
+[11:24:13] Total Devastation: /me отдал коробку кладовщику
+[11:24:18] Total Devastation: /me поднял коробку
+[11:24:26] Total Devastation: /me отдал коробку кладовщику
+[11:24:51] Total Devastation: /me поднял коробку
+[11:24:59] Total Devastation: /me отдал коробку кладовщику
+[11:25:04] Total Devastation: /me поднял коробку
+[11:25:13] Total Devastation: /me отдал коробку кладовщику
+[11:25:18] Total Devastation: /me поднял коробку
+[11:25:26] Total Devastation: /me отдал коробку кладовщику
+[11:25:31] Total Devastation: /me поднял коробку
+[11:25:39] Total Devastation: /me отдал коробку кладовщику
+[11:25:44] Total Devastation: /me поднял коробку
+[11:25:52] Total Devastation: /me отдал коробку кладовщику
+[11:25:57] Total Devastation: /me поднял коробку
+[11:26:06] Total Devastation: /me отдал коробку кладовщику
+[11:26:10] Total Devastation: /me поднял коробку
+[11:26:19] Total Devastation: /me отдал коробку кладовщику
+[11:26:46] Total Devastation: /me поднял коробку
+[11:26:55] Total Devastation: /me отдал коробку кладовщику
+[11:27:01] Total Devastation: /me поднял коробку
+[11:27:09] Total Devastation: /me отдал коробку кладовщику
+[11:27:14] Total Devastation: /me поднял коробку
+[11:27:23] Total Devastation: /me отдал коробку кладовщику
+[11:27:28] Total Devastation: /me поднял коробку
+[11:27:36] Total Devastation: /me отдал коробку кладовщику
+[11:27:45] Total Devastation: /me поднял коробку
+[11:27:53] Total Devastation: /me отдал коробку кладовщику
+[11:27:58] Total Devastation: /me поднял коробку
+[11:28:06] Total Devastation: /me отдал коробку кладовщику
+[11:28:14] Total Devastation: /me поднял коробку
+[11:28:23] Total Devastation: /me отдал коробку кладовщику
+[11:28:55] Total Devastation: /me поднял коробку
+[11:29:03] Total Devastation: /me отдал коробку кладовщику
+[11:29:08] Total Devastation: /me поднял коробку
+[11:29:16] Total Devastation: /me отдал коробку кладовщику
+[11:29:21] Total Devastation: /me поднял коробку
+[11:29:30] Total Devastation: /me отдал коробку кладовщику
+[11:29:35] Total Devastation: /me поднял коробку
+[11:29:43] Total Devastation: /me отдал коробку кладовщику
+[11:29:55] Total Devastation: /me поднял коробку
+[11:30:04] Total Devastation: /me отдал коробку кладовщику
+[11:30:10] Total Devastation: /me поднял коробку
+[11:30:18] Total Devastation: /me отдал коробку кладовщику
+[11:30:24] Total Devastation: /me поднял коробку
+[11:30:32] Total Devastation: /me отдал коробку кладовщику
+[11:30:43] Total Devastation: /me поднял коробку
+[11:30:51] Total Devastation: /me отдал коробку кладовщику
+[11:30:56] Total Devastation: /me поднял коробку
+[11:31:04] Total Devastation: /me отдал коробку кладовщику
+[11:31:09] Total Devastation: /me поднял коробку
+[11:31:17] Total Devastation: /me отдал коробку кладовщику
+[11:31:22] Total Devastation: /me поднял коробку
+[11:31:30] Total Devastation: /me отдал коробку кладовщику
+[11:31:53] Total Devastation: /me поднял коробку
+[11:32:01] Total Devastation: /me отдал коробку кладовщику
+[11:32:12] Total Devastation: /me поднял коробку
+[11:32:20] Total Devastation: /me отдал коробку кладовщику
+[11:32:27] Total Devastation: /me поднял коробку
+[11:32:37] Total Devastation: /me отдал коробку кладовщику
+[11:32:46] Total Devastation: /me поднял коробку
+[11:32:54] Total Devastation: /me отдал коробку кладовщику
+[11:33:02] Total Devastation: /me поднял коробку
+[11:33:11] Total Devastation: /me отдал коробку кладовщику
+[11:33:21] Total Devastation: /me поднял коробку
+[11:33:29] Total Devastation: /me отдал коробку кладовщику
+[11:33:34] Total Devastation: /me поднял коробку
+[11:33:42] Total Devastation: /me отдал коробку кладовщику
+[11:33:53] Total Devastation: /me поднял коробку
+[11:34:02] Total Devastation: /me отдал коробку кладовщику
+[11:34:17] Total Devastation: /me поднял коробку
+[11:34:25] Total Devastation: /me отдал коробку кладовщику
+[11:34:36] Client "nonrp" connected.
+[11:35:46] Total Devastation: /me поднял коробку
+[11:35:54] Total Devastation: /me отдал коробку кладовщику
+[11:36:06] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 90 seconds).
+[11:37:28] Total Devastation: /me поднял коробку
+[11:37:36] Total Devastation: /me отдал коробку кладовщику
+[11:38:33] Dropped "nonrp" from server<STEAM_0:1:575008216>
+[11:39:37] Total Devastation: /me поднял коробку
+[11:39:46] Total Devastation: /me отдал коробку кладовщику
+[11:41:09] Total Devastation: /adminpocsilnij
+[11:41:12] Total Devastation: /me получил посылку
+[11:41:34] Client "nonrp" connected.
+[11:42:13] Total Devastation: /me получил посылку
+[11:42:35] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 61 seconds).
+[11:43:21] Total Devastation: /me получил посылку
+[11:45:05] nonrp: У меня есть тактика
+[11:45:10] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/2x2x2.mdl
+[11:45:27] nonrp: кто-то есть два таких
+[11:46:24] nonrp: /adminpocsilnij
+[11:46:29] nonrp: /admingruzhcchik
+[11:46:34] Total Devastation: /me получил посылку
+[11:46:55] nonrp: // а на сервер будет ивент Мистер Бийск который будет давать деньги лю�
+[11:47:27] nonrp: // Мистер Бист
+[11:47:57] Total Devastation: /me получил посылку
+[11:48:02] nonrp: /me поднял коробку
+[11:48:12] nonrp: /me отдал коробку кладовщику
+[11:48:18] nonrp: /me поднял коробку
+[11:48:28] nonrp: /me отдал коробку кладовщику
+[11:48:35] nonrp: /me поднял коробку
+[11:48:45] nonrp: /me отдал коробку кладовщику
+[11:48:51] nonrp: /me поднял коробку
+[11:48:59] Total Devastation: /me получил посылку
+[11:49:02] nonrp: /me отдал коробку кладовщику
+[11:49:32] nonrp: // Вы добавите болезни, которые врач может вылечить таблетками?
+[11:49:44] nonrp: /me поднял коробку
+[11:49:44] Total Devastation: // хз
+[11:49:55] nonrp: /me отдал коробку кладовщику
+[11:50:03] nonrp: /me поднял коробку
+[11:50:15] nonrp: /me отдал коробку кладовщику
+[11:50:20] Total Devastation: /me получил посылку
+[11:50:32] nonrp: // добавите систему захваты точек
+[11:50:36] nonrp: /me поднял коробку
+[11:50:47] nonrp: /me отдал коробку кладовщику
+[11:50:57] Total Devastation: // все предложения к вадиму
+[11:51:00] nonrp: // захват города или склад
+[11:51:10] nonrp: /me поднял коробку
+[11:51:20] nonrp: /me отдал коробку кладовщику
+[11:51:29] Total Devastation: // можно не систему а просто в правилах  такое сделать
+[11:51:30] nonrp: /me поднял коробку
+[11:51:30] Total Devastation: /me получил посылку
+[11:51:41] nonrp: /me отдал коробку кладовщику
+[11:51:52] nonrp: /me поднял коробку
+[11:52:02] nonrp: /me отдал коробку кладовщику
+[11:52:32] nonrp: /me поднял коробку
+[11:52:37] Total Devastation: /me получил посылку
+[11:52:42] nonrp: /me отдал коробку кладовщику
+[11:53:00] nonrp: /me поднял коробку
+[11:53:12] nonrp: /me отдал коробку кладовщику
+[11:53:20] nonrp: /me поднял коробку
+[11:53:31] nonrp: /me отдал коробку кладовщику
+[11:53:39] Total Devastation: /me получил посылку
+[11:53:58] nonrp: /admingrazhdanicn
+[11:55:23] Total Devastation: /me получил посылку
+[11:55:30] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/2x2x2.mdl
+[11:55:33] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/2x2x2.mdl
+[11:55:52] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/2x2x2.mdl
+[11:55:58] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[11:56:03] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[11:56:21] nonrp<STEAM_0:1:575008216> spawned model models/hunter/blocks/cube075x1x025.mdl
+[11:56:24] Total Devastation: /me получил посылку
+[11:57:18] Total Devastation: /drop
+[11:57:36] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/05x05x05.mdl
+[11:57:41] Total Devastation: /me получил посылку
+[11:58:59] nonrp: Мне лень сейчас скоро будет вайп
+[11:59:09] nonrp: aaaaa
+[12:00:05] nonrp: можешь дать деньги
+[12:00:31] nonrp: не даёт деньги
+[12:00:48] nonrp: будет он будет давать деньги
+[12:00:51] nonrp: ?
+[12:01:40] nonrp: /admingruzhcchik
+[12:01:49] Total Devastation<STEAM_0:1:487509974> spawned model models/props_c17/column02a.mdl
+[12:01:50] nonrp: ?
+[12:01:53] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[12:01:55] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[12:02:03] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[12:02:18] nonrp: afk
+[12:03:25] Total Devastation: в ряд со мной
+[12:03:34] Total Devastation: тупо прямо иди
+[12:03:39] Total Devastation: я проп удалю
+[12:03:54] nonrp: afk
+[12:03:59] Total Devastation: /me получил посылку
+[12:04:59] Total Devastation: /me получил посылку
+[12:06:28] Total Devastation: /me получил посылку
+[12:07:38] Total Devastation: /me получил посылку
+[12:08:55] Total Devastation: /me получил посылку
+[12:10:51] Total Devastation: /me получил посылку
+[12:13:15] Total Devastation: /me получил посылку
+[12:15:12] Total Devastation: /me получил посылку
+[12:25:26] nonrp: // ты типа так зарабатываешь деньги
+[12:26:07] nonrp: /me поднял коробку
+[12:26:17] nonrp: /me отдал коробку кладовщику
+[12:26:23] nonrp: /me поднял коробку
+[12:26:33] nonrp: /me отдал коробку кладовщику
+[12:27:10] nonrp: /admingrazhdanicn
+[12:32:41] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[12:32:44] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[12:33:03] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/05x05x05.mdl
+[12:37:11] nonrp: /adminpocsilnij
+[12:37:14] nonrp: /admingruzhcchik
+[12:37:43] nonrp: /me поднял коробку
+[12:37:53] nonrp: /me отдал коробку кладовщику
+[12:38:54] nonrp: // ты плачешь за хост
+[12:39:11] nonrp: // ?
+[12:43:26] nonrp: /me поднял коробку
+[12:43:37] nonrp: /me отдал коробку кладовщику
+[12:46:40] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[12:46:46] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/pushcart01a.mdl
+[12:48:17] nonrp<STEAM_0:1:575008216> spawned model models/props_phx/mechanics/slider2.mdl
+[12:48:33] nonrp<STEAM_0:1:575008216> spawned model models/props_phx/mechanics/slider2.mdl
+[12:48:49] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate05x4.mdl
+[12:48:59] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate05x4.mdl
+[12:51:48] nonrp<STEAM_0:1:575008216> spawned model models/mechanics/gears2/pinion_80t2.mdl
+[12:51:53] nonrp<STEAM_0:1:575008216> spawned model models/mechanics/gears2/pinion_80t2.mdl
+[12:51:54] nonrp<STEAM_0:1:575008216> spawned model models/mechanics/gears2/pinion_80t1.mdl
+[12:52:29] nonrp<STEAM_0:1:575008216> spawned model models/squad/sf_plates/sf_plate4x4.mdl
+[12:53:59] nonrp<STEAM_0:1:575008216> spawned model models/squad/sf_plates/sf_plate2x6.mdl
+[12:54:05] nonrp<STEAM_0:1:575008216> spawned model models/squad/sf_plates/sf_plate1x8.mdl
+[12:54:12] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate05x6.mdl
+[12:54:14] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate05x6.mdl
+[12:55:15] nonrp<STEAM_0:1:575008216> spawned model models/mechanics/solid_steel/step_beam_32.mdl
+[12:55:24] nonrp<STEAM_0:1:575008216> spawned model models/mechanics/solid_steel/step_beam_16.mdl
+[12:55:39] nonrp<STEAM_0:1:575008216> spawned model models/mechanics/solid_steel/step_beam_16.mdl
+[12:55:56] nonrp<STEAM_0:1:575008216> spawned model models/xeon133/slider/slider_bar_10x10x336.mdl
+[12:55:58] nonrp<STEAM_0:1:575008216> spawned model models/xeon133/slider/slider_bar_10x10x336.mdl
+[12:56:17] nonrp<STEAM_0:1:575008216> spawned model models/xeon133/slider/slider_bar_10x10x384.mdl
+[12:56:29] nonrp<STEAM_0:1:575008216> spawned model models/xeon133/slider/slider_bar_10x10x768.mdl
+[12:58:16] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/metalladder001.mdl
+[12:59:12] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate2x2.mdl
+[12:59:15] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate1x2.mdl
+[13:02:23] Total Devastation suicided!
+[13:08:43] Total Devastation: /adminpocsilnij
+[13:08:46] Total Devastation: /me получил посылку
+[13:10:43] Total Devastation: /me получил посылку
+[13:11:50] Total Devastation: /me получил посылку
+[13:12:50] Total Devastation: /me получил посылку
+[13:13:58] Total Devastation: /me получил посылку
+[13:15:30] Total Devastation: /me получил посылку
+[13:15:52] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate1x4.mdl
+[13:17:29] Total Devastation: /me получил посылку
+[13:17:34] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate2x24.mdl
+[13:17:38] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate2x24.mdl
+[13:17:41] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate2x24.mdl
+[13:18:45] Total Devastation: /me получил посылку
+[13:19:03] nonrp<STEAM_0:1:575008216> spawned model models/props/cs_militia/ladderwood.mdl
+[13:19:46] Total Devastation: /me получил посылку
+[13:20:11] nonrp<STEAM_0:1:575008216> spawned model models/props/cs_militia/ladderwood.mdl
+[13:20:44] Total Devastation: /drop
+[13:21:09] nonrp<STEAM_0:1:575008216> spawned model models/c24/sewer_tunnel_corner_192.mdl
+[13:21:21] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/metalladder001.mdl
+[13:21:51] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/metalladder001.mdl
+[13:22:29] Total Devastation: /me получил посылку
+[13:23:40] nonrp: hi
+[13:23:45] nonrp: 300
+[13:23:50] nonrp: 60
+[13:24:04] nonrp: изначально у меня была 100
+[13:24:12] nonrp: 360
+[13:24:19] nonrp: Я только сегодня зашёл
+[13:24:34] nonrp: сегодня тоже будет бета-тест
+[13:25:00] nonrp: сегодня тоже будет бета-тест
+[13:25:21] nonrp: я бы сказал что сейчас бета-тест
+[13:25:40] nonrp: Сколько у тебя сейчас
+[13:25:49] nonrp: aaaa
+[13:26:06] Total Devastation: /me получил посылку
+[13:27:07] Total Devastation: /me получил посылку
+[13:27:30] Total Devastation: 1
+[13:28:08] Total Devastation: /me получил посылку
+[13:29:10] nonrp: /admingrazhdanicn
+[13:29:12] Total Devastation: /me получил посылку
+[13:29:29] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/filecabinet02.mdl
+[13:29:55] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[13:30:00] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[13:30:12] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x05x1.mdl
+[13:30:19] Total Devastation: /me получил посылку
+[13:33:38] Total Devastation: /me получил посылку
+[13:33:59] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate075x075.mdl
+[13:34:53] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate075x075.mdl
+[13:35:15] nonrp: // знаю почему деньги не выпадают потому что нет физики
+[13:36:08] Total Devastation: /me получил посылку
+[13:36:09] nonrp: /admingruzhcchik
+[13:36:11] nonrp<STEAM_0:1:575008216> spawned model models/props/cs_assault/forklift.mdl
+[13:36:16] nonrp<STEAM_0:1:575008216> spawned model models/props_combine/soldier_bed.mdl
+[13:37:37] Total Devastation: /me получил посылку
+[13:39:05] Total Devastation: /drop
+[13:39:08] Total Devastation: /drop
+[13:39:12] Total Devastation: /drop
+[13:39:37] Total Devastation: /drop
+[13:39:42] Total Devastation: /drop
+[13:39:59] Total Devastation: /drop
+[13:42:35] Total Devastation: /me получил посылку
+[13:43:38] Total Devastation: /drop
+[13:43:59] Total Devastation: /me получил посылку
+[13:45:00] Total Devastation: /me получил посылку
+[13:46:00] Total Devastation: /me получил посылку
+[13:46:49] Total Devastation: 1
+[13:47:13] Total Devastation: /me получил посылку
+[13:48:13] Total Devastation: /me получил посылку
+[13:48:32] nonrp: /me поднял коробку
+[13:48:42] nonrp: /me отдал коробку кладовщику
+[13:48:55] nonrp: /me поднял коробку
+[13:49:02] nonrp: /me уронил коробку
+[13:49:15] Total Devastation: /me получил посылку
+[13:49:39] nonrp: /me поднял коробку
+[13:49:51] nonrp: /me отдал коробку кладовщику
+[13:50:16] Total Devastation: /me получил посылку
+[13:50:38] nonrp: /me поднял коробку
+[13:50:48] nonrp: /me отдал коробку кладовщику
+[13:50:52] nonrp: ?
+[13:51:01] nonrp: 100
+[13:51:49] Total Devastation: /admingrazhdanicn
+[13:52:19] nonrp: ?
+[13:52:22] Total Devastation<STEAM_0:1:487509974> spawned model models/props_c17/furnitureshelf001b.mdl
+[13:52:26] Total Devastation<STEAM_0:1:487509974> spawned model models/props_c17/metalladder003.mdl
+[13:52:29] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[13:52:50] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[13:53:41] nonrp: пробуй ещё раз
+[13:53:45] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[13:53:51] Total Devastation<STEAM_0:1:487509974> spawned model models/props_junk/harpoon002a.mdl
+[13:54:19] nonrp: у тебя палка чуть-чуть
+[13:54:53] nonrp: тут не заработаешь денег
+[13:55:45] Total Devastation: /adminpocsilnij
+[13:55:49] Total Devastation: /me получил посылку
+[13:57:01] Total Devastation: /me получил посылку
+[13:58:03] Total Devastation: /me получил посылку
+[13:59:08] Total Devastation: /me получил посылку
+[14:00:00] Total Devastation: // скок у тебя квд
+[14:00:09] Total Devastation: /me получил посылку
+[14:01:12] Total Devastation: /me получил посылку
+[14:02:22] Total Devastation: /me получил посылку
+[14:03:16] nonrp: 400
+[14:03:20] nonrp: 57
+[14:03:51] Total Devastation: /me получил посылку
+[14:04:54] Total Devastation: /me получил посылку
+[14:05:49] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/car01a.mdl
+[14:05:59] Total Devastation: /me получил посылку
+[14:06:04] nonrp<STEAM_0:1:575008216> spawned model models/props_foliage/hedgerowc8_medium_long.mdl

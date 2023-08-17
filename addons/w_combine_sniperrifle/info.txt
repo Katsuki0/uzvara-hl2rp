@@ -1,0 +1,21 @@
+"AddonInfo"
+{
+	"name" "Combine Sniperrifle - Reborn Fixed"
+	"author_name" "author"
+	"info" "NO LASER THIS TIME
+
+The Combine Sniperrifle in a completely new way!
+Credits to the new viewmodel goes to Jaanus & Onemanshow.
+
+NEEDS EP1! ( half life 2 )
+
+What's new:
+-New viewmodel!
+-More balanced! (I don't want to say the other one sucks)
+-New Scope!
+-New sounds!
+
+...but once again, NO LASER.
+This is also not supposed to be a super epic wonder weapon, before those stupid comments come across.
+"
+}

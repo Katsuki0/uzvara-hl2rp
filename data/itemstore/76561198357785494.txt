@@ -1,0 +1,1 @@
+[{"Data":{"Amount":0.0,"Clip1":,"Ammo":,"Class":"weapon_hl2axe","Model":"models/weapons/hl2meleepack/w_axe.mdl","Clip2":},"Class":"spawned_weapon"}]

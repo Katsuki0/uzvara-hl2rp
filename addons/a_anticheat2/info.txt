@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "SNTE (Say No To Exploits - ONLY SERVER COLLECTION)"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "effects",
+	"tags": [
+		"realism",
+		"roleplay"
+	]
+}"
+}

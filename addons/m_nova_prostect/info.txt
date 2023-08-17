@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name" "Nova Prospekt"
+	"author_name" "author"
+	"info" "This is about 4-5 of the hl2 prison maps joined together. This is the first release, not all the doors work, but the map works fine and you get the general idea.
+
+Roadmap:
+-All the doors working
+-Lighting is done better
+-Cafeteria is overhauled to look like a cafeteria
+-Make layout make more sense, less linear."
+}

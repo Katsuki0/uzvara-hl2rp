@@ -1,0 +1,1 @@
+Кидать в addons\darkrpmodification-master\lua\darkrp_modules

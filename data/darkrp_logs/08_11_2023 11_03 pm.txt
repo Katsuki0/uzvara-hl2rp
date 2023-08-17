@@ -1,0 +1,9 @@
+Fri Aug 11 23:03:56 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Fri Aug 11 23:03:56 2023	Garry Huffan (STEAM_0:0:45477833) spawned
+Sat Aug 12 00:00:24 2023	Garry Huffan was killed by Themself with a suicide trick
+Sat Aug 12 00:20:40 2023	Garry Huffan (STEAM_0:0:45477833) disconnected
+Sat Aug 12 08:08:06 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Sat Aug 12 08:08:06 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug 12 09:06:13 2023	vadimhalo was killed by Themself with a suicide trick
+Sat Aug 12 09:18:18 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug 12 09:21:40 2023	vadimhalo (STEAM_0:0:172707452): !menu

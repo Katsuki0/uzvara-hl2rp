@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":0.0,"Ammo":0.0,"Class":"swb_shotgun","Model":"models/weapons/w_shotgun.mdl","Clip2":0.0},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Clip1":-1.0,"Ammo":0.0,"Class":"weapon_hl2axe","Model":"models/weapons/hl2meleepack/w_axe.mdl","Clip2":-1.0},"Class":"spawned_weapon"}]

@@ -1,0 +1,345 @@
+Tue Aug 15 18:56:44 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Tue Aug 15 18:56:44 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Tue Aug 15 19:01:19 2023	vova91478 (STEAM_0:1:503365344) has joined the game
+Tue Aug 15 19:01:19 2023	vova91478 (STEAM_0:1:503365344) spawned
+Tue Aug 15 19:08:23 2023	vova91478 (STEAM_0:1:503365344): /adminpocsilnij
+Tue Aug 15 19:08:32 2023	vova91478 (STEAM_0:1:503365344): Привет
+Tue Aug 15 19:08:34 2023	vova91478 (STEAM_0:1:503365344): Да
+Tue Aug 15 19:09:09 2023	vova91478 (STEAM_0:1:503365344): У меня был открыты у соп все кроме командира отряда
+Tue Aug 15 19:09:14 2023	vova91478 (STEAM_0:1:503365344): 52 
+Tue Aug 15 19:09:21 2023	vova91478 (STEAM_0:1:503365344): Валюты
+Tue Aug 15 19:09:29 2023	vova91478 (STEAM_0:1:503365344): Нет
+Tue Aug 15 19:09:31 2023	vova91478 (STEAM_0:1:503365344): Я сам
+Tue Aug 15 19:09:33 2023	vova91478 (STEAM_0:1:503365344): Накопил
+Tue Aug 15 19:09:51 2023	vadimhalo (STEAM_0:0:172707452): /setmoney vadimhalo 100000
+Tue Aug 15 19:09:51 2023	vadimhalo (STEAM_0:0:172707452) set vadimhalo's money to 100,000 KWD
+Tue Aug 15 19:09:56 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to vova91478 (STEAM_0:1:503365344)
+Tue Aug 15 19:10:24 2023	vova91478 (STEAM_0:1:503365344): /rpname Boris Kurusanov
+Tue Aug 15 19:10:33 2023	Jack (STEAM_0:1:586636911) has joined the game
+Tue Aug 15 19:10:33 2023	Jack (STEAM_0:1:586636911) spawned
+Tue Aug 15 19:10:37 2023	привет мой лучший (STEAM_0:1:618342637) has joined the game
+Tue Aug 15 19:10:37 2023	привет мой лучший (STEAM_0:1:618342637) spawned
+Tue Aug 15 19:11:25 2023	Jack (STEAM_0:1:586636911): /ooc Ура отрыли
+Tue Aug 15 19:11:30 2023	Jack (STEAM_0:1:586636911): /ooc Открыли*
+Tue Aug 15 19:11:33 2023	❤ Konsuni ❤ (STEAM_0:1:464427619) has joined the game
+Tue Aug 15 19:11:33 2023	❤ Konsuni ❤ (STEAM_0:1:464427619) spawned
+Tue Aug 15 19:11:38 2023	Boris Kurusanov (STEAM_0:1:503365344): /admintorcgovec
+Tue Aug 15 19:12:10 2023	squadron (STEAM_0:1:485914624) has joined the game
+Tue Aug 15 19:12:10 2023	squadron (STEAM_0:1:485914624) spawned
+Tue Aug 15 19:12:17 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:12:26 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to привет мой лучший (STEAM_0:1:618342637)
+Tue Aug 15 19:13:28 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:13:34 2023	привет мой лучший (STEAM_0:1:618342637): 
+Tue Aug 15 19:13:48 2023	vadimhalo (STEAM_0:0:172707452) has given 800 KWD to Jack (STEAM_0:1:586636911)
+Tue Aug 15 19:14:02 2023	❤ Konsuni ❤ (STEAM_0:1:464427619): у меня cmd unit, cmd ota до юнита 4 все. из повстанцев : до торгаша и зомби
+Tue Aug 15 19:14:03 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:14:12 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:14:24 2023	vadimhalo (STEAM_0:0:172707452) has given 50 KWD to привет мой лучший (STEAM_0:1:618342637)
+Tue Aug 15 19:14:29 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:14:29 2023	❤ Konsuni ❤ (STEAM_0:1:464427619): /rpname Egor Lisin
+Tue Aug 15 19:14:39 2023	Egor Lisin (STEAM_0:1:464427619): y
+Tue Aug 15 19:14:40 2023	ыуыу (STEAM_0:1:712954157) has joined the game
+Tue Aug 15 19:14:40 2023	ыуыу (STEAM_0:1:712954157) spawned
+Tue Aug 15 19:14:44 2023	vadimhalo (STEAM_0:0:172707452) has given 1,600 KWD to Egor Lisin (STEAM_0:1:464427619)
+Tue Aug 15 19:14:55 2023	Kserg31 (STEAM_0:1:102748913) has joined the game
+Tue Aug 15 19:14:55 2023	Kserg31 (STEAM_0:1:102748913) spawned
+Tue Aug 15 19:15:05 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:15:34 2023	Egor Lisin (STEAM_0:1:464427619): /rpname @ Рудольф Добряков
+Tue Aug 15 19:15:38 2023	привет мой лучший (STEAM_0:1:618342637): /admicnunit5
+Tue Aug 15 19:15:45 2023	Jack (STEAM_0:1:586636911): /admicnepu
+Tue Aug 15 19:15:50 2023	Egor Lisin (STEAM_0:1:464427619): /rpname @ Рудольф Добряков
+Tue Aug 15 19:16:30 2023	Shpigun (STEAM_0:0:81333538) has joined the game
+Tue Aug 15 19:16:30 2023	Shpigun (STEAM_0:0:81333538) spawned
+Tue Aug 15 19:16:45 2023	Boris Kurusanov (STEAM_0:1:503365344): /drop
+Tue Aug 15 19:16:55 2023	Egor Lisin (STEAM_0:1:464427619): /admintorcgovec
+Tue Aug 15 19:17:15 2023	squadron (STEAM_0:1:485914624) disconnected
+Tue Aug 15 19:17:24 2023	Egor Lisin (STEAM_0:1:464427619): /rpname $STEAM_0:1:712954157 Karl hanke
+Tue Aug 15 19:17:50 2023	Egor Lisin (STEAM_0:1:464427619): !menu
+Tue Aug 15 19:18:11 2023	привет мой лучший (STEAM_0:1:618342637): вадим
+Tue Aug 15 19:18:19 2023	привет мой лучший (STEAM_0:1:618342637): вадим
+Tue Aug 15 19:18:23 2023	ыуыу (STEAM_0:1:712954157): /rpname Karl Hanke
+Tue Aug 15 19:18:38 2023	squadron (STEAM_0:1:485914624) has joined the game
+Tue Aug 15 19:18:38 2023	squadron (STEAM_0:1:485914624) spawned
+Tue Aug 15 19:18:42 2023	Egor Lisin (STEAM_0:1:464427619): y
+Tue Aug 15 19:18:55 2023	Jack (STEAM_0:1:586636911): /citizen
+Tue Aug 15 19:18:58 2023	Egor Lisin (STEAM_0:1:464427619): !return ^
+Tue Aug 15 19:19:07 2023	Jack (STEAM_0:1:586636911): /name Рудольф Добряков
+Tue Aug 15 19:19:20 2023	привет мой лучший (STEAM_0:1:618342637): вадим
+Tue Aug 15 19:19:33 2023	Jack (STEAM_0:1:586636911): /admingrazhdanicn
+Tue Aug 15 19:19:33 2023	привет мой лучший (STEAM_0:1:618342637): можно денег у меня на балике было 100квд
+Tue Aug 15 19:20:04 2023	vadimhalo (STEAM_0:0:172707452) has given 100 KWD to привет мой лучший (STEAM_0:1:618342637)
+Tue Aug 15 19:21:01 2023	Karl Hanke (STEAM_0:1:712954157): /drop
+Tue Aug 15 19:21:07 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:21:18 2023	Karl Hanke (STEAM_0:1:712954157): /adminbeczhenec
+Tue Aug 15 19:21:22 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:21:24 2023	Karl Hanke (STEAM_0:1:712954157): уфффф
+Tue Aug 15 19:21:30 2023	Karl Hanke (STEAM_0:1:712954157): /give 20
+Tue Aug 15 19:21:32 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:21:33 2023	Karl Hanke (STEAM_0:1:712954157): /give 20
+Tue Aug 15 19:21:36 2023	Karl Hanke (STEAM_0:1:712954157): /give 20
+Tue Aug 15 19:21:37 2023	Karl Hanke (STEAM_0:1:712954157) has given 20 KWD to Jack (STEAM_0:1:586636911)
+Tue Aug 15 19:21:40 2023	Shpigun (STEAM_0:0:81333538): 1000 токенов на пол сука
+Tue Aug 15 19:21:42 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:21:46 2023	Jack (STEAM_0:1:586636911): /adminbeczhenec
+Tue Aug 15 19:21:49 2023	Shpigun (STEAM_0:0:81333538): 
+Tue Aug 15 19:21:52 2023	Shpigun (STEAM_0:0:81333538): /me Отдал честь
+Tue Aug 15 19:21:53 2023	Shpigun (STEAM_0:0:81333538): /me Указал
+Tue Aug 15 19:21:55 2023	Shpigun (STEAM_0:0:81333538): /me Указал
+Tue Aug 15 19:21:56 2023	Shpigun (STEAM_0:0:81333538): 
+Tue Aug 15 19:22:02 2023	Shpigun (STEAM_0:0:81333538): /me Указал
+Tue Aug 15 19:22:03 2023	Shpigun (STEAM_0:0:81333538): /me Указал
+Tue Aug 15 19:22:04 2023	Shpigun (STEAM_0:0:81333538): /me Агрессивно ходит и дышит
+Tue Aug 15 19:22:08 2023	J_EliteCmb (STEAM_0:0:515795929) has joined the game
+Tue Aug 15 19:22:08 2023	J_EliteCmb (STEAM_0:0:515795929) spawned
+Tue Aug 15 19:22:08 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:22:15 2023	Egor Lisin (STEAM_0:1:464427619): !bring Karl
+Tue Aug 15 19:22:16 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:22:19 2023	Shpigun (STEAM_0:0:81333538): 1000 токенов на пол сука
+Tue Aug 15 19:22:20 2023	Shpigun (STEAM_0:0:81333538): 1000 токенов на пол сука
+Tue Aug 15 19:22:21 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:22:21 2023	Shpigun (STEAM_0:0:81333538): 1000 токенов на пол сука
+Tue Aug 15 19:22:38 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:22:56 2023	Egor Lisin (STEAM_0:1:464427619): // /rpname 
+Tue Aug 15 19:22:59 2023	vadimhalo (STEAM_0:0:172707452) has given 2,500 KWD to J_EliteCmb (STEAM_0:0:515795929)
+Tue Aug 15 19:23:00 2023	Jack (STEAM_0:1:586636911): /rpname Рудольф Добряков
+Tue Aug 15 19:23:02 2023	Egor Lisin (STEAM_0:1:464427619): // чтобы имя сменить
+Tue Aug 15 19:23:10 2023	vadimhalo (STEAM_0:0:172707452): ./name
+Tue Aug 15 19:23:17 2023	Лорд дерьма (STEAM_0:0:428721084) has joined the game
+Tue Aug 15 19:23:17 2023	Лорд дерьма (STEAM_0:0:428721084) spawned
+Tue Aug 15 19:23:21 2023	Shpigun (STEAM_0:0:81333538): /name Andrey Zemsky
+Tue Aug 15 19:23:25 2023	J_EliteCmb (STEAM_0:0:515795929): /rpname Иван Саратов
+Tue Aug 15 19:23:27 2023	Egor Lisin (STEAM_0:1:464427619): !hp ^ 100
+Tue Aug 15 19:23:48 2023	Egor Lisin (STEAM_0:1:464427619): // вадим тп
+Tue Aug 15 19:23:51 2023	Egor Lisin (STEAM_0:1:464427619): // тут баг
+Tue Aug 15 19:23:52 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:23:54 2023	Egor Lisin (STEAM_0:1:464427619): // нужен ты
+Tue Aug 15 19:24:05 2023	Лорд дерьма (STEAM_0:0:428721084): // Че за хуйня у меня было 300 денег с хуем а тут 100
+Tue Aug 15 19:24:10 2023	Kserg31 (STEAM_0:1:102748913): // если рестарт будете делать, то предупредите и дайте хотя бы минуты 2
+Tue Aug 15 19:24:11 2023	Karl Hanke (STEAM_0:1:712954157): gbpltw
+Tue Aug 15 19:24:15 2023	Karl Hanke (STEAM_0:1:712954157): ужос
+Tue Aug 15 19:24:32 2023	squadron (STEAM_0:1:485914624): // Вадимчик денюжки
+Tue Aug 15 19:24:48 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_pistol_large
+Tue Aug 15 19:24:49 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_pistol_large
+Tue Aug 15 19:24:49 2023	Karl Hanke (STEAM_0:1:712954157): 25 хп
+Tue Aug 15 19:24:49 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_pistol_large
+Tue Aug 15 19:24:49 2023	Boris Kurusanov (STEAM_0:1:503365344) disconnected
+Tue Aug 15 19:24:49 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Tue Aug 15 19:24:49 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Tue Aug 15 19:24:49 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Tue Aug 15 19:24:50 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Tue Aug 15 19:24:55 2023	Egor Lisin (STEAM_0:1:464427619): !hp @ 100
+Tue Aug 15 19:25:17 2023	Karl Hanke (STEAM_0:1:712954157): /drop
+Tue Aug 15 19:25:36 2023	Kote_kitikatevich (STEAM_0:1:512148277) has joined the game
+Tue Aug 15 19:25:36 2023	Kote_kitikatevich (STEAM_0:1:512148277) spawned
+Tue Aug 15 19:25:42 2023	Carl Sberg (STEAM_0:1:27747401) has joined the game
+Tue Aug 15 19:25:42 2023	Carl Sberg (STEAM_0:1:27747401) spawned
+Tue Aug 15 19:25:47 2023	squadron (STEAM_0:1:485914624): // Вадим Дай деньги у меня был открыты все мпф и все ота
+Tue Aug 15 19:25:53 2023	Лорд дерьма (STEAM_0:0:428721084): // ВАДИМ БЛЯДЬ, Что с професиями
+Tue Aug 15 19:26:01 2023	Лорд дерьма (STEAM_0:0:428721084): // я нахуя батрачил на заводе?
+Tue Aug 15 19:26:23 2023	squadron (STEAM_0:1:485914624): /adminomoshnik
+Tue Aug 15 19:26:27 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 19:26:28 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 19:26:28 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 19:26:28 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 19:26:28 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 19:26:30 2023	squadron (STEAM_0:1:485914624): !goto vadim
+Tue Aug 15 19:26:32 2023	Kote_kitikatevich (STEAM_0:1:512148277): 
+Tue Aug 15 19:26:37 2023	Лорд дерьма (STEAM_0:0:428721084) disconnected
+Tue Aug 15 19:27:06 2023	Egor Lisin (STEAM_0:1:464427619): ,KZ
+Tue Aug 15 19:27:08 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:27:09 2023	Egor Lisin (STEAM_0:1:464427619): блять
+Tue Aug 15 19:27:10 2023	Egor Lisin (STEAM_0:1:464427619): короче
+Tue Aug 15 19:27:11 2023	Лорд дерьма (STEAM_0:0:428721084) has joined the game
+Tue Aug 15 19:27:11 2023	Лорд дерьма (STEAM_0:0:428721084) spawned
+Tue Aug 15 19:27:21 2023	Egor Lisin (STEAM_0:1:464427619): после того, как чел достает пушку из ивентаря
+Tue Aug 15 19:27:23 2023	Egor Lisin (STEAM_0:1:464427619): нет патрон
+Tue Aug 15 19:27:27 2023	Egor Lisin (STEAM_0:1:464427619): а оружие стреляет
+Tue Aug 15 19:27:28 2023	Karl Hanke (STEAM_0:1:712954157): а где тут зомби?
+Tue Aug 15 19:27:41 2023	Karl Hanke (STEAM_0:1:712954157): вадим
+Tue Aug 15 19:27:46 2023	Karl Hanke (STEAM_0:1:712954157): где зомби?
+Tue Aug 15 19:28:04 2023	Karl Hanke (STEAM_0:1:712954157): где
+Tue Aug 15 19:28:09 2023	Karl Hanke (STEAM_0:1:712954157): нпс
+Tue Aug 15 19:28:11 2023	Karl Hanke (STEAM_0:1:712954157): их
+Tue Aug 15 19:28:13 2023	squadron (STEAM_0:1:485914624): я потом покажу где
+Tue Aug 15 19:28:20 2023	squadron (STEAM_0:1:485914624): вадим бразе дай денег
+Tue Aug 15 19:28:30 2023	squadron (STEAM_0:1:485914624): у меня были открыты все ота и мпф
+Tue Aug 15 19:28:43 2023	Karl Hanke (STEAM_0:1:712954157): мне не дали
+Tue Aug 15 19:29:07 2023	привет мой лучший (STEAM_0:1:618342637): Первое предупреждение
+Tue Aug 15 19:29:10 2023	Kote_kitikatevich (STEAM_0:1:512148277): // Вадим че за хуйню вы натварили
+Tue Aug 15 19:29:22 2023	Kote_kitikatevich (STEAM_0:1:512148277): // где мои грощи, где мои профы???
+Tue Aug 15 19:29:28 2023	squadron (STEAM_0:1:485914624): вадиммм
+Tue Aug 15 19:29:33 2023	squadron (STEAM_0:1:485914624): че молчишь 
+Tue Aug 15 19:29:35 2023	vadimhalo (STEAM_0:0:172707452) has given 2,500 KWD to squadron (STEAM_0:1:485914624)
+Tue Aug 15 19:29:39 2023	Kote_kitikatevich (STEAM_0:1:512148277): а
+Tue Aug 15 19:29:39 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:29:40 2023	squadron (STEAM_0:1:485914624): пасибо
+Tue Aug 15 19:29:50 2023	Karl Hanke (STEAM_0:1:712954157): кыш
+Tue Aug 15 19:29:52 2023	vova91478 (STEAM_0:1:503365344) has joined the game
+Tue Aug 15 19:29:52 2023	Boris Kurusanov (STEAM_0:1:503365344) spawned
+Tue Aug 15 19:29:56 2023	squadron (STEAM_0:1:485914624): !renurn squa
+Tue Aug 15 19:29:59 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to Лорд дерьма (STEAM_0:0:428721084)
+Tue Aug 15 19:30:04 2023	squadron (STEAM_0:1:485914624): !return squad
+Tue Aug 15 19:30:34 2023	vadimhalo (STEAM_0:0:172707452) has given 50 KWD to Carl Sberg (STEAM_0:1:27747401)
+Tue Aug 15 19:31:00 2023	squadron (STEAM_0:1:485914624): !nouclip
+Tue Aug 15 19:31:06 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:31:21 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:31:24 2023	Egor Lisin (STEAM_0:1:464427619): // вадим, presion нету
+Tue Aug 15 19:31:26 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to Kote_kitikatevich (STEAM_0:1:512148277)
+Tue Aug 15 19:31:27 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:31:28 2023	Egor Lisin (STEAM_0:1:464427619): // он нужен
+Tue Aug 15 19:31:31 2023	Egor Lisin (STEAM_0:1:464427619): // для построек
+Tue Aug 15 19:31:37 2023	vadimhalo (STEAM_0:0:172707452): /ooc его временно нету
+Tue Aug 15 19:31:44 2023	Egor Lisin (STEAM_0:1:464427619): // понял
+Tue Aug 15 19:31:50 2023	Kote_kitikatevich (STEAM_0:1:512148277): /admicnunit4
+Tue Aug 15 19:31:55 2023	squadron (STEAM_0:1:485914624): /admicnepu
+Tue Aug 15 19:31:56 2023	Jack (STEAM_0:1:586636911): /ooc А лоялист будет?
+Tue Aug 15 19:32:12 2023	squadron (STEAM_0:1:485914624): ?
+Tue Aug 15 19:32:15 2023	squadron (STEAM_0:1:485914624): че такое бро
+Tue Aug 15 19:32:30 2023	squadron (STEAM_0:1:485914624): /pm vadim дай еще 300 токенов у меня были)
+Tue Aug 15 19:32:37 2023	squadron (STEAM_0:1:485914624): Юнит
+Tue Aug 15 19:32:51 2023	squadron (STEAM_0:1:485914624): Текущие указания?
+Tue Aug 15 19:32:58 2023	привет мой лучший (STEAM_0:1:618342637): да
+Tue Aug 15 19:33:04 2023	привет мой лучший (STEAM_0:1:618342637): код 12 сити 11
+Tue Aug 15 19:33:10 2023	squadron (STEAM_0:1:485914624) disconnected
+Tue Aug 15 19:33:29 2023	Karl Hanke (STEAM_0:1:712954157): /y К СТЕНЕ 1...2...3
+Tue Aug 15 19:33:47 2023	Karl Hanke (STEAM_0:1:712954157): /y К СТЕНЕ 1...2...3
+Tue Aug 15 19:34:26 2023	Boris Kurusanov (STEAM_0:1:503365344): /admindezcertir
+Tue Aug 15 19:36:04 2023	vadimhalo (STEAM_0:0:172707452): \
+Tue Aug 15 19:36:04 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:36:09 2023	Karl Hanke (STEAM_0:1:712954157): /y выходи
+Tue Aug 15 19:36:29 2023	Jack was killed by Karl Hanke with a prop_physics
+Tue Aug 15 19:36:37 2023	Andrey Zemsky (STEAM_0:0:81333538): // вадим
+Tue Aug 15 19:36:40 2023	Karl Hanke (STEAM_0:1:712954157): ее
+Tue Aug 15 19:36:46 2023	Andrey Zemsky (STEAM_0:0:81333538): // дай денег я был 4 лвл
+Tue Aug 15 19:36:55 2023	Jack (STEAM_0:1:586636911): /ooc Сука почему пропы не статичные
+Tue Aug 15 19:36:56 2023	Kote_kitikatevich (STEAM_0:1:512148277): // Andrey Zemsky требуются деньги до инжинера
+Tue Aug 15 19:37:14 2023	Egor Lisin (STEAM_0:1:464427619): !bring Jack
+Tue Aug 15 19:37:30 2023	Jack (STEAM_0:1:586636911) spawned
+Tue Aug 15 19:38:17 2023	bug.vadik (STEAM_0:0:203566177) has joined the game
+Tue Aug 15 19:38:17 2023	bug.vadik (STEAM_0:0:203566177) spawned
+Tue Aug 15 19:39:02 2023	привет мой лучший (STEAM_0:1:618342637): Двигайся!
+Tue Aug 15 19:39:05 2023	squadron (STEAM_0:1:485914624) has joined the game
+Tue Aug 15 19:39:05 2023	squadron (STEAM_0:1:485914624) spawned
+Tue Aug 15 19:39:10 2023	привет мой лучший (STEAM_0:1:618342637): Хочешь в участок?
+Tue Aug 15 19:39:36 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT cm_kons_banka
+Tue Aug 15 19:39:46 2023	привет мой лучший (STEAM_0:1:618342637): Убирайся вон!
+Tue Aug 15 19:39:52 2023	привет мой лучший (STEAM_0:1:618342637): Стоять!
+Tue Aug 15 19:40:32 2023	привет мой лучший (STEAM_0:1:618342637):  /looc в правилах не указано деректива
+Tue Aug 15 19:41:47 2023	squadron (STEAM_0:1:485914624): /admicnepu
+Tue Aug 15 19:42:42 2023	Лорд дерьма (STEAM_0:0:428721084): /adminpcovstanec
+Tue Aug 15 19:43:11 2023	Egor Lisin (STEAM_0:1:464427619): !armor ^ 100
+Tue Aug 15 19:43:19 2023	squadron (STEAM_0:1:485914624): Мне Сдавать.
+Tue Aug 15 19:43:25 2023	Kote_kitikatevich (STEAM_0:1:512148277): нет.
+Tue Aug 15 19:43:28 2023	squadron (STEAM_0:1:485914624): Да.
+Tue Aug 15 19:43:29 2023	hshg Allan (STEAM_0:1:623854304) has joined the game
+Tue Aug 15 19:43:29 2023	hshg Allan (STEAM_0:1:623854304) spawned
+Tue Aug 15 19:43:33 2023	Kote_kitikatevich (STEAM_0:1:512148277): у нас для этого терминал
+Tue Aug 15 19:43:38 2023	squadron (STEAM_0:1:485914624): Приказ высше стоящего
+Tue Aug 15 19:43:44 2023	squadron (STEAM_0:1:485914624): Терминал убрали.
+Tue Aug 15 19:43:50 2023	Kote_kitikatevich (STEAM_0:1:512148277): очень жаль.
+Tue Aug 15 19:44:03 2023	squadron (STEAM_0:1:485914624): Иди выкинь это куда-то
+Tue Aug 15 19:44:07 2023	привет мой лучший (STEAM_0:1:618342637): /drop
+Tue Aug 15 19:44:09 2023	squadron (STEAM_0:1:485914624): я за это дам 10 токенов
+Tue Aug 15 19:44:17 2023	bug.vadik (STEAM_0:0:203566177): /ooc Вадим, какого у меня всё откатилось? 
+Tue Aug 15 19:44:28 2023	squadron (STEAM_0:1:485914624) has given 10 KWD to Kote_kitikatevich (STEAM_0:1:512148277)
+Tue Aug 15 19:44:32 2023	bug.vadik (STEAM_0:0:203566177): /ooc у меня было куплено несколько проф, сейчас ни одной из них у меня не
+Tue Aug 15 19:45:02 2023	Jack (STEAM_0:1:586636911): /OOC Скажи вадиму ог тебе квд отдаст
+Tue Aug 15 19:45:09 2023	Saldeni (STEAM_0:0:578370773) has joined the game
+Tue Aug 15 19:45:09 2023	Saldeni (STEAM_0:0:578370773) spawned
+Tue Aug 15 19:45:14 2023	bug.vadik (STEAM_0:0:203566177): /ooc оке
+Tue Aug 15 19:45:18 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to hshg Allan (STEAM_0:1:623854304)
+Tue Aug 15 19:45:21 2023	Saldeni (STEAM_0:0:578370773) disconnected
+Tue Aug 15 19:45:30 2023	squadron (STEAM_0:1:485914624): /admingrazhdanicn
+Tue Aug 15 19:45:31 2023	squadron (STEAM_0:1:485914624): /admingrazhdanicn
+Tue Aug 15 19:45:34 2023	vlad.lvov228 (STEAM_0:1:603602393) has joined the game
+Tue Aug 15 19:45:34 2023	vlad.lvov228 (STEAM_0:1:603602393) spawned
+Tue Aug 15 19:45:34 2023	bug.vadik (STEAM_0:0:203566177): /ooc кстати, напомните, сколько повстанец стоил?
+Tue Aug 15 19:45:43 2023	Kserg31 (STEAM_0:1:102748913): // 120 вроде
+Tue Aug 15 19:45:47 2023	Carl Sberg (STEAM_0:1:27747401): !menu
+Tue Aug 15 19:45:51 2023	bug.vadik (STEAM_0:0:203566177): /ooc точно? Партизан просто 220
+Tue Aug 15 19:45:57 2023	Kserg31 (STEAM_0:1:102748913): // не точно)
+Tue Aug 15 19:46:02 2023	bug.vadik (STEAM_0:0:203566177): /ooc ясно
+Tue Aug 15 19:46:31 2023	bug.vadik (STEAM_0:0:203566177): /drop
+Tue Aug 15 19:46:55 2023	squadron (STEAM_0:1:485914624): /me Уебал с колена
+Tue Aug 15 19:47:05 2023	vlad.lvov228 (STEAM_0:1:603602393): // Привет всем как играть? :D
+Tue Aug 15 19:47:05 2023	bug.vadik (STEAM_0:0:203566177): /me вытаскивает кошелек из поясной сумки
+Tue Aug 15 19:47:23 2023	hshg Allan (STEAM_0:1:623854304): что
+Tue Aug 15 19:47:23 2023	Karl Hanke (STEAM_0:1:712954157): у меня пиздец
+Tue Aug 15 19:47:28 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:47:29 2023	bug.vadik (STEAM_0:0:203566177): /me неркно перещитывает и кидает на пол 10 KWD
+Tue Aug 15 19:47:29 2023	hshg Allan (STEAM_0:1:623854304): почему
+Tue Aug 15 19:47:36 2023	bug.vadik (STEAM_0:0:203566177) has dropped 10 KWD
+Tue Aug 15 19:47:51 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to Kserg31 (STEAM_0:1:102748913)
+Tue Aug 15 19:47:53 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:48:03 2023	Boris Kurusanov (STEAM_0:1:503365344): Гражданин
+Tue Aug 15 19:48:04 2023	hshg Allan (STEAM_0:1:623854304): 300 вроде
+Tue Aug 15 19:48:06 2023	vlad.lvov228 (STEAM_0:1:603602393): // В дс канале тае много людей а на сервере 16 человек...
+Tue Aug 15 19:48:16 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to hshg Allan (STEAM_0:1:623854304)
+Tue Aug 15 19:48:19 2023	Boris Kurusanov (STEAM_0:1:503365344): Пройдемте зам ной
+Tue Aug 15 19:48:28 2023	Иван Саратов (STEAM_0:0:515795929): /adminbeczhenec
+Tue Aug 15 19:48:28 2023	hshg Allan (STEAM_0:1:623854304): ого
+Tue Aug 15 19:48:29 2023	Jack (STEAM_0:1:586636911): /adminpcovstanec
+Tue Aug 15 19:48:43 2023	hshg Allan (STEAM_0:1:623854304): я пошел
+Tue Aug 15 19:48:52 2023	Boris Kurusanov (STEAM_0:1:503365344): /w Просто пройди зам ной я тебя отпущу
+Tue Aug 15 19:48:53 2023	vadimhalo (STEAM_0:0:172707452): \
+Tue Aug 15 19:48:59 2023	Egor Lisin (STEAM_0:1:464427619): !menu
+Tue Aug 15 19:49:02 2023	hshg Allan (STEAM_0:1:623854304): /rpname Allan
+Tue Aug 15 19:49:08 2023	Egor Lisin (STEAM_0:1:464427619): !menu
+Tue Aug 15 19:49:16 2023	Jack (STEAM_0:1:586636911): /name Жорка Дридмен
+Tue Aug 15 19:49:31 2023	Иван Саратов (STEAM_0:0:515795929): /requestlicense
+Tue Aug 15 19:50:12 2023	Allan (STEAM_0:1:623854304): Нет
+Tue Aug 15 19:50:14 2023	bug.vadik (STEAM_0:0:203566177): /adminbeczhenec
+Tue Aug 15 19:50:31 2023	Andrey Zemsky (STEAM_0:0:81333538): /adminrazcnorcabochij
+Tue Aug 15 19:50:32 2023	Boris Kurusanov (STEAM_0:1:503365344): Ну емае
+Tue Aug 15 19:50:41 2023	Allan (STEAM_0:1:623854304): жди 1 месяц
+Tue Aug 15 19:50:47 2023	Allan (STEAM_0:1:623854304): и тебе конец
+Tue Aug 15 19:50:50 2023	Boris Kurusanov (STEAM_0:1:503365344): У меня патронов нету
+Tue Aug 15 19:50:50 2023	Kserg31 (STEAM_0:1:102748913): /admincunit3
+Tue Aug 15 19:51:08 2023	bug.vadik was killed by Boris Kurusanov with a weapon_hl2axe
+Tue Aug 15 19:51:13 2023	Лорд дерьма (STEAM_0:0:428721084) disconnected
+Tue Aug 15 19:51:18 2023	Allan (STEAM_0:1:623854304): он меня оскробляет
+Tue Aug 15 19:51:18 2023	Drake (STEAM_0:1:438429767) has joined the game
+Tue Aug 15 19:51:18 2023	Drake (STEAM_0:1:438429767) spawned
+Tue Aug 15 19:51:37 2023	EGERC (STEAM_0:0:588828185) has joined the game
+Tue Aug 15 19:51:37 2023	EGERC (STEAM_0:0:588828185) spawned
+Tue Aug 15 19:51:44 2023	Лорд дерьма (STEAM_0:0:428721084) has joined the game
+Tue Aug 15 19:51:44 2023	Лорд дерьма (STEAM_0:0:428721084) spawned
+Tue Aug 15 19:51:55 2023	Allan (STEAM_0:1:623854304): он сбежал
+Tue Aug 15 19:51:56 2023	tixulax (STEAM_0:0:512816751) has joined the game
+Tue Aug 15 19:51:56 2023	tixulax (STEAM_0:0:512816751) spawned
+Tue Aug 15 19:52:03 2023	Allan (STEAM_0:1:623854304): в вблок с
+Tue Aug 15 19:52:05 2023	vlad.lvov228 (STEAM_0:1:603602393): /admingruzhcchik
+Tue Aug 15 19:52:22 2023	Karl Hanke (STEAM_0:1:712954157): /give 20
+Tue Aug 15 19:52:23 2023	Karl Hanke (STEAM_0:1:712954157) has given 20 KWD to Жорка Дридмен (STEAM_0:1:586636911)
+Tue Aug 15 19:52:34 2023	Allan (STEAM_0:1:623854304): /admicnunit5
+Tue Aug 15 19:52:39 2023	Allan (STEAM_0:1:623854304): /admicnepu
+Tue Aug 15 19:52:59 2023	vlad.lvov228 (STEAM_0:1:603602393): // А как работать грузчиком?
+Tue Aug 15 19:53:10 2023	Allan (STEAM_0:1:623854304): /ooc найди офис ГСР
+Tue Aug 15 19:53:21 2023	Boris Kurusanov (STEAM_0:1:503365344): Вам надо на завод
+Tue Aug 15 19:53:31 2023	bug.vadik (STEAM_0:0:203566177) spawned
+Tue Aug 15 19:53:44 2023	Andrey Zemsky (STEAM_0:0:81333538): /name Андрей Земски
+Tue Aug 15 19:53:46 2023	Лорд дерьма (STEAM_0:0:428721084): 
+Tue Aug 15 19:53:57 2023	EGERC (STEAM_0:0:588828185): 
+Tue Aug 15 19:53:59 2023	Лорд дерьма (STEAM_0:0:428721084): 
+Tue Aug 15 19:54:00 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 19:54:08 2023	Андрей Земски (STEAM_0:0:81333538): // как работать разнорабочим
+Tue Aug 15 19:54:17 2023	vadimhalo (STEAM_0:0:172707452) has given 410 KWD to bug.vadik (STEAM_0:0:203566177)
+Tue Aug 15 19:54:28 2023	Андрей Земски (STEAM_0:0:81333538): // чат кривой немного
+Tue Aug 15 19:54:30 2023	Karl Hanke (STEAM_0:1:712954157): // вадим
+Tue Aug 15 19:54:34 2023	vadimhalo (STEAM_0:0:172707452): Ч
+Tue Aug 15 19:54:35 2023	Karl Hanke (STEAM_0:1:712954157): // а где зомби?
+Tue Aug 15 19:54:36 2023	Boris Kurusanov (STEAM_0:1:503365344): Вон там
+Tue Aug 15 19:54:36 2023	vadimhalo (STEAM_0:0:172707452): /OOC ?
+Tue Aug 15 19:54:38 2023	Boris Kurusanov (STEAM_0:1:503365344): Коробки
+Tue Aug 15 19:54:42 2023	vadimhalo (STEAM_0:0:172707452): /ooc Зомби в подземке
+Tue Aug 15 19:54:46 2023	vlad.lvov228 (STEAM_0:1:603602393): /me поднял коробку
+Tue Aug 15 19:54:48 2023	tixulax (STEAM_0:0:512816751): /adminrazcnorcabochij
+Tue Aug 15 19:54:51 2023	tixulax (STEAM_0:0:512816751): /adminrazcnorcabochij
+Tue Aug 15 19:55:01 2023	vlad.lvov228 (STEAM_0:1:603602393): /me отдал коробку кладовщику
+Tue Aug 15 19:55:05 2023	Karl Hanke (STEAM_0:1:712954157): // а где подземка
+Tue Aug 15 19:55:10 2023	Mr.Hupimupi (STEAM_0:0:420708403) has joined the game
+Tue Aug 15 19:55:10 2023	Mr.Hupimupi (STEAM_0:0:420708403) spawned
+Tue Aug 15 19:55:12 2023	vlad.lvov228 (STEAM_0:1:603602393): /me поднял коробку
+Tue Aug 15 19:55:21 2023	vlad.lvov228 (STEAM_0:1:603602393): /me отдал коробку кладовщику
+Tue Aug 15 19:55:25 2023	squadron (STEAM_0:1:485914624): !return EG
+Tue Aug 15 19:55:25 2023	EGERC (STEAM_0:0:588828185): 

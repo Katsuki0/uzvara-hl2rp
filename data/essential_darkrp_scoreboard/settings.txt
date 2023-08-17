@@ -1,0 +1,4 @@
+{
+	"showSettingsButton": true,
+	"displayUserGroups": true
+}

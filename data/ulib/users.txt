@@ -1,0 +1,143 @@
+"STEAM_0:0:431399359"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Me6oK"
+	"group"	"operator_n"
+}
+"STEAM_0:1:672992849"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Паралич мозга"
+	"group"	"operator_n"
+}
+"STEAM_0:1:59432880"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"кирилл буданов"
+	"group"	"operator_n"
+}
+"STEAM_0:1:189765948"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"www.twitch.tv/lzxcresloebatell"
+	"group"	"operator_n"
+}
+"STEAM_0:1:623854304"	
+{
+	"name"	"hshg Allan"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"operator_n"
+}
+"STEAM_0:0:172707452"	
+{
+	"name"	"vadimhalo"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:485914624"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"squadron"
+	"group"	"operator_n"
+}
+"STEAM_0:0:586975567"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Azzeti"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:45477833"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Я не Shapka"
+	"deny"	
+	{
+	}
+	"group"	"operator_n"
+}
+"STEAM_0:1:464427619"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"❤ Konsuni ❤"
+	"group"	"operator_n"
+}
+"STEAM_0:1:575008216"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"nonrp"
+	"group"	"operator_n"
+}
+"STEAM_0:1:487509974"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Total Devastation"
+	"group"	"superadmin"
+}
+"STEAM_0:0:502703877"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Polonar21"
+	"group"	"operator_n"
+}

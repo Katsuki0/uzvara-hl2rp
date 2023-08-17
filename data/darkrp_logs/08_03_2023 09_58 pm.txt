@@ -1,0 +1,7 @@
+Thu Aug  3 21:58:25 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Thu Aug  3 21:58:25 2023	Garry Huffan (STEAM_0:0:45477833) spawned
+Thu Aug  3 21:59:21 2023	Garry Huffan (STEAM_0:0:45477833): /dropmoney 1000
+Thu Aug  3 21:59:39 2023	Garry Huffan (STEAM_0:0:45477833): /setmoney shapka 100000
+Thu Aug  3 21:59:39 2023	Garry Huffan (STEAM_0:0:45477833) set Я не Shapka's money to 100,000 KWD
+Thu Aug  3 21:59:45 2023	Garry Huffan (STEAM_0:0:45477833): /dropmoney 100
+Thu Aug  3 21:59:46 2023	Garry Huffan (STEAM_0:0:45477833) has dropped 100 KWD

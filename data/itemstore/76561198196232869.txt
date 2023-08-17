@@ -1,0 +1,1 @@
+[{"Data":{"Nutrition":30.0,"Model":"models/props_junk/garbage_takeoutcarton001a.mdl"},"Class":"spawned_food"}]

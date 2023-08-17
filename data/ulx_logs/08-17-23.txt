@@ -1,0 +1,362 @@
+<Logging continued from "data/ulx_logs/08-16-23.txt">
+[00:00:06] Egor Lisin teleported to Жорка Дридмен
+[00:00:06] Egor Lisin: !goto Жорка
+[00:00:14] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:00:22] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[00:00:24] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[00:00:25] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:00:37] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:00:55] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:01:10] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:01:11] Фурри фурричь: /adminucnit1
+[00:01:14] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:01:14] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:02:18] Фурри фурричь: ц
+[00:02:23] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:02:36] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:02:50] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituretoilet001a.mdl
+[00:02:55] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/trafficcone001a.mdl
+[00:03:03] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_c17/fence01a.mdl
+[00:03:06] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_c17/fence01b.mdl
+[00:03:08] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_c17/fence01b.mdl
+[00:03:21] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/ravenholmsign.mdl
+[00:03:30] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituresink001a.mdl
+[00:03:35] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituretoilet001a.mdl
+[00:03:38] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituretoilet001a.mdl
+[00:03:40] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/blocks/cube075x075x075.mdl
+[00:03:45] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/lockers001a.mdl
+[00:03:49] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/lockers001a.mdl
+[00:04:06] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_phx/construct/metal_tube.mdl
+[00:04:25] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[00:04:31] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[00:05:03] Egor Lisin jailed Жорка Дридмен for 600 seconds
+[00:05:03] Egor Lisin: !jail @ 600
+[00:05:24] Egor Lisin: !unjail @
+[00:05:26] Egor Lisin unjailed Жорка Дридмен
+[00:05:26] Egor Lisin: !unjail @
+[00:05:34] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/hunter/blocks/cube075x3x025.mdl
+[00:05:40] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/hunter/plates/plate05x2.mdl
+[00:05:50] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/hunter/plates/plate05x2.mdl
+[00:06:22] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/interior_fence001g.mdl
+[00:06:32] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/interior_fence001g.mdl
+[00:06:35] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cardboard_box003a.mdl
+[00:06:37] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cardboard_box003a.mdl
+[00:06:46] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturecouch001a.mdl
+[00:06:56] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_interiors/sinkkitchen01a.mdl
+[00:07:10] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_lab/blastdoor001b.mdl
+[00:07:10] Dropped "Фурри фурричь" from server<STEAM_0:1:770865186>
+[00:07:13] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/lockers001a.mdl
+[00:07:57] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:08:00] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:08:17] Client "Saldeni" connected.
+[00:08:28] Egor Lisin cloaked Themself by amount 0
+[00:08:28] Egor Lisin: !cloak ^
+[00:08:31] Egor Lisin: !noclip
+[00:08:37] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/gascan001a.mdl
+[00:08:45] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:08:54] Egor Lisin: !menu
+[00:08:57] Egor Lisin teleported to 🆅.🅴🆅🅰2015
+[00:08:57] Client "Кэлт" connected.
+[00:09:03] Client "Saldeni" spawned in server <STEAM_0:0:578370773> (took 46 seconds).
+[00:09:05] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:09:32] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 35 seconds).
+[00:09:48] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/lockers001a.mdl
+[00:09:49] Egor Lisin uncloaked Themself
+[00:09:49] Egor Lisin: !uncloak ^
+[00:09:57] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cardboard_box002b.mdl
+[00:10:02] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:10:04] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:10:09] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:10:29] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/cargo_container01b.mdl
+[00:10:33] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_vehicles/tire001a_tractor.mdl
+[00:10:36] Saldeni: /adminpocsilnij
+[00:10:39] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_trainstation/trainstation_post001.mdl
+[00:10:40] Saldeni: /me получил посылку
+[00:10:48] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_trainstation/trainstation_post001.mdl
+[00:11:06] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:11:08] Dropped "Кэлт" from server<STEAM_0:0:230068935>
+[00:11:12] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:11:26] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:11:29] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furniturefridge001a.mdl
+[00:11:41] Saldeni: /me получил посылку
+[00:11:50] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_vehicles/tire001b_truck.mdl
+[00:11:51] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/trashdumpster02.mdl
+[00:11:53] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/wood_crate001a.mdl
+[00:11:54] Egor Lisin: куку
+[00:11:59] Egor Lisin: вы тут?
+[00:12:29] Egor Lisin: нельзя принтеры на крышц
+[00:12:35] Egor Lisin: неа
+[00:12:39] Egor Lisin: только на пол
+[00:12:42] Egor Lisin: либо пропом
+[00:12:47] Egor Lisin: под маник
+[00:12:49] Saldeni: /me получил посылку
+[00:13:03] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituredresser001a.mdl
+[00:13:04] Egor Lisin: можно)
+[00:13:07] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/lampshade001a.mdl
+[00:13:09] Egor Lisin: все
+[00:13:11] Egor Lisin: пожалуйста
+[00:13:12] Egor Lisin: неа
+[00:13:12] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/buoy01.mdl
+[00:13:13] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/barricade002a.mdl
+[00:13:22] Egor Lisin: хорошей игры!)
+[00:13:24] Egor Lisin: ?
+[00:13:30] Egor Lisin: в ящиках
+[00:13:32] Egor Lisin: и повар
+[00:13:35] Egor Lisin: в ящиках еда
+[00:13:36] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/trafficcone001a.mdl
+[00:13:41] Egor Lisin: лутаете
+[00:13:45] Egor Lisin: и там все будет
+[00:13:47] Egor Lisin: и оружие
+[00:13:49] Egor Lisin: и кб
+[00:13:50] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/trashbin01a.mdl
+[00:13:52] Egor Lisin: и еда
+[00:13:53] Egor Lisin: но
+[00:13:59] Egor Lisin: вам за гражданского
+[00:14:00] Saldeni: /me получил посылку
+[00:14:05] Egor Lisin: нельзя носить тяж. оружие
+[00:14:06] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/metalladder003.mdl
+[00:14:12] Egor Lisin: да
+[00:14:12] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/metalladder003.mdl
+[00:14:14] Egor Lisin: :)
+[00:14:17] Egor Lisin: все
+[00:14:22] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_wasteland/panel_leverhandle001a.mdl
+[00:14:23] Egor Lisin: хорошей игры!
+[00:14:28] Egor Lisin returned Themself to their original position
+[00:14:28] Egor Lisin: !return ^
+[00:14:37] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:14:40] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:14:42] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:14:43] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:14:46] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:15:50] Saldeni: /me получил посылку
+[00:16:58] Saldeni: /me получил посылку
+[00:17:20] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_debris/metal_panel01a.mdl
+[00:17:25] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituredrawer001a_shard01.mdl
+[00:17:37] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/canister01a.mdl
+[00:18:08] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/ravenholmsign.mdl
+[00:18:08] Saldeni: /me получил посылку
+[00:18:21] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:19:12] Saldeni: /me получил посылку
+[00:19:22] 🆅.🅴🆅🅰2015 suicided!
+[00:20:19] Saldeni: /me получил посылку
+[00:21:12] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/gascan001a.mdl
+[00:21:15] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/cinderblock01a.mdl
+[00:21:40] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/canister02a.mdl
+[00:21:42] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/canister02a.mdl
+[00:21:42] Saldeni: /me получил посылку
+[00:22:06] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/ibeam01a.mdl
+[00:22:10] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_trainstation/bench_indoor001a.mdl
+[00:22:45] Saldeni: /me получил посылку
+[00:23:54] Saldeni: /me получил посылку
+[00:24:47] Egor Lisin teleported to Жорка Дридмен
+[00:24:47] Egor Lisin: !goto Жорка
+[00:25:03] Saldeni: /me получил посылку
+[00:26:20] Saldeni: /me получил посылку
+[00:27:28] Saldeni: /me получил посылку
+[00:27:42] Egor Lisin brought Жорка Дридмен
+[00:27:42] Egor Lisin: !bring Жорка
+[00:28:37] Saldeni: /me получил посылку
+[00:29:31] Egor Lisin brought Жорка Дридмен
+[00:29:31] Egor Lisin: !bring Жорка
+[00:29:44] Egor Lisin: // капец чел баг нашел
+[00:29:50] Жорка Дридмен: /drop
+[00:29:51] Saldeni: /me получил посылку
+[00:29:54] Egor Lisin: // надо создателю кинуть.
+[00:29:58] Жорка Дридмен: /drop
+[00:31:18] Saldeni: /me получил посылку
+[00:33:00] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/wood_crate001a.mdl
+[00:33:02] Saldeni: /me получил посылку
+[00:33:51] 🆅.🅴🆅🅰2015<STEAM_0:0:504668185> spawned model models/gibs/hgibs.mdl
+[00:33:57] Жорка Дридмен: Зачем?
+[00:34:02] Жорка Дридмен: Убирайся отсюда к чёрту!
+[00:34:24] Egor Lisin: 22-
+[00:34:29] Egor Lisin: 220
+[00:34:35] Жорка Дридмен: 108
+[00:34:35] Saldeni: /me получил посылку
+[00:34:47] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/plates/plate05x1.mdl
+[00:34:51] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/plates/plate025x075.mdl
+[00:35:36] Saldeni: /me получил посылку
+[00:36:29] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/plates/plate05x1.mdl
+[00:36:31] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/plates/plate05x2.mdl
+[00:36:45] Saldeni: /me получил посылку
+[00:37:22] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_phx/construct/metal_plate1.mdl
+[00:37:57] Saldeni: /me получил посылку
+[00:39:03] Saldeni: /me получил посылку
+[00:39:47] Dropped "🆅.🅴🆅🅰2015" from server<STEAM_0:0:504668185>
+[00:41:20] Egor Lisin set the hp for Жорка Дридмен to 100
+[00:41:20] Egor Lisin: !hp @ 100
+[00:41:25] Egor Lisin set the armor for Жорка Дридмен to 100
+[00:41:25] Egor Lisin: !armor @ 100
+[00:41:35] Egor Lisin: // хитбоксы проверяли
+[00:41:38] Egor Lisin: // они ахуеные
+[00:41:41] Egor Lisin: // ой
+[00:41:46] Egor Lisin: // классные*
+[00:42:00] Жорка Дридмен: /ooс хуй
+[00:42:07] Жорка Дридмен: /ooc ХУЙ
+[00:42:13] Egor Lisin: // пон
+[00:42:14] Жорка Дридмен: !menu
+[00:42:27] Saldeni: /me получил посылку
+[00:44:15] Saldeni: /ooc а я чет не понял
+[00:44:21] Egor Lisin: // ?
+[00:44:27] Saldeni: /ooc правила для гср не прилагаются?
+[00:44:33] Egor Lisin: // они есть
+[00:44:53] Egor Lisin: // можете в дискорде UzvaraHL2RP посмотреть
+[00:45:02] Egor Lisin: // там все есть.
+[00:46:10] Saldeni: /ooc я могу хранить принтер!
+[00:46:16] Egor Lisin: // нет
+[00:46:19] Egor Lisin: // не можете
+[00:46:24] Egor Lisin: // по правилам ГСР
+[00:46:27] Egor Lisin: // не можете
+[00:46:32] Egor Lisin: // это PowerGaming
+[00:46:37] Egor Lisin: // как NonRP
+[00:46:41] Saldeni: /ooc в городе нельзя
+[00:46:44] Egor Lisin: // только PowerGaming
+[00:46:56] Egor Lisin: // разве? там нету исключений
+[00:47:02] Saldeni: /ooc написано, что в городе запрещено
+[00:47:20] Saldeni: /ooc там запреты только в городе
+[00:47:35] Egor Lisin: // Ну, хорошо
+[00:48:14] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/phxtended/cab2x2x2.mdl
+[00:48:48] Saldeni: /me получил посылку
+[00:48:58] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/wood_crate001a.mdl
+[00:49:03] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:49:04] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[00:50:45] Жорка Дридмен: Зачем?
+[00:50:49] Жорка Дридмен: Помогите!
+[00:50:50] Жорка Дридмен: Зачем?
+[00:50:51] Жорка Дридмен: Зачем?
+[00:50:52] Жорка Дридмен: Зачем?
+[00:50:54] Жорка Дридмен: Зачем?
+[00:50:55] Жорка Дридмен: Зачем?
+[00:51:56] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/metalladder001.mdl
+[00:52:01] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:52:41] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_combine/headcrabcannister01a.mdl
+[00:54:11] Saldeni: /adminmecdicpovstancev
+[00:57:35] Saldeni: /unownalldoors
+[00:57:40] Dropped "Saldeni" from server<STEAM_0:0:578370773>
+[00:58:02] Жорка Дридмен: /drop
+[00:58:12] Egor Lisin: /drop
+[00:58:50] Egor Lisin granted god mode upon Themself
+[00:58:50] Egor Lisin: !god ^
+[00:58:56] Egor Lisin granted god mode upon Жорка Дридмен
+[00:58:56] Egor Lisin: !god Жорка
+[00:59:11] Жорка Дридмен: /admintorcgovec
+[01:05:24] Egor Lisin: BuckShot - Дробовик AMMO
+[01:05:28] Egor Lisin: так пропиши
+[01:06:51] Egor Lisin: музыку слышно?
+[01:08:08] Egor Lisin: ?
+[01:08:13] Egor Lisin: пиши
+[01:08:21] Жорка Дридмен: Как СМГ прописать чтобы было красиво
+[01:08:26] Egor Lisin: SMG
+[01:13:32] Жорка Дридмен: А сколько патрон в пистолете
+[01:13:34] Жорка Дридмен: ?
+[01:13:36] Egor Lisin: 15
+[01:15:52] Egor Lisin: имба
+[01:16:01] Egor Lisin: заспавнь
+[01:16:26] Egor Lisin: аухено
+[01:16:33] Жорка Дридмен: Спасибо
+[01:16:37] Egor Lisin: :)
+[01:17:56] Egor Lisin: еще раз
+[01:18:54] Client "tixulax" connected.
+[01:21:12] Egor Lisin: любимые треки мам наших)
+[01:21:16] Egor Lisin: гимн мам
+[01:21:19] Egor Lisin: рам пам пам
+[01:22:14] Client "tixulax" spawned in server <STEAM_0:0:512816751> (took 200 seconds).
+[01:25:14] Egor Lisin: тогда не ОТа
+[01:25:18] Egor Lisin: а СЧОПА
+[01:25:59] Egor Lisin: СЧОПА
+[01:26:03] Egor Lisin: больщими буквами
+[01:26:09] Egor Lisin: и побольше шрифт
+[01:26:18] Client "FANCA" connected.
+[01:26:59] Egor Lisin: два
+[01:27:01] Egor Lisin: даже
+[01:27:07] Client "FANCA" spawned in server <STEAM_0:1:186047654> (took 49 seconds).
+[01:27:08] Egor Lisin: я пойду чекну, нарушают ли они
+[01:27:14] Egor Lisin: мб в джайл кину
+[01:27:19] Egor Lisin: да
+[01:27:26] Egor Lisin: !noclip
+[01:27:32] Egor Lisin cloaked Themself by amount 0
+[01:27:32] Egor Lisin: !cloak ^
+[01:27:37] Egor Lisin: норм
+[01:27:43] tixulax: /adminbeczhenec
+[01:29:57] Dropped "tixulax" from server<STEAM_0:0:512816751>
+[01:30:10] Client "tixulax" connected.
+[01:30:19] Egor Lisin jailed Люцик Трипл for 5000 seconds
+[01:30:19] Egor Lisin: !jail $STEAM_0:1:186047654 5000
+[01:31:42] Egor Lisin: [APG] !WARNING LAG DETECTED!
+[01:31:51] Client "tixulax" spawned in server <STEAM_0:0:512816751> (took 101 seconds).
+[01:33:10] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_junk/gascan001a.mdl
+[01:34:28] tixulax: /adminpocsilnij
+[01:34:35] tixulax: /me получил посылку
+[01:35:25] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituredresser001a.mdl
+[01:35:58] Жорка Дридмен: всё гэо всё ота все зомби все повстанцы
+[01:36:43] (TEAM) Жорка Дридмен: хуй
+[01:37:02] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_combine/headcrabcannister01a.mdl
+[01:37:14] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/lampshade001a.mdl
+[01:37:15] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:37:17] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/gravestone_cross001b.mdl
+[01:37:50] Egor Lisin unjailed Люцик Трипл
+[01:37:50] Egor Lisin: !unjail @
+[01:38:04] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[01:39:19] tixulax: Убирайся отсюда к чёрту!
+[01:39:23] Люцик Трипл: Извините
+[01:39:28] tixulax: /roll 6
+[01:39:32] Люцик Трипл: /roll
+[01:39:48] Люцик Трипл: ГО-шники
+[01:43:49] Люцик Трипл: /admingruzhcchik
+[01:45:38] Люцик Трипл: /me поднял коробку
+[01:45:47] Люцик Трипл: /me уронил коробку
+[01:45:53] Люцик Трипл: /me поднял коробку
+[01:46:06] Люцик Трипл: /me отдал коробку кладовщику
+[01:46:15] Люцик Трипл: /me поднял коробку
+[01:46:24] Люцик Трипл: /me отдал коробку кладовщику
+[01:46:32] Люцик Трипл: /me поднял коробку
+[01:46:34] Люцик Трипл: /me уронил коробку
+[01:46:36] Люцик Трипл: /me поднял коробку
+[01:46:45] Люцик Трипл: /me отдал коробку кладовщику
+[01:47:56] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_lab/filecabinet02.mdl
+[01:48:44] Люцик Трипл: /admingrazhdanicn
+[01:48:54] Egor Lisin froze Жорка Дридмен
+[01:49:00] Egor Lisin unfroze Жорка Дридмен
+[01:49:17] Egor Lisin uncloaked Themself
+[01:49:17] Egor Lisin: !uncloak ^
+[01:52:14] Egor Lisin: выключи
+[01:52:17] Egor Lisin: щас вайб
+[01:52:32] Egor Lisin: ВЫКЛЮЧИ
+[01:54:07] Жорка Дридмен: Дай 51 квд пж
+[01:54:12] Egor Lisin: да бля(
+[01:54:17] Egor Lisin: я сам коплю
+[01:54:19] (TEAM) Жорка Дридмен: ну ладно
+[01:54:53] Жорка Дридмен: /drop
+[01:55:37] Egor Lisin: /name Egor Tempest
+[01:55:37] Egor Lisin<STEAM_0:1:464427619> changed their name to Egor Tempest
+[01:55:38] Жорка Дридмен: Я УМИРАБ
+[01:55:59] Egor Tempest cloaked Themself by amount 0
+[01:55:59] Egor Tempest: !cloak ^
+[01:56:03] Egor Tempest teleported to Люцик Трипл
+[01:56:03] Egor Tempest: !goto Люцик
+[01:56:48] Egor Tempest: кмд ота
+[01:56:51] Egor Tempest: и кмд юнит
+[01:57:02] Egor Tempest: где то в нн
+[01:57:49] Egor Tempest brought Жорка Дридмен
+[01:57:49] Egor Tempest: !bring Жорка
+[01:58:32] Жорка Дридмен: /me  Снял штаны и трусы
+[01:59:48] Egor Tempest: /rpname @ Рудольф Добряков
+[02:00:00] Egor Tempest: /rpname @ Рудольф Добряков
+[02:00:16] Egor Tempest: /name @ Рудольф Добряков
+[02:02:02] Egor Tempest returned Жорка Дридмен to their original position
+[02:02:02] Egor Tempest: !return Жорка
+[02:03:52] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/metalladder003.mdl
+[02:04:11] Люцик Трипл: /admicnepu
+[02:07:24] Жорка Дридмен<STEAM_0:1:586636911> spawned model models/props_c17/furnituresink001a.mdl
+[02:07:30] Egor Tempest brought Люцик Трипл
+[02:07:38] Egor Tempest returned Люцик Трипл to their original position
+[02:07:38] Egor Tempest: !return @
+[02:07:44] Egor Tempest teleported to Люцик Трипл
+[02:07:44] Egor Tempest: !goto Люцик
+[02:08:05] Жорка Дридмен: /drop
+[02:09:58] Egor Tempest brought Люцик Трипл
+[02:09:58] Egor Tempest: !bring Люцик
+[02:13:26] Egor Tempest returned Themself to their original position
+[02:13:26] Egor Tempest: !return ^
+[02:13:31] Egor Tempest uncloaked Themself
+[02:13:31] Egor Tempest: !uncloak ^

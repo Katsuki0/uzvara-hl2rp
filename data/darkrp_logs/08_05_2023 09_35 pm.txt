@@ -1,0 +1,13 @@
+Sat Aug  5 21:35:32 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Sat Aug  5 21:35:32 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug  5 21:36:25 2023	vadimhalo (STEAM_0:0:172707452) has dropped 30 KWD
+Sat Aug  5 21:44:11 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug  5 21:44:17 2023	vadimhalo was killed by Entity [1007][trigger_hurt] with a trigger_hurt
+Sat Aug  5 21:44:39 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug  5 21:45:18 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug  5 21:45:27 2023	vadimhalo (STEAM_0:0:172707452): /lottery " "30
+Sat Aug  5 21:45:46 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug  5 22:09:41 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug  5 22:09:41 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug  5 22:09:43 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug  5 22:12:03 2023	vadimhalo (STEAM_0:0:172707452) disconnected

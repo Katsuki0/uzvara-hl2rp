@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "mooth Scroll"
+	"author_name" "Author Name"
+	"info" "{"title":"Smooth Scroll","type":"tool","tags":["fun","realism"],"ignore":[]}"
+}

@@ -1,0 +1,126 @@
+<Logging continued from "data/ulx_logs/08-13-23.txt">
+[00:02:11] (Console) removed all access rights from Я не Shapka
+[00:02:29] (Console) added Я не Shapka to group superadmin
+[00:02:33] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:02:47] vadimhalo: н
+
+
+
+[00:06:01] New map: rp_city11_sv
+
+
+
+[00:07:42] New map: rp_city11_sv
+[00:07:44] Client "Я не Shapka" connected.
+[00:08:17] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 33 seconds).
+[00:09:38] Client "vadimhalo" connected.
+[00:09:53] Dropped "Я не Shapka" from server<STEAM_0:0:45477833>
+[00:09:54] Client "Я не Shapka" connected.
+[00:10:25] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 47 seconds).
+[00:10:28] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 34 seconds).
+[00:11:42] Server is shutting down/changing levels.
+
+
+
+[00:12:05] New map: rp_city11_sv
+[00:12:39] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 44 seconds).
+[00:12:49] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 54 seconds).
+[00:13:13] Я не Shapka<STEAM_0:0:45477833> spawned model models/props_c17/furniturefridge001a.mdl
+[00:13:16] Я не Shapka<STEAM_0:0:45477833> spawned model models/props_c17/furnitureradiator001a.mdl
+[00:13:26] Я не Shapka<STEAM_0:0:45477833> spawned model models/props_c17/furnitureradiator001a.mdl
+[00:13:33] Я не Shapka<STEAM_0:0:45477833> spawned model models/props_c17/furniturebathtub001a.mdl
+[00:14:06] Я не Shapka<STEAM_0:0:45477833> spawned model models/props_c17/furnitureshelf001a.mdl
+[00:15:31] Я не Shapka: проп
+[00:15:34] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:15:45] (Console) added Я не Shapka to group operator_n
+[00:15:49] Я не Shapka: я
+[00:15:50] Я не Shapka: ебанусь
+[00:15:51] Я не Shapka: щас
+[00:15:59] (Console) added Я не Shapka to group superadmin
+[00:16:05] vadimhalo: может другим займёшься
+[00:16:09] vadimhalo: это не критично
+[00:16:15] Я не Shapka: а чем еще
+[00:16:17] Я не Shapka: я вроде все сделал
+[00:16:23] vadimhalo: удалять модеры
+[00:16:24] vadimhalo: могут?
+[00:16:38] vadimhalo: пропы
+[00:16:45] (Console) added Я не Shapka to group operator_n
+[00:17:05] Я не Shapka: Так
+[00:17:09] Я не Shapka: мб у тебя кастрированый фпп
+[00:17:23] vadimhalo: да наверно
+[00:17:30] vadimhalo: версия наверно в 2019
+
+
+
+[00:19:39] New map: rp_city11_sv
+[00:20:02] Client "vadimhalo" connected.
+[00:20:41] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 39 seconds).
+[00:21:38] vadimhalo<STEAM_0:0:172707452> spawned model models/props_borealis/bluebarrel001.mdl
+[00:21:39] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:21:39] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/door01_left.mdl
+[00:22:50] Client "Я не Shapka" connected.
+[00:23:24] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 34 seconds).
+[00:24:35] (Console) added Я не Shapka to group admin
+[00:24:58] (Console) removed all access rights from vadimhalo
+[00:25:09] (Console) added vadimhalo to group superadmin
+[00:25:13] (Console) added Я не Shapka to group superadmin
+[00:35:51] (Console) added Я не Shapka to group operator_n
+[00:36:00] (Console) added Я не Shapka to group admin
+[00:36:36] vadimhalo: давай спокойно, без паники
+[00:36:50] (TEAM) vadimhalo: удалять пропы модераторы могут?
+[00:36:54] Я не Shapka: нет
+[00:38:17] vadimhalo:  
+[00:38:47] (Console) added Я не Shapka to group superadmin
+[00:39:30] vadimhalo: 10 минут и я пойу, завтра на работу
+[00:39:42] Я не Shapka: бля
+[00:39:44] Я не Shapka: как проп оставить бы
+[00:39:52] Я не Shapka: щя кароче хочу проверить кто мне мозг ебет
+[00:39:53] vadimhalo: я не выключу комп
+[00:39:54] Я не Shapka: :haha:
+[00:39:57] Я не Shapka: перезагружу сервер пару раз
+[00:39:59] Я не Shapka: не уходи далеко
+[00:40:08] vadimhalo: в инвентаре
+[00:40:13] vadimhalo: нельзя предметы брать
+[00:40:19] Я не Shapka: USE?
+
+
+
+[00:41:56] New map: rp_city11_sv
+[00:42:18] Client "Я не Shapka" connected.
+[00:42:22] Client "vadimhalo" connected.
+[00:42:50] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 32 seconds).
+[00:43:02] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 40 seconds).
+[00:43:42] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:43:43] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/door01_left.mdl
+[00:43:43] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/furniturebed001a.mdl
+[00:43:52] Я не Shapka added Themself to group admin
+[00:43:56] vadimhalo: при старте ты наверно заметил ulx ошибки
+[00:44:15] Я не Shapka: да
+[00:44:25] vadimhalo: кароче если завтра ты будешь а меня не будет
+[00:44:30] vadimhalo: просто вызываешь любого модера
+[00:44:34] vadimhalo: на помощь
+[00:44:44] Я не Shapka: тоесть ты сервер закрытым держать будешь?
+[00:44:51] vadimhalo: пока не починим наверно да
+[00:44:51] (Console) added Я не Shapka to group superadmin
+[00:44:54] vadimhalo: что бы больше видео не делали
+[00:44:56] Я не Shapka: епт
+[00:44:57] vadimhalo: что сервер сломанный
+[00:45:01] Я не Shapka: ну дело твое
+[00:45:07] vadimhalo: всё спокойно
+[00:45:19] Я не Shapka: давай
+[00:46:34] Я не Shapka granted access "darkrp_admincommands" to group operator_n
+[00:46:38] Я не Shapka granted access "darkrp_seeevents" to group operator_n
+[00:46:42] Я не Shapka granted access "fpp_cleanup" to group operator_n
+[00:46:46] Я не Shapka granted access "darkrp_changedoorsettings" to group operator_n
+[00:46:46] Я не Shapka granted access "darkrp_getadminweapons" to group operator_n
+[00:46:47] Я не Shapka granted access "darkrp_setdoorowner" to group operator_n
+[00:46:48] Я не Shapka granted access "darkrp_setlicense" to group operator_n
+[00:46:48] Я не Shapka granted access "darkrp_setmoney" to group operator_n
+[00:46:50] Я не Shapka granted access "fpp_settings" to group operator_n
+[00:47:02] Я не Shapka added Themself to group operator_n
+[00:48:58] Dropped "vadimhalo" from server<STEAM_0:0:172707452>
+[00:53:00] Dropped "Я не Shapka" from server<STEAM_0:0:45477833>
+
+
+
+[10:57:34] New map: rp_city11_sv

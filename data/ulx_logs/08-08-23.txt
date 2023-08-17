@@ -1,0 +1,21 @@
+<Logging continued from "data/ulx_logs/08-07-23.txt">
+[15:43:21] Server is shutting down/changing levels.
+
+
+
+[15:43:45] New map: rp_city11_sv
+[15:46:46] Client "Я не Shapka" connected.
+[15:48:51] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 125 seconds).
+[15:53:18] Server is shutting down/changing levels.
+
+
+
+[15:53:41] New map: rp_city11_sv
+[15:54:17] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 45 seconds).
+[15:55:14] Garry Huffan: /setmoney shapka 1000
+[15:55:19] Garry Huffan: /admincpscanner
+[16:07:39] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+
+
+
+[20:48:14] New map: rp_city11_sv

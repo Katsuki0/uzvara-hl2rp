@@ -1,0 +1,6 @@
+12/08/2023 - 03:10:56 PM	Total Devastation(Joining/Connecting) connected from the server
+12/08/2023 - 03:11:05 PM	Total Devastation(Гражданин) entered 'discs_request'
+12/08/2023 - 03:11:07 PM	Total Devastation(Гражданин) entered 'discs_request'
+12/08/2023 - 03:11:10 PM	Total Devastation(Гражданин) said '/spectate'
+12/08/2023 - 03:11:10 PM	Total Devastation(Гражданин) entered '_FSpectatePosUpdate'
+12/08/2023 - 03:11:11 PM	Total Devastation(Гражданин) entered 'FSpectate_StopSpectating'

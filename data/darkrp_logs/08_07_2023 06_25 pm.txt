@@ -1,0 +1,11 @@
+Mon Aug  7 18:25:52 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Aug  7 18:25:52 2023	Garry Huffan (STEAM_0:0:45477833) spawned
+Mon Aug  7 18:26:25 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT ligyh_dispenser
+Mon Aug  7 18:29:22 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT storage_city1
+Mon Aug  7 18:29:52 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT storage_city2
+Mon Aug  7 18:30:07 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT storage_city2
+Mon Aug  7 18:31:20 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT hl2sys_cpterminal
+Mon Aug  7 18:31:44 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT bodyman_closet
+Mon Aug  7 18:32:15 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT bodyman_closet
+Mon Aug  7 18:32:21 2023	Garry Huffan (STEAM_0:0:45477833) spawned SENT stolprodaz
+Mon Aug  7 18:36:26 2023	Garry Huffan (STEAM_0:0:45477833) disconnected
