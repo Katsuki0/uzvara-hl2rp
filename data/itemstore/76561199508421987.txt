@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":0.0,"Ammo":0.0,"Class":"swb_smg","Model":"models/weapons/w_smg1.mdl","Clip2":0.0},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Clip1":45.0,"Ammo":855.0,"Class":"swb_smg","Model":"models/weapons/w_smg1.mdl","Clip2":0.0},"Class":"spawned_weapon"}]

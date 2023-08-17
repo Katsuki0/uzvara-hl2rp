@@ -1,0 +1,1370 @@
+<Logging continued from "data/ulx_logs/08-09-23.txt">
+[20:51:09] Client "vadimhalo" connected.
+[20:53:07] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 118 seconds).
+[20:54:11] vadimhalo: !menu
+[20:54:18] vadimhalo установил Themself профессию  UNIT.PILOT
+[20:59:45] Client "nonrp" connected.
+[21:00:51] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 66 seconds).
+[21:02:15] Dropped "nonrp" from server<STEAM_0:1:575008216>
+[21:02:16] Client "♥schitrelz♥" connected.
+[21:03:35] Client "Total Devastation" connected.
+[21:03:41] Client "♥schitrelz♥" spawned in server <STEAM_0:1:539647546> (took 85 seconds).
+[21:04:42] Client "кирилл буданов" connected.
+[21:04:48] Client "Total Devastation" spawned in server <STEAM_0:1:487509974> (took 73 seconds).
+[21:05:29] Client "💀 SCP-173 💀(UA)" connected.
+[21:05:46] Client "nonrp" connected.
+[21:06:13] ♥schitrelz♥: /adminpocsilnij
+[21:06:26] ♥schitrelz♥: /me получил посылку
+[21:07:01] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 75 seconds).
+[21:07:17] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 155 seconds).
+[21:07:52] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/gravestone001a.mdl
+[21:08:07] ♥schitrelz♥: /me получил посылку
+[21:08:40] Client "www.twitch.tv/lzxcresloebatell" connected.
+[21:09:08] Client "💀 SCP-173 💀(UA)" spawned in server <STEAM_0:0:480303422> (took 219 seconds).
+[21:09:14] ♥schitrelz♥: /me получил посылку
+[21:09:28] анимепсих: /adminucnit1
+[21:09:35] Client "www.twitch.tv/lzxcresloebatell" spawned in server <STEAM_0:1:189765948> (took 55 seconds).
+[21:10:29] Total Devastation: // есть тот, у кого не куплены профы ГСР?
+[21:10:38] Total Devastation: // это нужно для статистики одной
+[21:10:38] ZXCRESLOEBATEL: // +
+[21:10:46] ♥schitrelz♥: /me получил посылку
+[21:11:02] анимепсих killed nonrp using weapon_stunstick2
+[21:11:07] анимепсих: // +
+[21:11:17] анимепсих: // рации у го нет xd
+[21:11:17] ZXCRESLOEBATEL: /adminpishevojcsnabditel
+[21:11:25] ZXCRESLOEBATEL: // есть
+[21:11:28] анимепсих: // нет
+[21:11:31] nonrp: // +
+[21:11:34] ZXCRESLOEBATEL: // должны быть
+[21:11:39] анимепсих: // я щас за го и не вижу рации
+[21:12:02] ♥schitrelz♥: /me получил посылку
+[21:12:13] анимепсих: разнорабочий
+[21:12:15] nonrp: \
+[21:12:15] анимепсих: 95
+[21:12:21] анимепсих: доктор и глава хуй знает
+[21:12:27] анимепсих: разноробчоий 95
+[21:12:31] анимепсих: так а зачем нам эо смотреть
+[21:12:32] анимепсих: у вадима есть файлы
+[21:12:36] анимепсих: там он цену сам ставил
+[21:12:43] анимепсих: какая статистка
+[21:12:46] Client "Кэлт" connected.
+[21:12:54] 💀 SCP-173 💀(UA): /adminzomcbie1
+[21:13:02] анимепсих: так это все есть в файлах сервера?
+[21:13:06] анимепсих: попроси у  вадима файлик
+[21:13:13] анимепсих: 1 файл
+[21:13:15] анимепсих: за профы отвечает
+[21:13:20] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 34 seconds).
+[21:13:20] ♥schitrelz♥: /me получил посылку
+[21:13:21] анимепсих: тхт
+[21:13:22] анимепсих: обычный
+[21:13:39] nonrp: /adminvoedagaweqwr
+[21:13:56] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:14:07] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/furnituretable001a.mdl
+[21:14:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:14:51] ♥schitrelz♥: /me получил посылку
+[21:14:58] Client "Паралич мозга" connected.
+[21:15:02] ZXCRESLOEBATEL: // блять а барных стульев нету?
+[21:15:07] Client "❤ Konsuni ❤" connected.
+[21:15:09] Client "Assassinkz" connected.
+[21:15:09] анимепсих: // нет
+[21:15:11] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/utilitypole01a.mdl
+[21:15:12] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/gravestone_cross001b.mdl
+[21:15:13] ZXCRESLOEBATEL: // бляяяяя
+[21:15:13] анимепсих<STEAM_0:1:59432880> spawned model models/props_junk/cardboard_box003a.mdl
+[21:15:21] vadimhalo brought ZXCRESLOEBATEL,nonrp,Кэлт,анимепсих,💀 SCP-173 💀(UA)
+[21:15:21] vadimhalo: !bring *
+[21:15:28] Client "Zafe" connected.
+[21:15:31] nonrp: /adminpishevojcsnabditel
+[21:15:44] nonrp: Вы должны подождать еще 68 секунд до использования /job!
+[21:15:51] nonrp: /adminrazcnorcabochij
+[21:15:51] Total Devastation: /admgfawqsilnij
+[21:15:59] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[21:16:00] nonrp: /adminfsaqwrtzhcchik
+[21:16:00] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[21:16:06] nonrp: /adminfsaqwrtzhcchik
+[21:16:06] анимепсих: /adminpocsilnij
+[21:16:14] Client "Паралич мозга" spawned in server <STEAM_0:1:672992849> (took 76 seconds).
+[21:16:15] nonrp: /adminfsaqwrtzhcchik
+[21:16:22] анимепсих: /admingruzhcchik
+[21:16:24] nonrp: /adminfsaqwrtzhcchik
+[21:16:28] nonrp: /adminfsaqwrtzhcchik
+[21:16:31] ♥schitrelz♥: /me получил посылку
+[21:16:33] nonrp: /adminfsaqwrtzhcchik
+[21:16:34] Кэлт: /adminpocsilnij
+[21:16:35] Client "❤ Konsuni ❤" spawned in server <STEAM_0:1:464427619> (took 88 seconds).
+[21:16:38] nonrp: /adminfsaqwrtzhcchik
+[21:16:38] Кэлт: /admingruzhcchik
+[21:16:41] nonrp: /adminfsaqwrtzhcchik
+[21:16:42] Кэлт: /adminpishevojcsnabditel
+[21:17:06] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001.mdl
+[21:17:08] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001.mdl
+[21:17:13] анимепсих: /adminpocsilnij
+[21:17:13] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/furnituretable001a.mdl
+[21:17:14] анимепсих: /adminpishevojcsnabditel
+[21:17:30] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:17:30] Client "Assassinkz" spawned in server <STEAM_0:1:63544152> (took 141 seconds).
+[21:17:34] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:17:48] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:17:50] ♥schitrelz♥: /me получил посылку
+[21:17:53] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:17:55] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:17:59] Кэлт: /me поднял коробку
+[21:18:02] ZXCRESLOEBATEL: /advert 
+[21:18:04] Client "Zafe" spawned in server <STEAM_0:1:186490161> (took 156 seconds).
+[21:18:10] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/triangles/3x3x2.mdl
+[21:18:10] Кэлт: /me отдал коробку кладовщику
+[21:18:19] анимепсих: /adminpishevojcsnabditel
+[21:18:20] vadimhalo: !menu
+[21:18:26] ZXCRESLOEBATEL: /advert Открылась пекарня - "У свиньи"! Приходите! Мы на ГП
+[21:18:29] анимепсих: Понятно
+[21:18:30] Egor Lisin: /adminpocsilnij
+[21:18:30] vadimhalo added Total Devastation to group admin
+[21:18:32] nonrp: // Дай деньги
+[21:18:36] Кэлт: /me поднял коробку
+[21:18:46] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/triangles/3x2x2.mdl
+[21:18:51] Кэлт: /me отдал коробку кладовщику
+[21:18:56] nonrp: // медик не может спавнить принтеры
+[21:19:04] Assassinkz: /adminrazcnorcabochij
+[21:19:05] ZXCRESLOEBATEL: // лох
+[21:19:15] Cherr Tait: /ooc разочарование 
+[21:19:24] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x8.mdl
+[21:19:26] ♥schitrelz♥: /me получил посылку
+[21:19:28] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x4d.mdl
+[21:19:32] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x4d.mdl
+[21:19:35] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_tube.mdl
+[21:19:35] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x4c.mdl
+[21:19:36] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/harpoon002a.mdl
+[21:19:38] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/meathook001a.mdl
+[21:19:45] анимепсих: /me поднял коробку
+[21:19:45] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/meathook001a.mdl
+[21:19:46] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x05.mdl
+[21:19:52] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/meathook001a.mdl
+[21:19:53] nonrp: /adminrazcnorcabochij
+[21:19:53] анимепсих: /me уронил коробку
+[21:20:04] анимепсих: /me поднял коробку
+[21:20:13] анимепсих: /me отдал коробку кладовщику
+[21:20:14] Кэлт: /me поднял коробку
+[21:20:14] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:20:16] Кэлт: /me поднял коробку
+[21:20:20] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_debris/metal_panel02a.mdl
+[21:20:22] анимепсих: /me поднял коробку
+[21:20:28] Кэлт: /me отдал коробку кладовщику
+[21:20:30] Egor Lisin: /adminrazcnorcabochij
+[21:20:31] Zafe: /adminomoshnik
+[21:20:32] анимепсих: /me отдал коробку кладовщику
+[21:20:39] Кэлт: /me поднял коробку
+[21:20:40] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[21:20:40] ♥schitrelz♥: /me получил посылку
+[21:20:40] анимепсих: /me поднял коробку
+[21:20:42] Zafe: /adminrazcnorcabochij
+[21:20:49] Кэлт: /me отдал коробку кладовщику
+[21:20:50] анимепсих: /me отдал коробку кладовщику
+[21:20:56] анимепсих: /me поднял коробку
+[21:21:04] Кэлт: /me поднял коробку
+[21:21:07] анимепсих: /me отдал коробку кладовщику
+[21:21:13] Dropped "Total Devastation" from server<STEAM_0:1:487509974>
+[21:21:13] Client "Total Devastation" connected.
+[21:21:13] анимепсих: /me поднял коробку
+[21:21:15] Кэлт: /me отдал коробку кладовщику
+[21:21:22] анимепсих: /me отдал коробку кладовщику
+[21:21:24] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:26] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:27] Кэлт: /me поднял коробку
+[21:21:28] анимепсих: /me поднял коробку
+[21:21:30] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:33] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:35] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:36] Client "Total Devastation" spawned in server <STEAM_0:1:487509974> (took 23 seconds).
+[21:21:36] Кэлт: /me отдал коробку кладовщику
+[21:21:37] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:39] анимепсих: /me отдал коробку кладовщику
+[21:21:40] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/hev_case.mdl
+[21:21:41] Assassinkz: /admingruzhcchik
+[21:21:42] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/hunter/tubes/tube2x2x1.mdl
+[21:21:42] Кэлт: /me поднял коробку
+[21:21:46] анимепсих: /me поднял коробку
+[21:21:46] Cherr Tait: /adminpocsilnij
+[21:21:50] Cherr Tait: /admingruzhcchik
+[21:21:51] ♥schitrelz♥: /me получил посылку
+[21:21:52] Egor Lisin: /admingruzhcchik
+[21:21:52] Assassinkz: /adminpocsilnij
+[21:21:52] Кэлт: /me отдал коробку кладовщику
+[21:21:55] анимепсих: /me отдал коробку кладовщику
+[21:21:57] Cherr Tait: /adminpishevojcsnabditel
+[21:22:00] Кэлт: /me поднял коробку
+[21:22:03] Total Devastation: /admgfawqsilnij
+[21:22:03] анимепсих: /me поднял коробку
+[21:22:08] ZXCRESLOEBATEL: /advert Открылась пекарня - "У свиньи"! Приходите! Мы на ГП
+[21:22:09] Zafe: /admingruzhcchik
+[21:22:11] Кэлт: /me отдал коробку кладовщику
+[21:22:13] Assassinkz: /adminpocsilnij
+[21:22:13] анимепсих: /me отдал коробку кладовщику
+[21:22:16] Assassinkz: /admingruzhcchik
+[21:22:19] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/sp_screen.mdl
+[21:22:19] анимепсих: /me поднял коробку
+[21:22:21] Кэлт: /me поднял коробку
+[21:22:22] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[21:22:29] анимепсих: /me отдал коробку кладовщику
+[21:22:31] Кэлт: /me отдал коробку кладовщику
+[21:22:35] анимепсих: /me поднял коробку
+[21:22:38] Total Devastation: !menu
+[21:22:40] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[21:22:41] анимепсих: /me уронил коробку
+[21:22:46] nonrp: //  принтеры
+[21:22:47] анимепсих: /me поднял коробку
+[21:22:47] Total Devastation: !menu
+[21:22:49] Кэлт: /me поднял коробку
+[21:22:57] анимепсих: /me отдал коробку кладовщику
+[21:22:59] Кэлт: /me отдал коробку кладовщику
+[21:23:00] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/blastdoor001a.mdl
+[21:23:04] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/servers.mdl
+[21:23:07] ♥schitrelz♥: /me получил посылку
+[21:23:07] анимепсих: /me поднял коробку
+[21:23:15] Кэлт: /me поднял коробку
+[21:23:16] анимепсих: /me отдал коробку кладовщику
+[21:23:25] Кэлт: /me отдал коробку кладовщику
+[21:23:26] анимепсих: /me поднял коробку
+[21:23:28] Total Devastation: /drop
+[21:23:35] Egor Lisin: !menu
+[21:23:35] анимепсих: /me отдал коробку кладовщику
+[21:23:35] Zafe: /admingruzhcchik
+[21:23:37] Кэлт: /me поднял коробку
+[21:23:37] Total Devastation: !menu
+[21:23:39] Zafe: /admingruzhcchik
+
+
+
+[21:25:03] New map: rp_city11_sv
+[21:25:06] Client "кирилл буданов" connected.
+[21:25:12] Client "Zafe" connected.
+[21:25:13] Client "Assassinkz" connected.
+[21:25:13] Client "Total Devastation" connected.
+[21:25:15] Client "nonrp" connected.
+[21:25:17] Client "❤ Konsuni ❤" connected.
+[21:25:38] Client "Кэлт" connected.
+[21:25:42] Client "♥schitrelz♥" connected.
+[21:25:44] Client "💀 SCP-173 💀(UA)" connected.
+[21:25:47] Client "Total Devastation" spawned in server <STEAM_0:1:487509974> (took 34 seconds).
+[21:25:47] Client "Zafe" spawned in server <STEAM_0:1:186490161> (took 35 seconds).
+[21:25:54] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 39 seconds).
+[21:26:04] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 26 seconds).
+[21:26:10] Total Devastation: /admgfawqsilnij
+[21:26:11] Client "Assassinkz" spawned in server <STEAM_0:1:63544152> (took 58 seconds).
+[21:26:19] Client "♥schitrelz♥" spawned in server <STEAM_0:1:539647546> (took 37 seconds).
+[21:26:37] Client "Я не Shapka" connected.
+[21:26:41] Client "💀 SCP-173 💀(UA)" spawned in server <STEAM_0:0:480303422> (took 57 seconds).
+[21:26:57] nonrp: /adminpocsilnij
+[21:27:00] nonrp: /me получил посылку
+[21:27:04] Кэлт: /admingruzhcchik
+[21:27:13] Client "❤ Konsuni ❤" spawned in server <STEAM_0:1:464427619> (took 116 seconds).
+[21:27:30] Zafe: /admingruzhcchik
+[21:27:33] ♥schitrelz♥: /adminpocsilnij
+[21:27:44] ♥schitrelz♥: /admingruzhcchik
+[21:27:46] Egor Lisin: !mask
+[21:27:49] Кэлт: /me поднял коробку
+[21:27:52] Egor Lisin: !adm
+[21:27:58] Client "Паралич мозга" connected.
+[21:27:58] ♥schitrelz♥: /adminrazcnorcabochij
+[21:27:59] Кэлт: /me отдал коробку кладовщику
+[21:28:07] Кэлт: /me поднял коробку
+[21:28:09] Assassinkz: /admingruzhcchik
+[21:28:18] Кэлт: /me отдал коробку кладовщику
+[21:28:18] nonrp: верните мне деньги за принтеров
+[21:28:23] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 197 seconds).
+[21:28:25] Egor Lisin: /adminpocsilnij
+[21:28:28] Кэлт: /me поднял коробку
+[21:28:28] Client "www.twitch.tv/lzxcresloebatell" connected.
+[21:28:32] nonrp: нет сейчас
+[21:28:37] Client "Паралич мозга" spawned in server <STEAM_0:1:672992849> (took 39 seconds).
+[21:28:38] Кэлт: /me отдал коробку кладовщику
+[21:28:44] nonrp: Ну я бомж Дай деньги чуть-чуть
+[21:28:54] Кэлт: /me поднял коробку
+[21:28:58] Egor Lisin: /adminpishevojcsnabditel
+[21:28:58] Client "www.twitch.tv/lzxcresloebatell" spawned in server <STEAM_0:1:189765948> (took 30 seconds).
+[21:29:00] nonrp: Ну я бомж Дай деньги чуть-чуть
+[21:29:02] Assassinkz: /adminpishevojcsnabditel
+[21:29:04] Кэлт: /me отдал коробку кладовщику
+[21:29:08] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 151 seconds).
+[21:29:18] nonrp: /me получил посылку
+[21:29:19] Кэлт: /me поднял коробку
+[21:29:22] Total Devastation: /drop
+[21:29:29] Кэлт: /me отдал коробку кладовщику
+[21:29:34] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/blocks/cube1x2x1.mdl
+[21:29:36] ZXCRESLOEBATEL: Зачем?
+[21:29:40] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:29:41] Кэлт: /me поднял коробку
+[21:29:45] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/blocks/cube1x3x1.mdl
+[21:29:49] ZXCRESLOEBATEL: Понятно
+[21:29:50] ZXCRESLOEBATEL: Зачем?
+[21:29:50] ZXCRESLOEBATEL: Берегись!
+[21:29:51] Кэлт: /me отдал коробку кладовщику
+[21:29:52] ZXCRESLOEBATEL: Берегись!
+[21:29:52] анимепсих: Потрясающе
+[21:29:53] ZXCRESLOEBATEL: Берегись!
+[21:29:55] ZXCRESLOEBATEL: Берегись!
+[21:29:56] ZXCRESLOEBATEL: Берегись!
+[21:29:57] ZXCRESLOEBATEL: Берегись!
+[21:29:58] ZXCRESLOEBATEL: Берегись!
+[21:29:59] ZXCRESLOEBATEL: Берегись!
+[21:30:01] Кэлт: /me поднял коробку
+[21:30:02] ZXCRESLOEBATEL: Берегись!
+[21:30:02] Кэлт: /me поднял коробку
+[21:30:03] Кэлт: /me уронил коробку
+[21:30:04] Кэлт: /me уронил коробку
+[21:30:05] Кэлт: /me поднял коробку
+[21:30:06] ZXCRESLOEBATEL: Берегись!
+[21:30:06] Кэлт: /me уронил коробку
+[21:30:08] ZXCRESLOEBATEL: Берегись!
+[21:30:08] Кэлт: /me поднял коробку
+[21:30:09] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001.mdl
+[21:30:12] Кэлт: /me уронил коробку
+[21:30:14] Кэлт: /me поднял коробку
+[21:30:14] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/door02_double.mdl
+[21:30:18] ZXCRESLOEBATEL: /adminpocsilnij
+[21:30:24] nonrp: /admingrazhdanicn
+[21:30:25] Кэлт: /me отдал коробку кладовщику
+[21:30:25] ZXCRESLOEBATEL: Берегись!
+[21:30:27] 💀 SCP-173 💀(UA): ДРОБАШ ОДАЙ
+[21:30:31] Egor Lisin<STEAM_0:1:464427619> spawned model models/hunter/blocks/cube1x2x1.mdl
+[21:30:34] ZXCRESLOEBATEL: /adminpocsilnij
+[21:30:36] Кэлт: /me поднял коробку
+[21:30:37] ZXCRESLOEBATEL: /me получил посылку
+[21:30:46] Кэлт: /me отдал коробку кладовщику
+[21:31:01] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/2x2x2.mdl
+[21:31:04] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[21:31:08] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[21:31:14] Cherr Tait: /ooc вадим, дай пожалуйста денег на дверь и муку, у меня 4 квд 
+[21:31:15] Zafe: /me поднял коробку
+[21:31:18] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate05x075.mdl
+[21:31:24] Кэлт: /adminpishevojcsnabditel
+[21:31:26] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate075x075.mdl
+[21:31:29] Zafe: /me отдал коробку кладовщику
+[21:31:31] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate075x075.mdl
+[21:31:37] Cherr Tait: /adminpishevojcsnabditel
+[21:31:40] ZXCRESLOEBATEL: /me получил посылку
+[21:31:44] Cherr Tait: /admingruzhcchik
+[21:32:02] ZXCRESLOEBATEL: Зачем?
+[21:32:04] ZXCRESLOEBATEL: Зачем?
+[21:32:04] ZXCRESLOEBATEL: Зачем?
+[21:32:05] ZXCRESLOEBATEL: Зачем?
+[21:32:06] ZXCRESLOEBATEL: Зачем?
+[21:32:07] ZXCRESLOEBATEL: Зачем?
+[21:32:14] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:32:35] Cherr Tait: /adminpocsilnij
+[21:32:51] ZXCRESLOEBATEL: /me получил посылку
+[21:32:57] Client "vadimhalo" connected.
+[21:33:29] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 32 seconds).
+[21:33:52] ZXCRESLOEBATEL: Понятно
+[21:33:57] Cherr Tait: /adminfsaqwrtzhcchik
+[21:33:58] Client "Активный гомес" connected.
+[21:34:32] Cherr Tait: /admgfawqsilnij
+[21:34:39] анимепсих: /drop
+[21:34:40] Client "Активный гомес" spawned in server <STEAM_0:0:502703877> (took 42 seconds).
+[21:34:42] Cherr Tait: /admgfawqsilnij
+[21:34:46] Cherr Tait: /admgfawqsilnij
+[21:34:54] 💀 SCP-173 💀(UA): /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:34:57] Cherr Tait: /adminfsaqwrtzhcchik
+[21:35:33] Total Devastation: !menu
+[21:35:37] Total Devastation brought Zafe
+[21:35:47] Zafe: /admgfawqsilnij
+[21:35:49] Zafe: /adminfsaqwrtzhcchik
+[21:35:52] ZXCRESLOEBATEL: /me получил посылку
+[21:36:38] ZXCRESLOEBATEL: Понятно
+[21:36:39] ZXCRESLOEBATEL: Понятно
+[21:36:39] ZXCRESLOEBATEL: Понятно
+[21:36:40] ZXCRESLOEBATEL: Понятно
+[21:36:46] Total Devastation: !menu
+[21:36:58] анимепсих: /adminomoshnik
+[21:36:59] ZXCRESLOEBATEL: /me получил посылку
+[21:36:59] Total Devastation: !noclip
+[21:37:01] Total Devastation: !noclip
+[21:37:05] анимепсих: !noclip
+[21:37:08] анимепсих cloaked Themself by amount 0
+[21:37:08] анимепсих: !cloak ^
+[21:37:10] Total Devastation: !noclip
+[21:37:10] ♥schitrelz♥: /admicnunit5
+[21:37:51] ZXCRESLOEBATEL: /admicnepu
+[21:38:17] анимепсих uncloaked Themself
+[21:38:17] анимепсих: !uncloak ^
+[21:38:22] анимепсих: /adminvorctigont
+[21:38:27] анимепсих: !noclip
+[21:38:28] анимепсих cloaked Themself by amount 0
+[21:38:28] анимепсих: !cloak ^
+[21:38:32] Egor Lisin: /adminomoshnik
+[21:38:33] Кэлт: /adminucnit1
+[21:38:39] Assassinkz: /adminucnit1
+[21:38:40] Egor Lisin: !menu
+[21:38:44] Zafe: /adminomoshnik
+[21:38:50] Zafe: /adminomoshnik
+[21:38:52] Zafe: /admgfawqsilnij
+[21:38:54] Egor Lisin cloaked Themself by amount 255
+[21:39:10] Egor Lisin: !noclip
+[21:39:11] Активный гомес: /admicnepu
+[21:39:15] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:39:15] Egor Lisin: !noclip
+[21:39:16] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:39:16] ♥schitrelz♥: /adminotcaunion1
+[21:39:18] Кэлт: мы открыть не можем
+[21:39:20] анимепсих: /adminvorctigont
+[21:39:21] Кэлт: пиздец
+[21:39:31] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:39:44] Egor Lisin: /admincocmbinesniper
+[21:39:47] Egor Lisin: !noclip
+[21:39:48] ♥schitrelz♥: /adminotcaunion1
+[21:39:51] Cherr Tait: /admindezcertir
+[21:40:01] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:03] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001a.mdl
+[21:40:10] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:10] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001a.mdl
+[21:40:11] анимепсих: !menu
+[21:40:12] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:13] ♥schitrelz♥: /admincocmbinesniper
+[21:40:19] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:21] nonrp: /admintorcgovec
+[21:40:23] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001a.mdl
+[21:40:29] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:30] анимепсих: !menu
+[21:40:30] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001a.mdl
+[21:40:41] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/wood_crate002a.mdl
+[21:40:42] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:47] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001a.mdl
+[21:40:51] ZXCRESLOEBATEL: /adminotcaelitee1
+[21:40:55] Garry Huffan: /adminucnit1
+[21:40:57] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001a.mdl
+[21:41:05] Egor Lisin: /admincocmbinesniper
+[21:41:10] Egor Lisin uncloaked Themself
+[21:41:10] Egor Lisin: !uncloak
+[21:41:16] Egor Lisin cloaked Themself by amount 0
+[21:41:16] Egor Lisin: !cloak
+[21:41:17] анимепсих uncloaked Themself
+[21:41:17] анимепсих: !uncloak ^
+[21:41:24] анимепсих cloaked Themself by amount 0
+[21:41:24] анимепсих: !cloak ^
+[21:41:28] Egor Lisin uncloaked Themself
+[21:41:28] Egor Lisin: !uncloak
+[21:41:29] анимепсих uncloaked Themself
+[21:41:29] анимепсих: !uncloak ^
+[21:41:39] анимепсих: !бан
+[21:41:41] Egor Lisin: !menu
+[21:41:43] анимепсих: !бан @ perm лох
+[21:42:07] nonrp: /admindezcertir
+[21:42:10] анимепсих: !noclip
+[21:42:21] Egor Lisin: /admincocmbinesniper
+[21:42:38] Egor Lisin: !noclip
+[21:42:39] ♥schitrelz♥: /adminotcaelitee1
+[21:42:44] Egor Lisin was killed by trigger_hurt
+[21:42:51] nonrp: /admindezcertir
+[21:42:52] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/display_cooler01a.mdl
+[21:42:56] Egor Lisin: !return Egor
+[21:43:00] nonrp: /admindezcertir
+[21:43:05] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/display_cooler01a.mdl
+[21:43:08] nonrp: /admindezcertir
+[21:43:10] ♥schitrelz♥: /adminotcaelitee1
+[21:43:12] Garry Huffan: Вашу сид карту
+[21:43:14] nonrp: /admindezcertir
+[21:43:18] ♥schitrelz♥: /adminotcaelitee1
+[21:43:18] nonrp: /admindezcertir
+[21:43:18] Garry Huffan: уволены
+[21:43:19] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/display_cooler01a.mdl
+[21:43:23] nonrp: /admindezcertir
+[21:43:57] Egor Lisin: !noclip
+[21:44:03] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/consolebox01a.mdl
+[21:44:08] Egor Lisin: !noclip
+[21:44:13] Egor Lisin: /admindezcertir
+[21:44:17] nonrp: Проверить
+[21:44:20] nonrp: Назад
+[21:44:43] Egor Lisin: /admindezcertir
+[21:44:58] Egor Lisin: /pm STEAM_0:1:672992849 дай дезера попробовать
+[21:45:10] Egor Lisin: /pm STEAM_0:1:672992849 пожалуйста
+[21:45:12] анимепсих: /adminvoecnnij
+[21:45:16] анимепсих: !noclip
+[21:45:19] Egor Lisin: /admindezcertir
+[21:45:32] Egor Lisin: // met v2
+[21:45:36] Egor Lisin: // дай погонять
+[21:45:39] Egor Lisin: /admindezcertir
+[21:45:39] анимепсих: !noclip
+[21:45:50] анимепсих: !noclip
+[21:45:56] nonrp: // ok
+[21:45:57] анимепсих: /adminotcaheavy1
+[21:46:01] Egor Lisin: // спс
+[21:46:03] Egor Lisin: /admindezcertir
+[21:46:06] Cherr Tait: /admingrazhdanicn
+[21:46:08] Egor Lisin: /admindezcertir
+[21:46:16] Total Devastation: !menu
+[21:46:22] анимепсих: /adminotcaheavy1
+[21:46:29] Активный гомес: /admicnunit5
+[21:46:35] Zafe: /admgoroda
+[21:46:35] Zafe was killed by trigger_hurt
+[21:46:46] Кэлт: /admincocmbinesniper
+[21:46:51] Garry Huffan: /admincunitmedic
+[21:46:52] Assassinkz: /adminotcaheavy1
+[21:46:58] ZXCRESLOEBATEL: /adminomoshnik
+[21:47:03] Total Devastation: /admgoroda
+[21:47:03] Total Devastation was killed by trigger_hurt
+[21:47:07] Total Devastation: !menu
+[21:47:11] анимепсих: /adminotcaelitee1
+[21:47:12] nonrp: /admicnepu
+[21:47:15] Кэлт: Прикрой
+[21:47:20] Assassinkz: Прикрой
+[21:47:23] анимепсих: /adminotcaelitee1
+[21:47:30] (SILENT) Total Devastation Respawned Themself
+[21:47:33] Cherr Tait: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:47:58] анимепсих: /adminotcaelitee1
+[21:48:05] Total Devastation brought Zafe
+[21:48:07] Total Devastation: !menu
+[21:48:11] анимепсих: /adminotcaelitee1
+[21:48:11] Cherr Tait: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:48:15] анимепсих: /adminotcaelitee1
+[21:48:20] Egor Lisin: ц
+[21:48:26] Total Devastation установил Zafe профессию  Администратор города
+[21:48:26] Zafe was killed by trigger_hurt
+[21:48:38] анимепсих: /adminotcaheavy1
+[21:48:39] Cherr Tait: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:48:53] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:48:59] Кэлт: /adminotcaelitee1
+[21:49:01] (TEAM) nonrp: всем юнитом на строй около выхода
+[21:49:03] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:49:07] (SILENT) Total Devastation Respawned Zafe
+[21:49:08] Cherr Tait: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:49:10] Total Devastation brought Zafe
+[21:49:10] Кэлт: /adminotcaheavy1
+[21:49:13] Кэлт: /adminotcaelitee1
+[21:49:13] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:49:14] (TEAM) ZXCRESLOEBATEL: отсоси
+[21:49:21] (TEAM) анимепсих: + пошел нах
+[21:49:29] (TEAM) Кэлт: че за нахуй
+[21:49:29] Cherr Tait: /admicnepu
+[21:49:29] (TEAM) Assassinkz: рп имба
+[21:49:32] Cherr Tait: /admicnunit5
+[21:49:33] (TEAM) Egor Lisin: реально, иди нахуй
+[21:49:35] анимепсих: сори
+[21:49:38] Cherr Tait: /admicnunit4
+[21:49:38] Кэлт: /adminotcaheavy1
+[21:49:39] (TEAM) ZXCRESLOEBATEL: жопа жопа жопа\
+[21:49:44] Zafe: /admicnepu
+[21:49:45] (TEAM) ZXCRESLOEBATEL: пися попа член
+[21:49:46] анимепсих: я тя щас убью
+[21:49:46] Кэлт: /adminotcaelitee1
+[21:49:47] (TEAM) nonrp: всем юнитом на строй около выхода
+[21:49:48] Кэлт: /adminotcaheavy1
+[21:49:52] Кэлт: /adminotcasecurity1
+[21:49:53] Garry Huffan: /admgoroda
+[21:49:55] Total Devastation: !menu
+[21:50:00] vadimhalo: /logs
+[21:50:00] анимепсих: Вас понял!
+[21:50:01] анимепсих: Готов!
+[21:50:05] ZXCRESLOEBATEL: Вас понял!
+[21:50:07] vadimhalo: !log
+[21:50:08] ZXCRESLOEBATEL: Жду указаний!
+[21:50:08] vadimhalo: /logs
+[21:50:09] ZXCRESLOEBATEL: Выдвигаюсь!
+[21:50:10] vadimhalo: logs
+[21:50:10] ZXCRESLOEBATEL: Вижу цель!
+[21:50:12] ♥schitrelz♥: Чисто!
+[21:50:21] Egor Lisin: /admicnunit5
+[21:50:21] nonrp: Хочешь в участок?
+[21:50:23] Egor Lisin: /admicnunit4
+[21:50:24] nonrp: Первое предупреждение
+[21:50:29] nonrp: Нарушитель
+[21:50:38] анимепсих: !
+[21:50:43] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[21:50:43] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[21:50:43] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[21:50:44] Egor Lisin: /admincpscanner
+[21:50:48] анимепсих: пон?
+[21:50:52] Total Devastation: !menu
+[21:50:55] анимепсих: ?
+[21:51:08] анимепсих: я вас щас убью
+[21:51:10] vadimhalo: /admincpscanner
+[21:51:10] nonrp: причина убийства антигражданский
+[21:51:18] nonrp killed Zafe using player
+[21:51:26] Кэлт killed анимепсих using player
+[21:51:27] Активный гомес: /admincocmbinesniper
+[21:51:27] Total Devastation: !menu
+[21:51:29] 💀 SCP-173 💀(UA): /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:51:31] (SILENT) Total Devastation Respawned Zafe
+[21:51:37] Total Devastation brought Zafe
+[21:51:42] Zafe: /admgoroda
+[21:51:49] Egor Lisin: !menu
+[21:51:51] ZXCRESLOEBATEL: Вижу цель!
+[21:52:00] Garry Huffan: /admingrazhdanicn
+[21:52:16] Total Devastation: !menu
+[21:52:20] анимепсих: !spawn ^
+[21:52:20] Кэлт: /adminotcaheavy1
+[21:52:22] анимепсих: !menu
+[21:52:28] Zafe: /admgoroda
+[21:52:28] Zafe was killed by trigger_hurt
+[21:52:29] анимепсих: !noclip
+[21:52:40] 💀 SCP-173 💀(UA): /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:52:43] Кэлт: /adminotcaelitee1
+[21:52:43] Total Devastation: !noclip
+[21:52:47] Egor Lisin: /citizen
+[21:52:51] Кэлт: /adminotcaheavy1
+[21:53:00] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:00] анимепсих: !menu
+[21:53:01] Garry Huffan: /admgoroda
+[21:53:01] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:04] анимепсих to admins: message
+[21:53:07] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:24] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:24] анимепсих: /admincocmbinesniper
+[21:53:25] Total Devastation: !noclip
+[21:53:30] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[21:53:32] Total Devastation: !menu
+[21:53:33] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:34] анимепсих<STEAM_0:1:59432880> spawned model models/props_canal/bridge_pillar02.mdl
+[21:53:35] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:36] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/gravestone_cross001b.mdl
+[21:53:47] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:48] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/05x05x05.mdl
+[21:53:49] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001b.mdl
+[21:53:50] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:50] Total Devastation: !menu
+[21:53:53] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x05x1.mdl
+[21:53:54] анимепсих: У ВАС РЕЙД
+[21:53:56] анимепсих: вас рейдят
+[21:53:57] анимепсих: анти рейд зона
+[21:53:58] Кэлт: /adminotcaheavy1
+[21:54:00] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[21:54:02] Активный гомес: /adminotcasecurity1
+[21:54:03] анимепсих: я заерйдил
+[21:54:08] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001a.mdl
+[21:54:12] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001a.mdl
+[21:54:20] анимепсих<STEAM_0:1:59432880> spawned model models/props_junk/wood_crate002a.mdl
+[21:54:21] анимепсих<STEAM_0:1:59432880> spawned model models/props_junk/wood_crate002a.mdl
+[21:54:24] Total Devastation: !noclip
+[21:54:28] анимепсих: /admincocmbinesniper
+[21:54:34] Zafe: /admicnepu
+[21:54:40] анимепсих was killed by trigger_hurt
+[21:54:44] Egor Lisin suicided!
+[21:54:44] Garry Huffan slayed Egor Lisin
+[21:54:58] Egor Lisin: !noclip
+[21:55:11] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[21:55:12] Egor Lisin: /admicnunit5
+[21:55:14] Zafe: /admicnepu
+[21:55:15] Egor Lisin: /admgoroda
+[21:55:24] Total Devastation: !noclip
+[21:55:25] Egor Lisin: !noclip
+[21:55:29] nonrp: Второе предупреждение
+[21:55:32] Zafe: /admicnepu
+[21:55:34] Активный гомес was killed by trigger_hurt
+[21:55:37] nonrp: Двигайся!
+[21:55:42] Zafe: /adminucnit1
+[21:55:44] nonrp: Прикройте меня, я захожу!
+[21:55:46] Egor Lisin: !noclip
+[21:55:50] Egor Lisin: /adcmindvl
+[21:55:58] анимепсих: !noclip
+[21:56:17] Egor Lisin: /adcmindvl
+[21:56:46] анимепсих was killed by trigger_hurt
+[21:56:56] Egor Lisin: /adcmindvl
+[21:57:38] Egor Lisin: /adcmindvl
+[21:57:47] Dropped "Активный гомес" from server<STEAM_0:0:502703877>
+[21:57:50] анимепсих: !noclip
+[21:57:59] Zafe: // total podoidi
+[21:58:05] анимепсих: /adminvorctigont
+[21:58:13] Cherr Tait: /adminotcaheavy1
+[21:58:16] Cherr Tait: /adminotcasecurity1
+[21:58:25] ZXCRESLOEBATEL: /admindezcertir
+[21:58:33] Egor Lisin: !noclip
+[21:58:40] nonrp: /adminomoshnik
+[21:58:52] Egor Lisin: !noclip
+[21:58:56] ZXCRESLOEBATEL: /adminomoshnik
+[21:58:57] ZXCRESLOEBATEL: /adminvoedafsfawqqrij
+[21:59:00] nonrp: /y Стоять! Лицом к стене!
+[21:59:04] vadimhalo: !menu
+[21:59:04] nonrp cloaked Themself by amount 0
+[21:59:04] nonrp granted god mode upon Themself
+[21:59:10] vadimhalo установил Themself профессию  UNIT.2
+[21:59:17] Egor Lisin: Стоять!
+[21:59:25] Egor Lisin: Хочешь в участок?
+[21:59:32] Dropped "vadimhalo" from server<STEAM_0:0:172707452>
+[21:59:35] Client "vadimhalo" connected.
+[21:59:38] Egor Lisin: автоном
+[21:59:40] Zafe: /admincunitmedic
+[21:59:46] Total Devastation: /roll 6
+[22:00:21] Total Devastation: !menu
+[22:00:22] анимепсих was killed by gw_strider
+[22:00:29] Cherr Tait: Чисто!
+[22:00:34] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 59 seconds).
+[22:01:40] анимепсих: !noclip
+[22:01:44] vadimhalo: !menu
+[22:01:47] Egor Lisin: Последние предупреждение
+[22:01:50] Egor Lisin: Первое предупреждение
+[22:01:56] vadimhalo установил Themself профессию  Быстрый Зомби
+[22:02:03] Egor Lisin: Стоять!
+[22:02:08] Egor Lisin: Выполнять
+[22:02:12] Assassinkz killed vadimhalo using player
+[22:02:48] Egor Lisin: хз
+[22:02:48] ZXCRESLOEBATEL: /admczawqerfsazcunitmedic
+[22:02:50] Total Devastation: !menu
+[22:03:01] Egor Lisin: Первое предупреждение
+[22:03:06] Total Devastation: !menu
+[22:03:27] Assassinkz suicided!
+[22:03:27] Egor Lisin slayed Assassinkz
+[22:03:27] Egor Lisin: !slay @
+[22:03:57] Egor Lisin: // бля извини xD
+[22:04:46] Egor Lisin: !brinh Assa
+[22:04:51] Egor Lisin brought Assassinkz
+[22:04:51] Egor Lisin: !bring Assa
+[22:05:13] 💀 SCP-173 💀(UA): /admicnzombine
+[22:05:27] Zafe: /admincunit2
+[22:05:35] Egor Lisin: Ха-Ха-Ха
+[22:05:40] Assassinkz: Чёрт
+[22:05:40] Кэлт: Вас понял!
+[22:05:47] Assassinkz: Чёрт
+[22:05:50] ♥schitrelz♥: Вас понял!
+[22:05:51] Кэлт: Прикрой
+[22:05:54] ♥schitrelz♥: Готов!
+[22:05:57] Кэлт: Жду указаний!
+[22:06:01] ♥schitrelz♥: Вижу цель!
+[22:07:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/wood_crate001a.mdl
+[22:07:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/wood_pallet001a.mdl
+[22:07:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_junk/wood_pallet001a.mdl
+[22:07:15] анимепсих: !bring Zafe
+[22:07:23] анимепсих brought Zafe
+[22:07:23] анимепсих: !bring Zafe
+[22:07:30] 💀 SCP-173 💀(UA) killed Garry Huffan using w_z_zombine
+[22:07:55] анимепсих returned Zafe to their original position
+[22:07:55] анимепсих: !return Zafe
+[22:07:56] анимепсих: !noclip
+[22:07:59] ZXCRESLOEBATEL killed Zafe using entity_ar3_ent
+[22:08:08] 💀 SCP-173 💀(UA) killed Assassinkz using env_explosion
+[22:08:35] Кэлт killed 💀 SCP-173 💀(UA) using player
+[22:08:41] Egor Lisin: !menu
+[22:08:46] Egor Lisin set the hp for Themself to 100
+[22:08:53] Egor Lisin set the armor for Themself to 100
+[22:09:37] nonrp uncloaked Themself
+[22:09:37] nonrp revoked god mode from Themself
+[22:09:40] анимепсих granted god mode upon Themself
+[22:09:40] анимепсих: !god ^
+[22:09:41] nonrp: Я могу вам показать секрет
+[22:09:42] анимепсих set the hp for Themself to 100
+[22:09:42] анимепсих: !hp ^ 100
+[22:09:47] nonrp: Я могу вам показать секрет
+[22:10:20] Zafe: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:10:48] nonrp cloaked Themself by amount 0
+[22:10:48] nonrp granted god mode upon Themself
+[22:10:59] Zafe: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:11:02] Assassinkz: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:11:03] Zafe: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:11:13] анимепсих brought 💀 SCP-173 💀(UA)
+[22:11:13] анимепсих: !bring SCP
+[22:11:27] анимепсих brought 💀 SCP-173 💀(UA)
+[22:11:27] анимепсих: !bring SCP
+[22:11:35] Egor Lisin killed ZXCRESLOEBATEL using player
+[22:11:50] 💀 SCP-173 💀(UA): /admicnzombine
+[22:11:53] Zafe: /roll 6
+[22:12:02] nonrp uncloaked Themself
+[22:12:02] nonrp revoked god mode from Themself
+[22:12:02] анимепсих brought 💀 SCP-173 💀(UA)
+[22:12:02] анимепсих: !bring SCP
+[22:12:08] Egor Lisin: !menu
+[22:12:10] Egor Lisin set the armor for Themself to 100
+[22:12:14] Egor Lisin set the hp for Themself to 100
+[22:12:24] nonrp cloaked Themself by amount 0
+[22:12:24] nonrp granted god mode upon Themself
+[22:12:34] анимепсих brought 💀 SCP-173 💀(UA)
+[22:12:34] анимепсих: !bring SCP
+[22:12:40] Egor Lisin: !menu
+[22:12:52] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/gravestone002a.mdl
+[22:13:06] nonrp<STEAM_0:1:575008216> spawned model models/props_interiors/pot02a.mdl
+[22:13:27] анимепсих: !menu
+[22:13:31] Total Devastation: !menu
+[22:13:31] анимепсих: !menu
+[22:13:39] Total Devastation set the hp for Themself to 100
+[22:13:42] ZXCRESLOEBATEL: /admicnepu
+[22:13:48] Кэлт: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:13:55] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/lockers001a.mdl
+[22:14:06] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/furnituretoilet001a.mdl
+[22:14:15] Egor Lisin<STEAM_0:1:464427619> spawned model models/props_phx/ww2bomb.mdl
+[22:14:17] nonrp<STEAM_0:1:575008216> spawned model models/maxofs2d/balloon_gman.mdl
+[22:14:26] ZXCRESLOEBATEL: /admicnepu
+[22:14:29] ZXCRESLOEBATEL: /admicnepu
+[22:14:47] Total Devastation<STEAM_0:1:487509974> spawned model models/items/item_item_crate_chunk05.mdl
+[22:14:51] Total Devastation<STEAM_0:1:487509974> spawned model models/items/boxbuckshot.mdl
+[22:14:53] анимепсих: !noclip
+[22:14:54] Total Devastation<STEAM_0:1:487509974> spawned model models/items/boxmrounds.mdl
+[22:14:55] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/suitcase001a.mdl
+[22:14:55] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/suitcase001a.mdl
+[22:14:56] ZXCRESLOEBATEL: /admicnepu
+[22:14:56] анимепсих: !bring SCP
+[22:14:56] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_phx/ww2bomb.mdl
+[22:14:58] анимепсих brought 💀 SCP-173 💀(UA)
+[22:14:58] анимепсих: !bring SCP
+[22:15:09] Total Devastation<STEAM_0:1:487509974> spawned model models/props_phx/ball.mdl
+[22:15:11] Total Devastation<STEAM_0:1:487509974> spawned model models/props_phx/oildrum001_explosive.mdl
+[22:15:13] ♥schitrelz♥: Выдвигаюсь!
+[22:15:13] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/playgroundtick-tack-toe_block01a.mdl
+[22:15:21] анимепсих returned 💀 SCP-173 💀(UA) to their original position
+[22:15:21] анимепсих: !return @
+[22:15:28] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:15:28] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_phx/ww2bomb.mdl
+[22:15:33] nonrp<STEAM_0:1:575008216> spawned model models/maxofs2d/balloon_gman.mdl
+[22:15:39] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:43] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/lockers001a.mdl
+[22:15:43] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/lockers001a.mdl
+[22:15:44] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:45] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/lockers001a.mdl
+[22:15:46] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/lockers001a.mdl
+[22:15:51] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:51] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:52] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:52] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:52] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:52] Total Devastation: /buybitminerfuel
+[22:15:52] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:53] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:53] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:53] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:53] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:54] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:57] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:15:58] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:06] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:08] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:14] 💀 SCP-173 💀(UA) killed Total Devastation using w_z_zombine
+[22:16:16] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:17] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:16:18] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:25] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:27] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:28] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:29] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:29] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:16:34] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001a.mdl
+[22:16:36] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:16:39] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:16:42] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:44] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:45] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:47] 💀 SCP-173 💀(UA): /ooc сори тотал
+[22:16:52] анимепсих: !noclip
+[22:16:55] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:16:56] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/mk-82.mdl
+[22:17:03] Assassinkz suicided!
+[22:17:03] Egor Lisin slayed Assassinkz
+[22:17:03] Egor Lisin: !slay @
+[22:17:04] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:14] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:15] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:17:17] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:21] Кэлт: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:17:25] Egor Lisin: !bring assa
+[22:17:25] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:25] Total Devastation<STEAM_0:1:487509974> spawned model models/combine_helicopter.mdl
+[22:17:27] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/playfield.mdl
+[22:17:27] Total Devastation<STEAM_0:1:487509974> spawned model models/combine_helicopter.mdl
+[22:17:28] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/playfield.mdl
+[22:17:29] Total Devastation<STEAM_0:1:487509974> spawned model models/combine_helicopter.mdl
+[22:17:30] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:33] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:34] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:36] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:37] Zafe: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:17:38] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:41] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:42] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/oildrum001_explosive.mdl
+[22:17:43] Egor Lisin: !bring assa
+[22:17:44] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/oildrum001_explosive.mdl
+[22:17:44] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:17:45] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:17:46] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:17:46] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:46] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:17:47] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:50] Zafe: /admczawqerfsazcunitmedic
+[22:17:53] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:53] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:54] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:54] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:54] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:54] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:54] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/kennel_physics.mdl
+[22:17:54] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:55] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:56] 💀 SCP-173 💀(UA) killed Total Devastation using env_explosion
+[22:17:57] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:17:59] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:18:00] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:18:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:18:01] Total Devastation: !menu
+[22:18:05] (SILENT) Total Devastation Respawned Themself
+[22:18:09] Egor Lisin: !menu
+[22:18:09] анимепсих<STEAM_0:1:59432880> spawned model models/props_wasteland/cranemagnet01a.mdl
+[22:18:10] Egor Lisin set the hp for Themself to 100
+[22:18:19] анимепсих<STEAM_0:1:59432880> spawned model models/props_wasteland/cranemagnet01a.mdl
+[22:18:19] Egor Lisin cloaked Themself by amount 155
+[22:18:28] Egor Lisin uncloaked Themself
+[22:18:28] Egor Lisin: !uncloak
+[22:18:31] Egor Lisin: !menu
+[22:18:32] Total Devastation: !noclip
+[22:18:33] 💀 SCP-173 💀(UA) killed ZXCRESLOEBATEL using w_z_zombine
+[22:18:37] Egor Lisin set the armor for Themself to 100
+[22:19:04] анимепсих: !noclip
+[22:19:17] анимепсих<STEAM_0:1:59432880> spawned model models/props_wasteland/cranemagnet01a.mdl
+[22:19:33] анимепсих<STEAM_0:1:59432880> spawned model models/props_wasteland/cranemagnet01a.mdl
+[22:19:36] 💀 SCP-173 💀(UA): сори
+[22:19:42] анимепсих: !noclip
+[22:19:44] анимепсих: !noclip
+[22:20:14] Dropped "Total Devastation" from server<STEAM_0:1:487509974>
+[22:20:28] анимепсих<STEAM_0:1:59432880> spawned model models/props_wasteland/cranemagnet01a.mdl
+[22:20:45] 💀 SCP-173 💀(UA) killed Egor Lisin using w_z_zombine
+[22:20:46] анимепсих brought Кэлт
+[22:20:49] ZXCRESLOEBATEL: /admicnepu
+[22:20:57] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:01] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:11] Zafe<STEAM_0:1:186490161> spawned model models/props_interiors/furniture_couch02a.mdl
+[22:21:15] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:17] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:18] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:19] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:21] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:22] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:23] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:25] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:26] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:26] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/metalladder001.mdl
+[22:21:27] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:28] nonrp uncloaked Themself
+[22:21:28] nonrp revoked god mode from Themself
+[22:21:28] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:29] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:31] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:32] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:34] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:36] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/bench01a.mdl
+[22:21:37] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:40] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:41] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:42] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:43] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:44] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:21:53] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/bench01a.mdl
+[22:22:03] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:04] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:06] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:06] анимепсих<STEAM_0:1:59432880> spawned model models/props_junk/cardboard_box002b.mdl
+[22:22:07] Assassinkz: /adminvoedafsfawqqrij
+[22:22:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:08] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:22:08] 💀 SCP-173 💀(UA) killed ♥schitrelz♥ using env_explosion
+[22:22:08] 💀 SCP-173 💀(UA) killed Zafe using env_explosion
+[22:22:09] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:10] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[22:22:10] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:13] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:14] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:16] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:22:19] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:19] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[22:22:20] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:31] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/filecabinet02.mdl
+[22:22:32] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:33] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:22:35] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:37] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:39] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:41] Egor Lisin: /roll 6
+[22:22:43] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:43] Egor Lisin: /roll 6
+[22:22:44] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:22:46] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:22:48] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001c.mdl
+[22:22:48] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:48] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/blastdoor001b.mdl
+[22:22:50] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:51] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:52] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:54] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/box_torpedo.mdl
+[22:22:54] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:22:55] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:56] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:22:56] Assassinkz: /adminvorctigont
+[22:22:58] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:22:59] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:23:00] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:23:01] Кэлт: /admczawqerfsazcunitmedic
+[22:23:01] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate1.mdl
+[22:23:04] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:04] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:23:06] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate1.mdl
+[22:23:06] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:23:08] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:09] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:23:10] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:10] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:23:12] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:13] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:14] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/rocket1.mdl
+[22:23:15] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:23:18] Assassinkz: /admindezcertir
+[22:23:18] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:23:23] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:23:37] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:23:40] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:23:45] Egor Lisin: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:23:57] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:24:04] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:05] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:06] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:07] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:09] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:12] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:14] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:16] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:16] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:18] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:18] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:19] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:19] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:20] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:20] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:22] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:24] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:27] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:28] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:28] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:30] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:31] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:32] Assassinkz: /admindezcertir
+[22:24:33] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:35] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:24:39] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:24:46] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/suitcase001a.mdl
+[22:24:49] Assassinkz: /admindezcertir
+[22:25:01] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[22:25:06] nonrp<STEAM_0:1:575008216> spawned model models/props_vehicles/generatortrailer01.mdl
+[22:25:18] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[22:25:21] Assassinkz: /admindezcertir
+[22:25:29] Zafe<STEAM_0:1:186490161> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[22:25:42] nonrp<STEAM_0:1:575008216> spawned model models/props_vehicles/generatortrailer01.mdl
+[22:25:45] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:25:53] анимепсих<STEAM_0:1:59432880> spawned model models/phxtended/tri1x1x1.mdl
+[22:25:54] анимепсих<STEAM_0:1:59432880> spawned model models/props_phx/construct/glass/glass_curve360x2.mdl
+[22:25:55] Zafe<STEAM_0:1:186490161> spawned model models/props_interiors/furniture_shelf01a.mdl
+[22:25:57] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:02] 💀 SCP-173 💀(UA): /ooc КТО ХОЧЕТ ШТОБ Я КАВОТА ЗАРВАЛ
+[22:26:03] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:10] Cherr Tait: я
+[22:26:23] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:25] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:25] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:26] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:27] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:34] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:35] Кэлт: /adminomoshnik
+[22:26:40] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:42] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:44] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:46] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:48] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:53] Zafe<STEAM_0:1:186490161> spawned model models/props_combine/breendesk.mdl
+[22:26:58] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:26:59] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:00] анимепсих<STEAM_0:1:59432880> spawned model models/phxtended/tri1x1x1solid.mdl
+[22:27:01] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:02] nonrp<STEAM_0:1:575008216> spawned model models/combine_helicopter.mdl
+[22:27:06] nonrp<STEAM_0:1:575008216> spawned model models/props_vehicles/car005a_physics.mdl
+[22:27:09] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:09] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:09] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:09] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:09] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:10] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:11] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:11] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:11] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:11] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:11] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:13] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:13] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:13] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:13] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:14] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:14] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:14] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube05x3x025.mdl
+[22:27:16] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:17] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:19] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:20] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:22] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:26] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:29] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:31] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:34] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:35] анимепсих: !noclip
+[22:27:38] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:39] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:39] Zafe: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:27:40] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:42] Zafe: /admicnepu
+[22:27:43] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:27:43] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:45] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:47] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:27:50] Кэлт: /adminotcaelitee1
+[22:27:57] анимепсих: // пропы норм
+[22:28:11] ZXCRESLOEBATEL killed Zafe using w_z_fustzombie
+[22:28:11] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:28:14] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:28:15] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:28:46] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:47] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:48] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:49] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:50] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:53] Cherr Tait: /admicnzombine
+[22:28:56] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:57] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:58] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:28:59] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:00] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:09] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:10] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:29:15] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/gascan001a.mdl
+[22:29:23] ZXCRESLOEBATEL killed Egor Lisin using w_z_fustzombie
+[22:29:24] Dropped "nonrp" from server<STEAM_0:1:575008216>
+[22:30:16] анимепсих: !noclip
+[22:30:24] ♥schitrelz♥: /pm STEAM_0:1:59432880 можешь тп тут пропы убрать надо
+[22:30:31] ZXCRESLOEBATEL killed Zafe using w_z_fustzombie
+[22:30:36] анимепсих teleported to ♥schitrelz♥
+[22:30:36] анимепсих: !goto schi
+[22:31:35] Cherr Tait: /OOC Блять, кто поняставил пропов?
+[22:31:46] ZXCRESLOEBATEL: // хз лол
+[22:31:51] Cherr Tait: понаставил*
+[22:32:05] Egor Lisin: /adminvoedafsfawqqrij
+[22:32:48] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_lab/blastdoor001c.mdl
+[22:32:49] Dropped "♥schitrelz♥" from server<STEAM_0:1:539647546>
+[22:32:50] Egor Lisin: /admincocmbinesniper
+[22:32:54] Cherr Tait: Аниме псих, удали пропов 
+[22:33:29] Egor Lisin was killed by trigger_hurt
+[22:33:54] Dropped "Zafe" from server<STEAM_0:1:186490161>
+[22:34:15] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[22:34:16] Кэлт: /adminpcovstanec
+[22:34:39] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube6x6x05.mdl
+[22:34:40] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube6x6x6.mdl
+[22:34:42] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:34:44] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:34:48] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:34:51] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:35:00] анимепсих: !m
+[22:35:02] анимепсих granted god mode upon Themself
+[22:35:02] анимепсих: !god
+[22:35:05] анимепсих granted god mode upon Themself
+[22:35:05] анимепсих: !god
+[22:35:27] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:35:39] анимепсих granted god mode upon Themself
+[22:35:39] анимепсих: !god
+[22:35:42] анимепсих: !noclip
+[22:35:46] Garry Huffan: !goto tai
+[22:35:49] анимепсих: !noclip
+[22:35:50] Garry Huffan: !goto tait
+[22:35:58] Garry Huffan teleported to Cherr Tait
+[22:35:58] Garry Huffan: !goto tait
+[22:37:17] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:37:18] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:37:23] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube8x8x8.mdl
+[22:37:30] Garry Huffan: // Аниме псих зайджи в диск
+[22:37:40] Garry Huffan set the hp for Themself to 1
+[22:37:40] Garry Huffan: !hp ^ 1
+[22:37:44] ZXCRESLOEBATEL killed Garry Huffan using w_z_fustzombie
+[22:38:09] 💀 SCP-173 💀(UA): /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:38:49] Garry Huffan teleported to анимепсих
+[22:38:49] Garry Huffan: !goto псих
+[22:39:36] ZXCRESLOEBATEL killed 💀 SCP-173 💀(UA) using w_z_fustzombie
+[22:39:40] Assassinkz: /adminvoecnnij
+[22:40:17] Кэлт: /admintorcgovec
+[22:41:00] Cherr Tait: иди нахуй 
+[22:41:19] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:41:38] Cherr Tait: блять. да ты заебал
+[22:41:43] Cherr Tait: мне похуй на тебя 
+[22:41:51] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:41:56] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:07] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:09] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:10] Кэлт: /admindezcertir
+[22:42:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:14] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:15] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:18] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_phx/cannon.mdl
+[22:42:54] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturecouch001a.mdl
+[22:42:56] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturecupboard001a.mdl
+[22:42:58] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturefireplace001a.mdl
+[22:42:58] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturefireplace001a.mdl
+[22:42:58] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturefireplace001a.mdl
+[22:42:58] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[22:42:59] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furnituredrawer001a_shard01.mdl
+[22:42:59] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturecouch001a.mdl
+[22:42:59] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/fence01a.mdl
+[22:43:00] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/fence02a.mdl
+[22:43:00] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/chair02a.mdl
+[22:43:31] Кэлт: /admindezcertir
+[22:43:32] 💀 SCP-173 💀(UA): /admicnepu
+[22:43:41] Cherr Tait killed ZXCRESLOEBATEL using w_z_zombine
+[22:44:19] Кэлт: Ха-Ха-Ха
+[22:44:23] Assassinkz: Понятно
+[22:45:30] Cherr Tait: блять пиздите его
+[22:45:42] Cherr Tait: засоряет карту и мешает 
+[22:45:47] Cherr Tait: хуйней страдает короче
+[22:46:02] Client "Shadow xp" connected.
+[22:46:18] 💀 SCP-173 💀(UA) killed ZXCRESLOEBATEL using player
+[22:46:38] Assassinkz: /admczawqerfsazcunitmedic
+[22:46:41] анимепсих: /adminvorctigont
+[22:47:42] ZXCRESLOEBATEL: /pm vadimhalo дай опера
+[22:47:45] Cherr Tait: /admindezcertir
+[22:47:48] Кэлт: /adcmindvl
+[22:48:20] vadimhalo killed 💀 SCP-173 💀(UA) using w_z_fustzombie
+[22:48:32] ZXCRESLOEBATEL: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[22:50:07] Кэлт: Проверить
+[22:50:35] Dropped "Cherr Tait" from server<STEAM_0:1:672992849>
+[22:50:45] 💀 SCP-173 💀(UA): /admicnepu
+[22:51:01] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:51:06] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:51:07] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:51:10] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:51:16] Client "Shadow xp" spawned in server <STEAM_0:1:199254016> (took 314 seconds).
+[22:51:20] 💀 SCP-173 💀(UA): /admincpscanner
+[22:51:29] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:51:49] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:51:56] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:04] ZXCRESLOEBATEL: /adminomoshnik
+[22:52:07] анимепсих killed Assassinkz using swep_vortigaunt_beam
+[22:52:08] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:10] анимепсих: ой)
+[22:52:18] анимепсих: // сори бро
+[22:52:19] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:21] анимепсих revoked god mode from Themself
+[22:52:21] анимепсих: !ungod
+[22:52:28] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:30] анимепсих: я хочу кушать
+[22:52:35] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:38] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:39] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:40] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:40] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:41] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:52:56] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:04] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:10] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:15] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:18] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:21] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:25] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:28] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:33] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:35] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:36] Shadow xp: /rpname Max Norris
+[22:53:36] Shadow xp<STEAM_0:1:199254016> changed their name to Max Norris
+[22:53:38] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:39] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:40] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:45] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:50] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:50] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:51] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:53:57] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:54:17] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:54:20] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:54:22] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:54:24] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:54:26] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:54:49] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[22:54:57] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[22:54:59] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:55:28] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:55:42] Assassinkz: /admicnepu
+[22:55:46] Dropped "vadimhalo" from server<STEAM_0:0:172707452>
+[22:55:53] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:55:55] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:55:58] Max Norris: /adminpocsilnij
+[22:56:03] Max Norris: /me получил посылку
+[22:56:04] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:07] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:08] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:11] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:43] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:47] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:49] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:51] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:53] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:56:56] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:57:12] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:57:20] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:57:23] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:57:44] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:58:12] анимепсих killed Кэлт using swep_vortigaunt_beam
+[22:58:25] Assassinkz killed анимепсих using player
+[22:58:29] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:58:29] анимепсих: // су4ка
+[22:58:30] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:58:30] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:02] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:06] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:27] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:33] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:33] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:34] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:36] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:55] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[22:59:59] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:06] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:22] Max Norris: /adminpishevojcsnabditel
+[23:00:24] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:34] Кэлт: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[23:00:39] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:44] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:46] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:46] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:48] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:49] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:50] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:00:58] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[23:01:12] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:01:24] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:01:29] ZXCRESLOEBATEL: /admicnzombine
+[23:01:41] ZXCRESLOEBATEL: /admi21zaqsdq11qaznzomcbie1
+[23:01:46] Dropped "ZXCRESLOEBATEL" from server<STEAM_0:1:189765948>
+[23:01:52] Кэлт: /admczawqsazzzzxcca11231311aaazafsazcunitmedic
+[23:02:52] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[23:02:58] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[23:03:05] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[23:03:15] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[23:03:23] Кэлт<STEAM_0:0:230068935> spawned model models/props_c17/oildrum001.mdl
+[23:03:40] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube4x6x4.mdl
+[23:04:06] анимепсих: !noclip
+[23:04:15] анимепсих: /adminvorctigont
+[23:04:28] Dropped "💀 SCP-173 💀(UA)" from server<STEAM_0:0:480303422>
+[23:05:02] Max Norris: /adminpocsilnij
+[23:05:50] Dropped "Egor Lisin" from server<STEAM_0:1:464427619>
+[23:07:04] Max Norris: /me получил посылку
+[23:07:59] Кэлт killed Assassinkz using gw_strider
+[23:09:14] Кэлт: Проверить
+[23:09:54] Dropped "Assassinkz" from server<STEAM_0:1:63544152>
+[23:10:14] Dropped "Кэлт" from server<STEAM_0:0:230068935>
+[23:11:44] Max Norris: /me получил посылку
+[23:13:00] Max Norris: /me получил посылку
+[23:14:06] Dropped "Max Norris" from server<STEAM_0:1:199254016>
+[23:25:29] анимепсих: !noclip
+[23:25:33] анимепсих: !noclip
+[23:25:43] Dropped "анимепсих" from server<STEAM_0:1:59432880>
+<Logging continued in "data/ulx_logs/08-11-23.txt">

@@ -1,0 +1,11 @@
+[21:53:26] New map: rp_city11_sv
+[21:54:09] Client "Я не Shapka" connected.
+[21:58:25] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 256 seconds).
+[21:59:21] Garry Huffan: /dropmoney 1000
+[21:59:39] Garry Huffan: /setmoney shapka 100000
+[21:59:45] Garry Huffan: /dropmoney 100
+
+
+
+[22:02:05] New map: rp_city11_sv
+<Logging continued in "data/ulx_logs/08-04-23.txt">

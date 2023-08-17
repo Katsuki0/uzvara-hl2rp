@@ -1,0 +1,10 @@
+Fri Aug  4 18:26:32 2023	Bot01 (BOT) has joined the game
+Fri Aug  4 18:26:32 2023	Bot01 (BOT) spawned
+Fri Aug  4 18:27:08 2023	Bot01 was killed by Themself with a suicide trick
+Fri Aug  4 18:28:08 2023	Bot01 (BOT) spawned
+Fri Aug  4 19:26:12 2023	Bot01 was killed by Themself with a suicide trick
+Fri Aug  4 19:27:12 2023	Bot01 (BOT) spawned
+Fri Aug  4 20:25:22 2023	Bot01 was killed by Themself with a suicide trick
+Fri Aug  4 20:26:22 2023	Bot01 (BOT) spawned
+Fri Aug  4 21:24:33 2023	Bot01 was killed by Themself with a suicide trick
+Fri Aug  4 21:25:33 2023	Bot01 (BOT) spawned

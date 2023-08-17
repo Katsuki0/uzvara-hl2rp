@@ -1,0 +1,50 @@
+Tue Aug 15 20:03:43 2023	Kserg31 (STEAM_0:1:102748913) has joined the game
+Tue Aug 15 20:03:43 2023	Kserg31 (STEAM_0:1:102748913) spawned
+Tue Aug 15 20:03:46 2023	Drake (STEAM_0:1:438429767) has joined the game
+Tue Aug 15 20:03:46 2023	Drake (STEAM_0:1:438429767) spawned
+Tue Aug 15 20:03:47 2023	Jack (STEAM_0:1:586636911) has joined the game
+Tue Aug 15 20:03:47 2023	Жорка Дридмен (STEAM_0:1:586636911) spawned
+Tue Aug 15 20:03:53 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Tue Aug 15 20:03:53 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Tue Aug 15 20:03:54 2023	hshg Allan (STEAM_0:1:623854304) has joined the game
+Tue Aug 15 20:03:54 2023	Allan (STEAM_0:1:623854304) spawned
+Tue Aug 15 20:03:55 2023	squadron (STEAM_0:1:485914624) has joined the game
+Tue Aug 15 20:03:55 2023	squadron (STEAM_0:1:485914624) spawned
+Tue Aug 15 20:03:56 2023	привет мой лучший (STEAM_0:1:618342637) has joined the game
+Tue Aug 15 20:03:56 2023	привет мой лучший (STEAM_0:1:618342637) spawned
+Tue Aug 15 20:03:58 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) has joined the game
+Tue Aug 15 20:03:58 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) spawned
+Tue Aug 15 20:04:18 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 20:04:19 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 20:04:19 2023	Жорка Дридмен (STEAM_0:1:586636911): /ooc а где я
+Tue Aug 15 20:04:20 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 20:04:21 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Tue Aug 15 20:04:28 2023	Allan (STEAM_0:1:623854304): /ooc в гараже
+Tue Aug 15 20:04:45 2023	Allan (STEAM_0:1:623854304): мы в гараже
+Tue Aug 15 20:04:57 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT job_spawn_point
+Tue Aug 15 20:05:00 2023	bug.vadik (STEAM_0:0:203566177) has joined the game
+Tue Aug 15 20:05:00 2023	bug.vadik (STEAM_0:0:203566177) spawned
+Tue Aug 15 20:05:01 2023	Allan (STEAM_0:1:623854304): нужно выбраться от сюда
+Tue Aug 15 20:05:06 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Tue Aug 15 20:05:11 2023	Garadon (STEAM_0:1:498532029) has joined the game
+Tue Aug 15 20:05:11 2023	Garadon (STEAM_0:1:498532029) spawned
+Tue Aug 15 20:05:13 2023	Allan (STEAM_0:1:623854304): вы тоже тут
+Tue Aug 15 20:05:18 2023	привет мой лучший (STEAM_0:1:618342637): Берегись!
+Tue Aug 15 20:05:29 2023	squadron (STEAM_0:1:485914624): /pm Drake ты случано не с LoA
+Tue Aug 15 20:05:48 2023	Drake (STEAM_0:1:438429767): /pm squadron Это что?
+Tue Aug 15 20:05:57 2023	ыуыу (STEAM_0:1:712954157) has joined the game
+Tue Aug 15 20:05:57 2023	Karl Hanke (STEAM_0:1:712954157) spawned
+Tue Aug 15 20:06:00 2023	привет мой лучший (STEAM_0:1:618342637): ГО-шники
+Tue Aug 15 20:06:00 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) disconnected
+Tue Aug 15 20:06:18 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to Drake (STEAM_0:1:438429767)
+Tue Aug 15 20:06:20 2023	привет мой лучший (STEAM_0:1:618342637): Зомби!
+Tue Aug 15 20:06:42 2023	bug.vadik (STEAM_0:0:203566177): Зачем?
+Tue Aug 15 20:06:52 2023	Garadon (STEAM_0:1:498532029): Где я
+Tue Aug 15 20:06:54 2023	Garadon (STEAM_0:1:498532029): Кто вы все
+Tue Aug 15 20:06:58 2023	FANCA (STEAM_0:1:186047654) has joined the game
+Tue Aug 15 20:06:58 2023	FANCA (STEAM_0:1:186047654) spawned
+Tue Aug 15 20:07:20 2023	Allan (STEAM_0:1:623854304): Пока модераторы не нужны
+Tue Aug 15 20:07:23 2023	Garadon (STEAM_0:1:498532029): Ку
+Tue Aug 15 20:07:27 2023	Garadon (STEAM_0:1:498532029): Бля
+Tue Aug 15 20:07:27 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) has joined the game
+Tue Aug 15 20:07:27 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) spawned

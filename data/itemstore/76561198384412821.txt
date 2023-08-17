@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":-1.0,"Class":"vzlom_polya","Model":"models/weapons/w_c4.mdl","Clip2":-1.0},"Class":"spawned_weapon"}]

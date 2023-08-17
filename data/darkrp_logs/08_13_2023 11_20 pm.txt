@@ -1,0 +1,18 @@
+Sun Aug 13 23:20:20 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Sun Aug 13 23:20:20 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Sun Aug 13 23:21:33 2023	Я не Shapka (STEAM_0:0:45477833): /dropweapon
+Sun Aug 13 23:22:02 2023	Я не Shapka (STEAM_0:0:45477833): /dropweapon
+Sun Aug 13 23:31:49 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Sun Aug 13 23:31:49 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sun Aug 13 23:38:35 2023	Я не Shapka (STEAM_0:0:45477833): !goto vadim
+Sun Aug 13 23:39:50 2023	Я не Shapka (STEAM_0:0:45477833): поставь проп
+Sun Aug 13 23:39:59 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sun Aug 13 23:40:08 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sun Aug 13 23:40:16 2023	Я не Shapka (STEAM_0:0:45477833): минуту
+Sun Aug 13 23:40:19 2023	Я не Shapka (STEAM_0:0:45477833): оставь проп
+Sun Aug 13 23:40:44 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sun Aug 13 23:42:01 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1
+Sun Aug 13 23:44:27 2023	Я не Shapka (STEAM_0:0:45477833): я щяс ебанусь
+Sun Aug 13 23:44:31 2023	vadimhalo (STEAM_0:0:172707452): не надо
+Sun Aug 13 23:44:39 2023	vadimhalo (STEAM_0:0:172707452): спокойно
+Sun Aug 13 23:47:33 2023	Я не Shapka (STEAM_0:0:45477833): /drop

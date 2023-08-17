@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name" "DEATH DROP"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "tool",
+	"tags": [
+		"fun"
+	]
+}"
+}

@@ -1,0 +1,934 @@
+Sat Aug 12 12:56:49 2023	Total Devastation (STEAM_0:1:487509974) has joined the game
+Sat Aug 12 12:56:49 2023	Total Devastation (STEAM_0:1:487509974) spawned
+Sat Aug 12 12:56:52 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Sat Aug 12 12:56:52 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Sat Aug 12 12:57:05 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 12:57:22 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 12:57:49 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 12:57:52 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 12:59:20 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Sat Aug 12 12:59:20 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug 12 13:03:31 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:03:35 2023	www.twitch.tv/lzxcresloebatell (STEAM_0:1:189765948) has joined the game
+Sat Aug 12 13:03:35 2023	www.twitch.tv/lzxcresloebatell (STEAM_0:1:189765948) spawned
+Sat Aug 12 13:04:04 2023	www.twitch.tv/lzxcresloebatell (STEAM_0:1:189765948): /rpname ZXCRESLOEBATEL
+Sat Aug 12 13:04:32 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): Понятно
+Sat Aug 12 13:05:14 2023	❤ Konsuni ❤ (STEAM_0:1:464427619) has joined the game
+Sat Aug 12 13:05:14 2023	❤ Konsuni ❤ (STEAM_0:1:464427619) spawned
+Sat Aug 12 13:06:09 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): Понятно
+Sat Aug 12 13:06:31 2023	❤ Konsuni ❤ (STEAM_0:1:464427619): /name Egor Lisin
+Sat Aug 12 13:06:50 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:07:13 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:07:16 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:07:35 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:07:45 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:08:58 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:09:01 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !menu
+Sat Aug 12 13:09:02 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:09:27 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:09:57 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !hp ZXC 100
+Sat Aug 12 13:10:14 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:10:22 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:11:02 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:03 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:03 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:03 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:04 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:07 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:11:14 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:11:20 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:11:48 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:11:50 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:50 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 13:11:55 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:11:56 2023	squadron (STEAM_0:1:485914624) has joined the game
+Sat Aug 12 13:11:56 2023	squadron (STEAM_0:1:485914624) spawned
+Sat Aug 12 13:11:59 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:12:01 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:12:04 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:12:05 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:12:06 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:12:16 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:12:18 2023	vadimhalo (STEAM_0:0:172707452): !bring *
+Sat Aug 12 13:12:20 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:12:21 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:12:33 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:12:50 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:12:57 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:00 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:05 2023	Total Devastation (STEAM_0:1:487509974): !noclip
+Sat Aug 12 13:13:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:09 2023	Total Devastation (STEAM_0:1:487509974): /noclip
+Sat Aug 12 13:13:15 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:23 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:32 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:13:33 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:42 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:13:54 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:13:58 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:14:15 2023	squadron (STEAM_0:1:485914624): !nouclip
+Sat Aug 12 13:14:20 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:14:22 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:14:31 2023	vadimhalo was killed by Entity [1002][trigger_hurt] with a trigger_hurt
+Sat Aug 12 13:14:40 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:14:44 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:14:53 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:15:23 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:15:28 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:15:32 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug 12 13:16:00 2023	squadron (STEAM_0:1:485914624): !MENU'
+Sat Aug 12 13:16:04 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:16:14 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:16:32 2023	Me6oK (STEAM_0:0:431399359) has joined the game
+Sat Aug 12 13:16:32 2023	Me6oK (STEAM_0:0:431399359) spawned
+Sat Aug 12 13:16:35 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:16:43 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:16:59 2023	squadron (STEAM_0:1:485914624): /adminomoshnik
+Sat Aug 12 13:17:03 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:17:09 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:17:14 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:17:54 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:18:03 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /adminomoshnik
+Sat Aug 12 13:18:06 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:18:21 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948) disconnected
+Sat Aug 12 13:18:47 2023	www.twitch.tv/lzxcresloebatell (STEAM_0:1:189765948) has joined the game
+Sat Aug 12 13:18:47 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948) spawned
+Sat Aug 12 13:19:08 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 13:19:11 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:19:22 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:19:41 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /try
+Sat Aug 12 13:19:45 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /do
+Sat Aug 12 13:19:55 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:20:07 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:20:19 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:20:34 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:20:36 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:20:40 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:21:04 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:21:05 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:21:25 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:21:40 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:21:40 2023	Total Devastation (STEAM_0:1:487509974): !menu
+Sat Aug 12 13:21:46 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !menu
+Sat Aug 12 13:22:07 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:22:09 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:22:18 2023	кирилл буданов (STEAM_0:1:59432880) has joined the game
+Sat Aug 12 13:22:18 2023	кирилл буданов (STEAM_0:1:59432880) spawned
+Sat Aug 12 13:22:42 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:22:46 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:22:46 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:22:50 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:22:51 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:22:54 2023	кирилл буданов (STEAM_0:1:59432880): /adminomoshnik
+Sat Aug 12 13:22:56 2023	Total Devastation (STEAM_0:1:487509974): !menu
+Sat Aug 12 13:22:56 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:09 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:10 2023	кирилл буданов (STEAM_0:1:59432880): !cloak
+Sat Aug 12 13:23:19 2023	кирилл буданов (STEAM_0:1:59432880): !god
+Sat Aug 12 13:23:24 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:26 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:26 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:27 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:28 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:45 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:51 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:23:53 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !cloak
+Sat Aug 12 13:23:55 2023	Egor Lisin (STEAM_0:1:464427619): /roll 6
+Sat Aug 12 13:24:06 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !cloak
+Sat Aug 12 13:24:09 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !uncloak
+Sat Aug 12 13:24:41 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:24:43 2023	кирилл буданов (STEAM_0:1:59432880): !uncloak
+Sat Aug 12 13:24:58 2023	Egor Lisin (STEAM_0:1:464427619): Понятно
+Sat Aug 12 13:25:00 2023	Egor Lisin (STEAM_0:1:464427619): Извините
+Sat Aug 12 13:25:01 2023	кирилл буданов (STEAM_0:1:59432880): /roll 6
+Sat Aug 12 13:25:01 2023	Egor Lisin (STEAM_0:1:464427619): Потрясающе
+Sat Aug 12 13:25:04 2023	Egor Lisin (STEAM_0:1:464427619): Убирайся отсюда к чёрту!
+Sat Aug 12 13:25:06 2023	Egor Lisin (STEAM_0:1:464427619): Зомби!
+Sat Aug 12 13:25:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:25:09 2023	Egor Lisin (STEAM_0:1:464427619): ГО-шники
+Sat Aug 12 13:25:13 2023	Egor Lisin (STEAM_0:1:464427619): Отлично
+Sat Aug 12 13:25:14 2023	Egor Lisin (STEAM_0:1:464427619): Берегись!
+Sat Aug 12 13:25:16 2023	Egor Lisin (STEAM_0:1:464427619): Берегись!
+Sat Aug 12 13:25:17 2023	Egor Lisin (STEAM_0:1:464427619): Берегись!
+Sat Aug 12 13:25:18 2023	Egor Lisin (STEAM_0:1:464427619): Берегись!
+Sat Aug 12 13:25:20 2023	Egor Lisin (STEAM_0:1:464427619): Берегись!
+Sat Aug 12 13:25:21 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:25:27 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !cloak
+Sat Aug 12 13:25:38 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:25:50 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:26:02 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:26:15 2023	Egor Lisin (STEAM_0:1:464427619): /adminomoshnik
+Sat Aug 12 13:26:30 2023	Me6oK (STEAM_0:0:431399359): /adminomoshnik
+Sat Aug 12 13:26:37 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:26:38 2023	Egor Lisin (STEAM_0:1:464427619): !cloak
+Sat Aug 12 13:26:56 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:27:13 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:27:14 2023	vadimhalo (STEAM_0:0:172707452): !bring *
+Sat Aug 12 13:27:16 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:27:19 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:27:19 2023	Egor Lisin (STEAM_0:1:464427619): !гтсдщфл
+Sat Aug 12 13:27:19 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !uncloak
+Sat Aug 12 13:27:22 2023	squadron (STEAM_0:1:485914624): !uncloak
+Sat Aug 12 13:27:22 2023	Egor Lisin (STEAM_0:1:464427619): !uncloak
+Sat Aug 12 13:27:30 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:27:37 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:27:43 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): (
+Sat Aug 12 13:27:51 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:27:52 2023	squadron (STEAM_0:1:485914624): !unfreeaz
+Sat Aug 12 13:27:57 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:28:08 2023	Кэлт (STEAM_0:0:230068935) has joined the game
+Sat Aug 12 13:28:08 2023	Кэлт (STEAM_0:0:230068935) spawned
+Sat Aug 12 13:28:51 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:28:56 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:29:19 2023	кирилл буданов (STEAM_0:1:59432880): В чем проблема выдавать год? Спам командой? Так есть аддон чтобы спрят
+Sat Aug 12 13:29:25 2023	кирилл буданов (STEAM_0:1:59432880): прячет команды
+Sat Aug 12 13:29:28 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:29:49 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:31:04 2023	кирилл буданов (STEAM_0:1:59432880): я сам срок выбираю?
+Sat Aug 12 13:31:10 2023	J_EliteCmb (STEAM_0:0:515795929) has joined the game
+Sat Aug 12 13:31:10 2023	J_EliteCmb (STEAM_0:0:515795929) spawned
+Sat Aug 12 13:31:12 2023	Shadow xp (STEAM_0:1:199254016) has joined the game
+Sat Aug 12 13:31:13 2023	Shadow xp (STEAM_0:1:199254016) spawned
+Sat Aug 12 13:31:19 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:31:20 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:32:09 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:32:18 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:32:48 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !return
+Sat Aug 12 13:32:50 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:32:53 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !goto vadimhalo
+Sat Aug 12 13:32:54 2023	Assassinkz (STEAM_0:1:63544152) has joined the game
+Sat Aug 12 13:32:54 2023	Assassinkz (STEAM_0:1:63544152) spawned
+Sat Aug 12 13:32:54 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:32:59 2023	кирилл буданов (STEAM_0:1:59432880): идея не очень
+Sat Aug 12 13:33:22 2023	J_EliteCmb (STEAM_0:0:515795929): вы щас где-то в дс общаетесь?
+Sat Aug 12 13:33:25 2023	Я не Shapka (STEAM_0:0:45477833): !hp ^ 100
+Sat Aug 12 13:33:27 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): lkf
+Sat Aug 12 13:33:29 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): да
+Sat Aug 12 13:33:40 2023	Shadow xp (STEAM_0:1:199254016): /rpname Max Norris
+Sat Aug 12 13:33:50 2023	J_EliteCmb (STEAM_0:0:515795929): а где и в каком канале?
+Sat Aug 12 13:33:58 2023	Assassinkz (STEAM_0:1:63544152): Понятно
+Sat Aug 12 13:34:04 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:34:17 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:34:39 2023	Шурик (STEAM_0:0:452405606) has joined the game
+Sat Aug 12 13:34:39 2023	Шурик (STEAM_0:0:452405606) spawned
+Sat Aug 12 13:34:42 2023	кирилл буданов (STEAM_0:1:59432880): медок
+Sat Aug 12 13:34:44 2023	Сэр Яйцо (STEAM_0:0:226229891) has joined the game
+Sat Aug 12 13:34:44 2023	Сэр Яйцо (STEAM_0:0:226229891) spawned
+Sat Aug 12 13:34:50 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:35:03 2023	Me6oK (STEAM_0:0:431399359): я мешок! но для тебя я буду медочком
+Sat Aug 12 13:35:15 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 иди на гп
+Sat Aug 12 13:35:16 2023	кирилл буданов (STEAM_0:1:59432880): ?
+Sat Aug 12 13:35:18 2023	кирилл буданов (STEAM_0:1:59432880): чего?
+Sat Aug 12 13:35:21 2023	кирилл буданов (STEAM_0:1:59432880): анимепсих
+Sat Aug 12 13:35:22 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 раздача уже
+Sat Aug 12 13:35:26 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:35:44 2023	Шурик (STEAM_0:0:452405606): Потрясающе
+Sat Aug 12 13:35:48 2023	Кэлт (STEAM_0:0:230068935): Окей
+Sat Aug 12 13:36:03 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 меняй ник на дсный
+Sat Aug 12 13:36:09 2023	кирилл буданов (STEAM_0:1:59432880): ну, я помогал чем мог, я раскидывал тебе в лс идеи и аргументировал все
+Sat Aug 12 13:36:13 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 у тебя "Сэр яйцо"
+Sat Aug 12 13:36:18 2023	кирилл буданов (STEAM_0:1:59432880): за все время я делал че мог так то
+Sat Aug 12 13:36:19 2023	squadron (STEAM_0:1:485914624): а у меня вроде 21)
+Sat Aug 12 13:36:19 2023	Шурик (STEAM_0:0:452405606): Что с глазами?
+Sat Aug 12 13:36:22 2023	кирилл буданов (STEAM_0:1:59432880): :O
+Sat Aug 12 13:36:23 2023	Сэр Яйцо (STEAM_0:0:226229891): /pm Egor Lisin а какой в дсе
+Sat Aug 12 13:36:29 2023	Я не Shapka (STEAM_0:0:45477833) disconnected
+Sat Aug 12 13:36:39 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 Владислав
+Sat Aug 12 13:36:41 2023	squadron (STEAM_0:1:485914624): 21 умножить на 10
+Sat Aug 12 13:36:43 2023	Сэр Яйцо (STEAM_0:0:226229891): /name Влад Зайцев
+Sat Aug 12 13:36:44 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 у тебя
+Sat Aug 12 13:36:56 2023	squadron (STEAM_0:1:485914624): оо норма
+Sat Aug 12 13:37:02 2023	vadimhalo (STEAM_0:0:172707452): /setmomey vadimhalo 1000000
+Sat Aug 12 13:37:15 2023	кирилл буданов (STEAM_0:1:59432880): xd
+Sat Aug 12 13:37:21 2023	vadimhalo (STEAM_0:0:172707452): !setmoney vadimhalo 100000000000
+Sat Aug 12 13:37:31 2023	vadimhalo (STEAM_0:0:172707452): /givemoney vadimhalo 100000000
+Sat Aug 12 13:37:32 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !setmoney
+Sat Aug 12 13:37:33 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:37:36 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !givemoney
+Sat Aug 12 13:37:37 2023	vadimhalo (STEAM_0:0:172707452): /setmoney vadimhalo 100000000
+Sat Aug 12 13:37:37 2023	vadimhalo (STEAM_0:0:172707452) set vadimhalo's money to 100,000,000 KWD
+Sat Aug 12 13:37:38 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !menu
+Sat Aug 12 13:37:43 2023	Total Devastation (STEAM_0:1:487509974): 750
+Sat Aug 12 13:37:51 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to кирилл буданов (STEAM_0:1:59432880)
+Sat Aug 12 13:38:15 2023	squadron (STEAM_0:1:485914624): 21-22
+Sat Aug 12 13:38:19 2023	squadron (STEAM_0:1:485914624): не помню точно
+Sat Aug 12 13:38:24 2023	Total Devastation (STEAM_0:1:487509974): !menu
+Sat Aug 12 13:38:28 2023	KrubirMrubika (STEAM_0:0:201490571) has joined the game
+Sat Aug 12 13:38:28 2023	KrubirMrubika (STEAM_0:0:201490571) spawned
+Sat Aug 12 13:38:36 2023	кирилл буданов (STEAM_0:1:59432880): физган не настроили
+Sat Aug 12 13:38:38 2023	Me6oK (STEAM_0:0:431399359): 26
+Sat Aug 12 13:38:45 2023	Me6oK (STEAM_0:0:431399359): 26
+Sat Aug 12 13:38:47 2023	кирилл буданов (STEAM_0:1:59432880): сори бро
+Sat Aug 12 13:38:52 2023	кирилл буданов (STEAM_0:1:59432880): раз через раз
+Sat Aug 12 13:38:54 2023	squadron (STEAM_0:1:485914624): ++++++++++++++++++++++++++
+Sat Aug 12 13:38:58 2023	кирилл буданов (STEAM_0:1:59432880): щас смог, в другой не смог
+Sat Aug 12 13:39:00 2023	squadron (STEAM_0:1:485914624): щас
+Sat Aug 12 13:39:08 2023	squadron (STEAM_0:1:485914624): я не математик
+Sat Aug 12 13:39:32 2023	squadron (STEAM_0:1:485914624): 26
+Sat Aug 12 13:39:41 2023	squadron (STEAM_0:1:485914624): ДАВАЙ
+Sat Aug 12 13:39:44 2023	squadron (STEAM_0:1:485914624): ВАДИММ
+Sat Aug 12 13:40:05 2023	squadron (STEAM_0:1:485914624): ((((((
+Sat Aug 12 13:40:11 2023	squadron (STEAM_0:1:485914624): норма
+Sat Aug 12 13:40:14 2023	squadron (STEAM_0:1:485914624): давай
+Sat Aug 12 13:40:15 2023	кирилл буданов (STEAM_0:1:59432880): 1800
+Sat Aug 12 13:40:16 2023	vadimhalo (STEAM_0:0:172707452) has given 1,800 KWD to squadron (STEAM_0:1:485914624)
+Sat Aug 12 13:40:20 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:40:44 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:41:00 2023	vadimhalo (STEAM_0:0:172707452) has given 1,000 KWD to Egor Lisin (STEAM_0:1:464427619)
+Sat Aug 12 13:41:04 2023	Влад Зайцев (STEAM_0:0:226229891): // как плюсы считать
+Sat Aug 12 13:41:20 2023	Шурик (STEAM_0:0:452405606): Что с глазами?
+Sat Aug 12 13:41:28 2023	Кэлт (STEAM_0:0:230068935): под солью
+Sat Aug 12 13:41:30 2023	vadimhalo (STEAM_0:0:172707452) has given 2,500 KWD to ZXCRESLOEBATEL (STEAM_0:1:189765948)
+Sat Aug 12 13:41:38 2023	Шурик (STEAM_0:0:452405606): Ты под солями?
+Sat Aug 12 13:41:39 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:41:51 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /adminomoshnik
+Sat Aug 12 13:41:58 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:42:01 2023	vadimhalo (STEAM_0:0:172707452) has given 2,100 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 13:42:14 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:42:16 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:42:21 2023	squadron (STEAM_0:1:485914624): // Де Ота я найти не могу((
+Sat Aug 12 13:42:25 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:42:27 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:42:29 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:43:03 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:43:04 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:43:19 2023	vadimhalo (STEAM_0:0:172707452) has given 2,000 KWD to J_EliteCmb (STEAM_0:0:515795929)
+Sat Aug 12 13:43:33 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:43:34 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:43:41 2023	Total Devastation (STEAM_0:1:487509974): 1125
+Sat Aug 12 13:43:48 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:43:50 2023	Total Devastation (STEAM_0:1:487509974): 1125
+Sat Aug 12 13:44:03 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:44:13 2023	vadimhalo (STEAM_0:0:172707452) has given 1,200 KWD to Assassinkz (STEAM_0:1:63544152)
+Sat Aug 12 13:44:19 2023	Кэлт (STEAM_0:0:230068935): 20
+Sat Aug 12 13:44:23 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:44:23 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:44:31 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:44:32 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:44:34 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:44:35 2023	Влад Зайцев (STEAM_0:0:226229891): как чекать 
+Sat Aug 12 13:44:35 2023	vadimhalo (STEAM_0:0:172707452) has given 1,600 KWD to Кэлт (STEAM_0:0:230068935)
+Sat Aug 12 13:44:37 2023	Влад Зайцев (STEAM_0:0:226229891): я прослушал
+Sat Aug 12 13:44:38 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 13:44:47 2023	Шурик (STEAM_0:0:452405606): 22
+Sat Aug 12 13:44:50 2023	Влад Зайцев (STEAM_0:0:226229891): как плюсики смотреть
+Sat Aug 12 13:44:56 2023	Total Devastation (STEAM_0:1:487509974): 1650
+Sat Aug 12 13:44:59 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:45:05 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:45:12 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 13:45:13 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:45:14 2023	vadimhalo (STEAM_0:0:172707452) has given 1,750 KWD to Шурик (STEAM_0:0:452405606)
+Sat Aug 12 13:45:21 2023	Кэлт (STEAM_0:0:230068935): /adminucnit1
+Sat Aug 12 13:45:26 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:45:36 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:45:36 2023	vadimhalo (STEAM_0:0:172707452) has given 500 KWD to Max Norris (STEAM_0:1:199254016)
+Sat Aug 12 13:45:51 2023	Влад Зайцев (STEAM_0:0:226229891): я помоему 1 раз был только
+Sat Aug 12 13:46:02 2023	Max Norris (STEAM_0:1:199254016): /adminpocsilnij
+Sat Aug 12 13:46:15 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:46:16 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:46:21 2023	Шурик (STEAM_0:0:452405606): /admincunit3
+Sat Aug 12 13:46:21 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:46:22 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:46:31 2023	Влад Зайцев (STEAM_0:0:226229891): ваще
+Sat Aug 12 13:46:34 2023	vadimhalo (STEAM_0:0:172707452) has given 500 KWD to Влад Зайцев (STEAM_0:0:226229891)
+Sat Aug 12 13:46:38 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 13:46:45 2023	KrubirMrubika (STEAM_0:0:201490571): 36
+Sat Aug 12 13:46:56 2023	Шурик (STEAM_0:0:452405606): // А где профы ОТА покупать?
+Sat Aug 12 13:47:01 2023	Кэлт (STEAM_0:0:230068935): // Подвал
+Sat Aug 12 13:47:05 2023	Влад Зайцев (STEAM_0:0:226229891): /pm Egor Lisin го в дс
+Sat Aug 12 13:47:18 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 ща
+Sat Aug 12 13:47:24 2023	KrubirMrubika (STEAM_0:0:201490571): не
+Sat Aug 12 13:47:25 2023	Влад Зайцев (STEAM_0:0:226229891): /pm Egor Lisin в группе жду
+Sat Aug 12 13:47:26 2023	Max Norris (STEAM_0:1:199254016): /admincunit2
+Sat Aug 12 13:47:31 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:0:226229891 окей
+Sat Aug 12 13:48:00 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:48:06 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /adminomoshnik
+Sat Aug 12 13:48:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): !noclip
+Sat Aug 12 13:48:11 2023	Max Norris (STEAM_0:1:199254016): /admincunit2
+Sat Aug 12 13:48:15 2023	Шурик was killed by Entity [0][worldspawn] with a unknown
+Sat Aug 12 13:48:15 2023	squadron (STEAM_0:1:485914624): !menu
+Sat Aug 12 13:48:22 2023	KrubirMrubika (STEAM_0:0:201490571): Мне было интересно работать на заводе так что думаю будет интересно
+Sat Aug 12 13:48:23 2023	Кэлт (STEAM_0:0:230068935): // как 
+Sat Aug 12 13:48:29 2023	vadimhalo (STEAM_0:0:172707452) has given 3,500 KWD to KrubirMrubika (STEAM_0:0:201490571)
+Sat Aug 12 13:48:33 2023	KrubirMrubika (STEAM_0:0:201490571): Спасибо
+Sat Aug 12 13:48:43 2023	Egor Lisin (STEAM_0:1:464427619): н
+Sat Aug 12 13:48:49 2023	vadimhalo (STEAM_0:0:172707452) has given 4,000 KWD to Total Devastation (STEAM_0:1:487509974)
+Sat Aug 12 13:48:50 2023	Шурик (STEAM_0:0:452405606): // Пам парам папа
+Sat Aug 12 13:49:04 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:49:13 2023	Egor Lisin (STEAM_0:1:464427619): 
+Sat Aug 12 13:49:19 2023	Egor Lisin (STEAM_0:1:464427619): !bring Влад
+Sat Aug 12 13:49:20 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 13:49:20 2023	Assassinkz (STEAM_0:1:63544152): /admczawqerfsazcunitmedic
+Sat Aug 12 13:49:21 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:49:28 2023	кирилл буданов (STEAM_0:1:59432880): !cloak
+Sat Aug 12 13:49:39 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /adminotcaelitee1
+Sat Aug 12 13:49:39 2023	vadimhalo (STEAM_0:0:172707452): /ooc не обязательно администрировать 
+Sat Aug 12 13:49:43 2023	vadimhalo (STEAM_0:0:172707452): /ooc 
+Sat Aug 12 13:49:43 2023	squadron (STEAM_0:1:485914624) disconnected
+Sat Aug 12 13:49:45 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admingrazhdanicn
+Sat Aug 12 13:49:50 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): 
+Sat Aug 12 13:49:50 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:49:58 2023	Шурик (STEAM_0:0:452405606) spawned
+Sat Aug 12 13:50:12 2023	Шурик (STEAM_0:0:452405606): Зачем?
+Sat Aug 12 13:50:15 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): Зачем?
+Sat Aug 12 13:50:18 2023	Шурик (STEAM_0:0:452405606): Зачем?
+Sat Aug 12 13:50:43 2023	Кэлт (STEAM_0:0:230068935): // Вадим
+Sat Aug 12 13:50:47 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:50:48 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:50:51 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:50:53 2023	J_EliteCmb (STEAM_0:0:515795929): /adminpishevojcsnabditel
+Sat Aug 12 13:50:57 2023	squadron (STEAM_0:1:485914624) has joined the game
+Sat Aug 12 13:50:57 2023	squadron (STEAM_0:1:485914624) spawned
+Sat Aug 12 13:51:01 2023	Кэлт (STEAM_0:0:230068935): // Для покупки Хеви требуется ОТА секьюрити , а его нет
+Sat Aug 12 13:51:15 2023	Max Norris (STEAM_0:1:199254016): /admincunit2
+Sat Aug 12 13:51:17 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admincunit3
+Sat Aug 12 13:51:24 2023	Шурик (STEAM_0:0:452405606): /admczawqerfsazcunitmedic
+Sat Aug 12 13:51:26 2023	Шурик (STEAM_0:0:452405606): /admincunit3
+Sat Aug 12 13:51:31 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:51:49 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:51:57 2023	KrubirMrubika (STEAM_0:0:201490571): /admincunitmedic
+Sat Aug 12 13:51:59 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:06 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:10 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:15 2023	Total Devastation (STEAM_0:1:487509974) disconnected
+Sat Aug 12 13:52:22 2023	Влад Зайцев (STEAM_0:0:226229891) disconnected
+Sat Aug 12 13:52:23 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:52:24 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:29 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:31 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:35 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:42 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:47 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:51 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:56 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:56 2023	Egor Lisin (STEAM_0:1:464427619): 
+Sat Aug 12 13:52:57 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:52:59 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 13:53:09 2023	Egor Lisin (STEAM_0:1:464427619): /adminpishevojcsnabditel
+Sat Aug 12 13:53:26 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 13:53:56 2023	кирилл буданов (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:54:29 2023	Шурик (STEAM_0:0:452405606): /adcmindvl
+Sat Aug 12 13:54:30 2023	Шурик (STEAM_0:0:452405606): /admincocmbinesniper
+Sat Aug 12 13:54:36 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:54:47 2023	кирилл буданов (STEAM_0:1:59432880): /rpname анимепсих
+Sat Aug 12 13:54:51 2023	squadron (STEAM_0:1:485914624): Ота снайпер
+Sat Aug 12 13:54:54 2023	анимепсих (STEAM_0:1:59432880): /adminvoedagaweqwr
+Sat Aug 12 13:54:56 2023	анимепсих (STEAM_0:1:59432880): !noclip
+Sat Aug 12 13:55:00 2023	squadron (STEAM_0:1:485914624): Принять новый протокол щит цель CMD OTA
+Sat Aug 12 13:55:06 2023	squadron (STEAM_0:1:485914624): +Автоном
+Sat Aug 12 13:55:11 2023	Egor Lisin (STEAM_0:1:464427619): !set hp Egor 100
+Sat Aug 12 13:55:16 2023	vadimhalo (STEAM_0:0:172707452) has given 220 KWD to анимепсих (STEAM_0:1:59432880)
+Sat Aug 12 13:55:19 2023	Egor Lisin (STEAM_0:1:464427619): !hp Egor 100
+Sat Aug 12 13:55:20 2023	Max Norris (STEAM_0:1:199254016): 10-5, Юнит номер 2 10-8 по 10-23, 10-0...
+Sat Aug 12 13:55:27 2023	squadron (STEAM_0:1:485914624): Выполнять
+Sat Aug 12 13:55:40 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 13:55:43 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 13:55:47 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:55:52 2023	Активный гомес (STEAM_0:0:502703877) has joined the game
+Sat Aug 12 13:55:52 2023	Активный гомес (STEAM_0:0:502703877) spawned
+Sat Aug 12 13:56:06 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:06 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:07 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:07 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:07 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:08 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 13:56:13 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:13 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:13 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:13 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:13 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:14 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:21 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 13:56:27 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:39 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 13:56:44 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:56:56 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:57:00 2023	J_EliteCmb (STEAM_0:0:515795929): /rpname Иван Саратов
+Sat Aug 12 13:57:03 2023	Активный гомес (STEAM_0:0:502703877): /ooc Вадим
+Sat Aug 12 13:57:22 2023	Иван Саратов (STEAM_0:0:515795929): /adminpocsilnij
+Sat Aug 12 13:57:23 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT cm_kons_banka
+Sat Aug 12 13:57:24 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 13:57:25 2023	Активный гомес (STEAM_0:0:502703877): /ooc Дай денег
+Sat Aug 12 13:57:28 2023	Иван Саратов (STEAM_0:0:515795929): /me получил посылку
+Sat Aug 12 13:57:42 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 13:57:56 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:58:30 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:58:45 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 13:58:53 2023	squadron (STEAM_0:1:485914624): Принять протокол щит цель я+ меч стандарт!
+Sat Aug 12 13:58:53 2023	Иван Саратов (STEAM_0:0:515795929): /admingrazhdanicn
+Sat Aug 12 13:58:56 2023	squadron (STEAM_0:1:485914624): Выполнять
+Sat Aug 12 13:59:01 2023	Иван Саратов (STEAM_0:0:515795929): /me получил посылку
+Sat Aug 12 13:59:21 2023	squadron (STEAM_0:1:485914624): Принять новый протокол щит цель CMD.OTA+Меч стандарт
+Sat Aug 12 13:59:24 2023	squadron (STEAM_0:1:485914624): Выполнять
+Sat Aug 12 13:59:33 2023	squadron (STEAM_0:1:485914624): Код Зеленый убрать оружие.
+Sat Aug 12 13:59:35 2023	анимепсих (STEAM_0:1:59432880): !uncloak
+Sat Aug 12 13:59:36 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 13:59:54 2023	анимепсих (STEAM_0:1:59432880): /dropmoney 30
+Sat Aug 12 13:59:55 2023	анимепсих (STEAM_0:1:59432880) has dropped 30 KWD
+Sat Aug 12 14:00:05 2023	squadron (STEAM_0:1:485914624): Служу альянсу
+Sat Aug 12 14:00:07 2023	squadron (STEAM_0:1:485914624): ?
+Sat Aug 12 14:00:11 2023	squadron (STEAM_0:1:485914624): Агась
+Sat Aug 12 14:00:20 2023	squadron (STEAM_0:1:485914624): уже выдал
+Sat Aug 12 14:00:30 2023	Иван Саратов (STEAM_0:0:515795929): /admingrazhdanicn
+Sat Aug 12 14:00:38 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 14:00:43 2023	анимепсих (STEAM_0:1:59432880): !noclip
+Sat Aug 12 14:00:44 2023	анимепсих (STEAM_0:1:59432880): !noclip
+Sat Aug 12 14:00:49 2023	squadron (STEAM_0:1:485914624): OTA.SNIPER Принять новый протокол щит цель CMD.OTA, меч стандарт.
+Sat Aug 12 14:00:51 2023	squadron (STEAM_0:1:485914624): Так точно
+Sat Aug 12 14:00:53 2023	squadron (STEAM_0:1:485914624): Выполнять
+Sat Aug 12 14:01:04 2023	squadron (STEAM_0:1:485914624): Окей
+Sat Aug 12 14:01:13 2023	squadron (STEAM_0:1:485914624): немогу
+Sat Aug 12 14:01:15 2023	squadron (STEAM_0:1:485914624): в f4
+Sat Aug 12 14:01:17 2023	squadron (STEAM_0:1:485914624): нету
+Sat Aug 12 14:01:20 2023	squadron (STEAM_0:1:485914624): у меня
+Sat Aug 12 14:01:23 2023	squadron (STEAM_0:1:485914624): у меня нету
+Sat Aug 12 14:01:24 2023	Активный гомес (STEAM_0:0:502703877): /ooc Вадим?
+Sat Aug 12 14:01:28 2023	squadron (STEAM_0:1:485914624): ХАХААХ
+Sat Aug 12 14:01:44 2023	Иван Саратов (STEAM_0:0:515795929) has given 15 KWD to Egor Lisin (STEAM_0:1:464427619)
+Sat Aug 12 14:01:52 2023	squadron (STEAM_0:1:485914624): Типо чекай
+Sat Aug 12 14:01:55 2023	squadron (STEAM_0:1:485914624): Защищать меня
+Sat Aug 12 14:02:04 2023	squadron (STEAM_0:1:485914624): И исполнять свои основные действия
+Sat Aug 12 14:02:14 2023	squadron (STEAM_0:1:485914624): Юнит
+Sat Aug 12 14:02:20 2023	squadron (STEAM_0:1:485914624): Назовись.
+Sat Aug 12 14:02:22 2023	squadron (STEAM_0:1:485914624): ?
+Sat Aug 12 14:02:27 2023	squadron (STEAM_0:1:485914624): Назовись
+Sat Aug 12 14:02:54 2023	squadron (STEAM_0:1:485914624): Агась что-то барохлит
+Sat Aug 12 14:03:01 2023	squadron (STEAM_0:1:485914624): /me Подвигал Визер
+Sat Aug 12 14:03:02 2023	Кэлт (STEAM_0:0:230068935): /adminotcaunion1
+Sat Aug 12 14:03:07 2023	squadron (STEAM_0:1:485914624): Вы
+Sat Aug 12 14:03:23 2023	Egor Lisin (STEAM_0:1:464427619): !hp ^ 100
+Sat Aug 12 14:03:33 2023	squadron (STEAM_0:1:485914624): CMD.UNIT
+Sat Aug 12 14:03:48 2023	squadron (STEAM_0:1:485914624): Назовите количество Юнитов МПФ
+Sat Aug 12 14:03:55 2023	squadron (STEAM_0:1:485914624): Что-что?
+Sat Aug 12 14:04:32 2023	squadron (STEAM_0:1:485914624): Понятно. как в город прибудут гражданские начинайте делать Набор.
+Sat Aug 12 14:04:34 2023	Assassinkz was killed by Кэлт with a prop_physics
+Sat Aug 12 14:05:02 2023	squadron (STEAM_0:1:485914624): Хорошо
+Sat Aug 12 14:05:13 2023	squadron (STEAM_0:1:485914624): Постройте всех Г.О Для проверки.
+Sat Aug 12 14:05:25 2023	squadron (STEAM_0:1:485914624): Как вы общаетись со мной?
+Sat Aug 12 14:05:35 2023	Assassinkz (STEAM_0:1:63544152) spawned
+Sat Aug 12 14:05:39 2023	squadron (STEAM_0:1:485914624): Хорошо.
+Sat Aug 12 14:05:50 2023	Кэлт (STEAM_0:0:230068935) disconnected
+Sat Aug 12 14:05:51 2023	squadron (STEAM_0:1:485914624): За мной!
+Sat Aug 12 14:05:55 2023	Assassinkz (STEAM_0:1:63544152) disconnected
+Sat Aug 12 14:06:17 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:06:29 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 14:06:37 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:06:41 2023	squadron (STEAM_0:1:485914624): CMD.UNIT Как вам идея собрать Гражданских для проверки на 647E
+Sat Aug 12 14:06:51 2023	Шурик (STEAM_0:0:452405606) disconnected
+Sat Aug 12 14:06:54 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 14:07:15 2023	squadron (STEAM_0:1:485914624): Что за слово брядовое. Соблюдайте устав. пожалуйста.
+Sat Aug 12 14:07:31 2023	squadron (STEAM_0:1:485914624): Вы мне указываете?
+Sat Aug 12 14:07:49 2023	squadron (STEAM_0:1:485914624): 647Е
+Sat Aug 12 14:08:08 2023	squadron (STEAM_0:1:485914624): аххаха а у меня f4 не робит(Эльфийский)
+Sat Aug 12 14:08:11 2023	Me6oK (STEAM_0:0:431399359): !menu
+Sat Aug 12 14:08:16 2023	Me6oK (STEAM_0:0:431399359): !noclip
+Sat Aug 12 14:08:20 2023	vadimhalo (STEAM_0:0:172707452): на гит хабе
+Sat Aug 12 14:08:25 2023	vadimhalo (STEAM_0:0:172707452): профессии
+Sat Aug 12 14:08:27 2023	vadimhalo (STEAM_0:0:172707452): в канале правила
+Sat Aug 12 14:08:30 2023	Me6oK (STEAM_0:0:431399359): /admintorcgovec
+Sat Aug 12 14:08:48 2023	Egor Lisin (STEAM_0:1:464427619): // вадим, тп ко мне
+Sat Aug 12 14:09:06 2023	Активный гомес (STEAM_0:0:502703877): 
+Sat Aug 12 14:09:09 2023	Egor Lisin (STEAM_0:1:464427619): // вадииим
+Sat Aug 12 14:09:27 2023	Egor Lisin (STEAM_0:1:464427619): 
+Sat Aug 12 14:09:47 2023	Иван Саратов (STEAM_0:0:515795929): /admingruzhcchik
+Sat Aug 12 14:10:01 2023	Max Norris (STEAM_0:1:199254016): // вот оно то самое РП по вселенной HL, о которой я мечтал на самом деле
+Sat Aug 12 14:10:15 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // я от твоего голоса кончить хочу
+Sat Aug 12 14:10:22 2023	KrubirMrubika (STEAM_0:0:201490571): 10-4 10-20 нн
+Sat Aug 12 14:10:27 2023	Max Norris (STEAM_0:1:199254016): // ммм
+Sat Aug 12 14:10:39 2023	KrubirMrubika (STEAM_0:0:201490571): 10-4
+Sat Aug 12 14:10:42 2023	squadron (STEAM_0:1:485914624): 10-21
+Sat Aug 12 14:10:49 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:11:01 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:11:11 2023	squadron (STEAM_0:1:485914624): /pm ZXC Брат 10-21 это запрашиваю кмд юнит дядь ответь
+Sat Aug 12 14:11:11 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:11:14 2023	squadron (STEAM_0:1:485914624): 10-21
+Sat Aug 12 14:11:20 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron мужик нихуя
+Sat Aug 12 14:11:21 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:11:22 2023	Max Norris (STEAM_0:1:199254016): // У меня на F4 не видны правила кодов или тен-кодов
+Sat Aug 12 14:11:38 2023	анимепсих (STEAM_0:1:59432880): /requestlicense
+Sat Aug 12 14:11:45 2023	squadron (STEAM_0:1:485914624): 10-21 *Повторя
+Sat Aug 12 14:12:03 2023	Иван Саратов (STEAM_0:0:515795929): /ooc а где, кстати, устройство дающий еду?
+Sat Aug 12 14:12:07 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:12:10 2023	KrubirMrubika (STEAM_0:0:201490571): я не услышал
+Sat Aug 12 14:12:12 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron букавку поставишь тогда откликнусь
+Sat Aug 12 14:12:17 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:12:27 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:12:29 2023	squadron (STEAM_0:1:485914624): /pm zxc какую букавку блять
+Sat Aug 12 14:12:36 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:12:38 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron 10-21А это вызывать кмд
+Sat Aug 12 14:12:46 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:12:47 2023	KrubirMrubika (STEAM_0:0:201490571): Можешь написать?
+Sat Aug 12 14:12:52 2023	squadron (STEAM_0:1:485914624): /pm zxc в наших тен кодах нет сам чекни
+Sat Aug 12 14:12:56 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:12:56 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): назовите ваши указания
+Sat Aug 12 14:13:02 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron а где ваши тен коды
+Sat Aug 12 14:13:07 2023	KrubirMrubika (STEAM_0:0:201490571): 10-23
+Sat Aug 12 14:13:11 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron впринципе
+Sat Aug 12 14:13:12 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:13:12 2023	squadron (STEAM_0:1:485914624): /pm zxc В f4 или просто https://github.com/EL-RYUZAKI/uzvarajobs#CP
+Sat Aug 12 14:13:23 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:13:24 2023	KrubirMrubika (STEAM_0:0:201490571): 10-4
+Sat Aug 12 14:13:31 2023	squadron (STEAM_0:1:485914624): 10-21 *Повторя
+Sat Aug 12 14:13:33 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:13:40 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron бля ща тогда сорои
+Sat Aug 12 14:13:43 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:13:53 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:14:03 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:14:12 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:14:22 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:14:33 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:14:43 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:14:53 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:15:03 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:15:30 2023	squadron (STEAM_0:1:485914624): 10-21...
+Sat Aug 12 14:15:37 2023	squadron (STEAM_0:1:485914624): Внимание 10-21
+Sat Aug 12 14:15:44 2023	squadron (STEAM_0:1:485914624): Ваши 10-20?
+Sat Aug 12 14:16:00 2023	squadron (STEAM_0:1:485914624): А как мне общатся?
+Sat Aug 12 14:16:02 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:16:11 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:16:12 2023	squadron (STEAM_0:1:485914624): Я могу их использывать.
+Sat Aug 12 14:16:23 2023	Иван Саратов (STEAM_0:0:515795929): /me поднял коробку
+Sat Aug 12 14:16:33 2023	Иван Саратов (STEAM_0:0:515795929): /me отдал коробку кладовщику
+Sat Aug 12 14:16:36 2023	squadron (STEAM_0:1:485914624): Убирайся вон!
+Sat Aug 12 14:16:40 2023	Иван Саратов (STEAM_0:0:515795929) disconnected
+Sat Aug 12 14:16:47 2023	squadron (STEAM_0:1:485914624): Служу альянсу.
+Sat Aug 12 14:17:02 2023	squadron (STEAM_0:1:485914624): Как вам предложение при том когда ворота в город будут открыты
+Sat Aug 12 14:17:14 2023	squadron (STEAM_0:1:485914624): Поместить Доп-кпп у входа в нн.
+Sat Aug 12 14:17:37 2023	Активный гомес (STEAM_0:0:502703877): Polonar21
+Sat Aug 12 14:17:49 2023	squadron (STEAM_0:1:485914624): В нашем уставе нету 10-05 оно есть в другом уставе)
+Sat Aug 12 14:18:05 2023	squadron (STEAM_0:1:485914624): (( че за калл нельзя было поставить основные тен коды))
+Sat Aug 12 14:18:08 2023	Активный гомес (STEAM_0:0:502703877): Polonar21
+Sat Aug 12 14:18:13 2023	squadron (STEAM_0:1:485914624): (( вадим сам придумывает их кринге))
+Sat Aug 12 14:18:14 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): (( я хз лол ))
+Sat Aug 12 14:18:26 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): (( давай юзать те которые в стиме написаны ))
+Sat Aug 12 14:18:31 2023	vadimhalo (STEAM_0:0:172707452) has given 1,250 KWD to Активный гомес (STEAM_0:0:502703877)
+Sat Aug 12 14:18:36 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): (( ибо у вадима пол тен кодов нету ))
+Sat Aug 12 14:18:38 2023	squadron (STEAM_0:1:485914624): (( окей скинь ссылку у меня как заметка будет))
+Sat Aug 12 14:18:47 2023	Me6oK (STEAM_0:0:431399359): /drop
+Sat Aug 12 14:18:49 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:18:52 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /pm squadron https://steamcommunity.com/sharedfiles/filedetails/?id=1080070887
+Sat Aug 12 14:19:10 2023	squadron (STEAM_0:1:485914624): (( вадим что ты за человечек мы будем использывать обычные тен коды))
+Sat Aug 12 14:19:13 2023	squadron (STEAM_0:1:485914624): (( из стима))
+Sat Aug 12 14:19:25 2023	squadron (STEAM_0:1:485914624): Открыть огонь!
+Sat Aug 12 14:19:40 2023	squadron (STEAM_0:1:485914624): По факту
+Sat Aug 12 14:19:47 2023	squadron (STEAM_0:1:485914624): неее
+Sat Aug 12 14:19:59 2023	squadron (STEAM_0:1:485914624): нуу
+Sat Aug 12 14:20:02 2023	squadron (STEAM_0:1:485914624): ВАДИМ
+Sat Aug 12 14:20:13 2023	squadron (STEAM_0:1:485914624): мы будем использывать норм коды
+Sat Aug 12 14:20:18 2023	squadron (STEAM_0:1:485914624): из стима
+Sat Aug 12 14:20:18 2023	Активный гомес (STEAM_0:0:502703877): /adminvoedagaweqwr
+Sat Aug 12 14:20:20 2023	squadron (STEAM_0:1:485914624): а не твои
+Sat Aug 12 14:20:26 2023	KrubirMrubika (STEAM_0:0:201490571): вообще вроде в нн здача контрабанды но я хз где
+Sat Aug 12 14:20:28 2023	squadron (STEAM_0:1:485914624): ага
+Sat Aug 12 14:20:29 2023	анимепсих (STEAM_0:1:59432880): // вадим, ты написал на тексткрине "правилы знать обязательно"
+Sat Aug 12 14:20:30 2023	squadron (STEAM_0:1:485914624): сьебался
+Sat Aug 12 14:20:32 2023	squadron (STEAM_0:1:485914624): у меня нету
+Sat Aug 12 14:20:51 2023	squadron (STEAM_0:1:485914624): Не могу предоставить
+Sat Aug 12 14:20:58 2023	squadron (STEAM_0:1:485914624): Обращайтесь к CMD UNIT
+Sat Aug 12 14:21:53 2023	squadron (STEAM_0:1:485914624): Проверить
+Sat Aug 12 14:22:08 2023	squadron (STEAM_0:1:485914624): ТЫ приказываешь мне?
+Sat Aug 12 14:22:10 2023	Egor Lisin (STEAM_0:1:464427619): /drop
+Sat Aug 12 14:22:33 2023	KrubirMrubika (STEAM_0:0:201490571): Помощь нужна?
+Sat Aug 12 14:22:34 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT rp_water
+Sat Aug 12 14:22:45 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:23:24 2023	Активный гомес (STEAM_0:0:502703877): /ooc после открытия сервера профы слетят?
+Sat Aug 12 14:23:33 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // +
+Sat Aug 12 14:24:03 2023	squadron (STEAM_0:1:485914624): /me заломал руки егору
+Sat Aug 12 14:24:11 2023	squadron (STEAM_0:1:485914624): /me Резким Движением Одел стяжки
+Sat Aug 12 14:25:05 2023	squadron was killed by анимепсих with a swb_smg
+Sat Aug 12 14:25:14 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // гг кмд ота фри
+Sat Aug 12 14:25:16 2023	squadron (STEAM_0:1:485914624): // Дядь эт нарушение
+Sat Aug 12 14:25:21 2023	squadron (STEAM_0:1:485914624): // fear rp
+Sat Aug 12 14:25:21 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 14:25:33 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /roll
+Sat Aug 12 14:25:33 2023	анимепсих (STEAM_0:1:59432880): // 1:0, ГО отстает
+Sat Aug 12 14:26:01 2023	Egor Lisin (STEAM_0:1:464427619): никак нет, я не могу иметь 2 принтера, я служу альянсу.
+Sat Aug 12 14:26:21 2023	squadron (STEAM_0:1:485914624) spawned
+Sat Aug 12 14:26:23 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc через рол отыграй
+Sat Aug 12 14:26:27 2023	Egor Lisin (STEAM_0:1:464427619): /roll 100
+Sat Aug 12 14:26:28 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /l и через ми
+Sat Aug 12 14:26:32 2023	squadron (STEAM_0:1:485914624): // Анимепсих у тебя Fear rp
+Sat Aug 12 14:26:36 2023	Max Norris (STEAM_0:1:199254016): /looc /me чел
+Sat Aug 12 14:26:39 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc о да тут лоос заработал
+Sat Aug 12 14:26:43 2023	squadron (STEAM_0:1:485914624): // я стоял с оружием и ты убил меня. ПО СРЕДИ ГП
+Sat Aug 12 14:26:46 2023	squadron (STEAM_0:1:485914624): // ну это пиздец
+Sat Aug 12 14:26:55 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc мужик /me отыграй типа ты вколол
+Sat Aug 12 14:26:55 2023	Egor Lisin (STEAM_0:1:464427619): /me на секунду  потерял сознание
+Sat Aug 12 14:26:59 2023	Egor Lisin (STEAM_0:1:464427619): /me пришел в себя
+Sat Aug 12 14:27:12 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /me взял из сумки медика шприц с жидкостью
+Sat Aug 12 14:27:14 2023	Egor Lisin (STEAM_0:1:464427619): /do У гражданина расширились зрачки
+Sat Aug 12 14:27:17 2023	Egor Lisin (STEAM_0:1:464427619): /l пон
+Sat Aug 12 14:27:20 2023	Egor Lisin (STEAM_0:1:464427619): /looc пое
+Sat Aug 12 14:27:27 2023	Egor Lisin (STEAM_0:1:464427619): /looc да что за хуйня
+Sat Aug 12 14:27:27 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 14:27:28 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /me вколо гражданину шприц с жидкомтью
+Sat Aug 12 14:27:35 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc тут лоос только фулл командой работает
+Sat Aug 12 14:27:38 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /roll 100
+Sat Aug 12 14:27:41 2023	Egor Lisin (STEAM_0:1:464427619): /me глаза расширились
+Sat Aug 12 14:27:46 2023	Egor Lisin (STEAM_0:1:464427619): /roll 100
+Sat Aug 12 14:27:53 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /me проверил зрачки
+Sat Aug 12 14:27:54 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 14:28:05 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 14:28:09 2023	Egor Lisin (STEAM_0:1:464427619): /looc сыворотка не сработала ало xD
+Sat Aug 12 14:28:15 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc я знаю
+Sat Aug 12 14:28:16 2023	Egor Lisin (STEAM_0:1:464427619): /looc у меня больше
+Sat Aug 12 14:28:19 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc вадим попросил
+Sat Aug 12 14:28:21 2023	Egor Lisin (STEAM_0:1:464427619): /looc ну
+Sat Aug 12 14:28:23 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc тебя отпустить
+Sat Aug 12 14:28:27 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc я хчоу это обыграть
+Sat Aug 12 14:28:42 2023	Max Norris (STEAM_0:1:199254016): /looc над же проверит сыворотку
+Sat Aug 12 14:29:01 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /looc там не сыворотока проверяется а зрачки
+Sat Aug 12 14:29:53 2023	Egor Lisin (STEAM_0:1:464427619): Понятно
+Sat Aug 12 14:30:03 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /lottery " "5
+Sat Aug 12 14:30:04 2023	squadron (STEAM_0:1:485914624): Идея мне подходит. Делаем.
+Sat Aug 12 14:31:05 2023	Egor Lisin (STEAM_0:1:464427619): /adminpcovstanec
+Sat Aug 12 14:31:10 2023	Egor Lisin (STEAM_0:1:464427619): парни
+Sat Aug 12 14:31:15 2023	Egor Lisin (STEAM_0:1:464427619): го рейд устроим?
+Sat Aug 12 14:31:24 2023	KrubirMrubika (STEAM_0:0:201490571): 10-4
+Sat Aug 12 14:31:26 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /advert Граждане! Построение на главной площади! У вас 5 циклов! Неявка - А�
+Sat Aug 12 14:31:38 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // мпутация
+Sat Aug 12 14:31:42 2023	squadron (STEAM_0:1:485914624): <avatar=STEAM_0:1:485914624>
+Sat Aug 12 14:32:03 2023	squadron (STEAM_0:1:485914624): // Можно было написать Не явка Признание 647Е Так было бы имба
+Sat Aug 12 14:32:13 2023	анимепсих (STEAM_0:1:59432880): // имба когда кмд ота стоит на гп соло
+Sat Aug 12 14:32:18 2023	Egor Lisin (STEAM_0:1:464427619): есть кто?
+Sat Aug 12 14:32:22 2023	squadron (STEAM_0:1:485914624): // А с кем стоять не кого нету(
+Sat Aug 12 14:32:42 2023	KrubirMrubika (STEAM_0:0:201490571): Явитесь на главную площадь 
+Sat Aug 12 14:32:50 2023	squadron (STEAM_0:1:485914624): // Или написать проходит Инспекция Личности. Собратся на гп
+Sat Aug 12 14:32:53 2023	Max Norris (STEAM_0:1:199254016): // мда.....
+Sat Aug 12 14:32:59 2023	KrubirMrubika was killed by vadimhalo with a weapon_hl2axe
+Sat Aug 12 14:33:37 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:37 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:37 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:37 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:37 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:38 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:38 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:38 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:33:55 2023	vadimhalo (STEAM_0:0:172707452): /roll 6
+Sat Aug 12 14:34:01 2023	KrubirMrubika (STEAM_0:0:201490571) spawned
+Sat Aug 12 14:34:03 2023	Egor Lisin (STEAM_0:1:464427619): Понятно
+Sat Aug 12 14:34:03 2023	анимепсих (STEAM_0:1:59432880): /roll 6
+Sat Aug 12 14:34:10 2023	Egor Lisin (STEAM_0:1:464427619): :unhappy:
+Sat Aug 12 14:34:10 2023	vadimhalo (STEAM_0:0:172707452): /roll 6
+Sat Aug 12 14:34:10 2023	Активный гомес (STEAM_0:0:502703877): /roll 6
+Sat Aug 12 14:34:22 2023	vadimhalo (STEAM_0:0:172707452): они рядом
+Sat Aug 12 14:34:42 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 14:35:18 2023	squadron (STEAM_0:1:485914624): Внимание был убит сотрудник. Всем постам начать Патруль.
+Sat Aug 12 14:35:37 2023	Egor Lisin (STEAM_0:1:464427619): /give 40
+Sat Aug 12 14:35:38 2023	Egor Lisin (STEAM_0:1:464427619) has given 40 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:35:46 2023	squadron (STEAM_0:1:485914624): Хочешь Отдать Долг Альянсу?
+Sat Aug 12 14:35:49 2023	Egor Lisin (STEAM_0:1:464427619): /give 10
+Sat Aug 12 14:35:49 2023	Max Norris was killed by анимепсих with a swb_smg
+Sat Aug 12 14:35:50 2023	Egor Lisin (STEAM_0:1:464427619) has given 10 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:35:52 2023	KrubirMrubika (STEAM_0:0:201490571): Да
+Sat Aug 12 14:35:59 2023	squadron (STEAM_0:1:485914624): За мной!
+Sat Aug 12 14:36:11 2023	Max Norris (STEAM_0:1:199254016): // Откуда он вылез :D?
+Sat Aug 12 14:36:24 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 14:36:34 2023	Egor Lisin (STEAM_0:1:464427619): вадим
+Sat Aug 12 14:36:34 2023	squadron (STEAM_0:1:485914624): /me Достал Шприц С Запиской "Для Чипировки"
+Sat Aug 12 14:36:40 2023	squadron (STEAM_0:1:485914624): /me вколол человеку
+Sat Aug 12 14:36:40 2023	Egor Lisin (STEAM_0:1:464427619): анимепсих
+Sat Aug 12 14:36:45 2023	Egor Lisin (STEAM_0:1:464427619): го рейд на город
+Sat Aug 12 14:36:48 2023	squadron (STEAM_0:1:485914624): /me Человек на полу
+Sat Aug 12 14:36:50 2023	Max Norris (STEAM_0:1:199254016) spawned
+Sat Aug 12 14:36:54 2023	Egor Lisin (STEAM_0:1:464427619): пожалуйста
+Sat Aug 12 14:37:04 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:37:04 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:37:04 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:37:04 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_healthkit
+Sat Aug 12 14:37:08 2023	squadron (STEAM_0:1:485914624): /me Резким Движением Одел стяжки
+Sat Aug 12 14:37:11 2023	squadron (STEAM_0:1:485914624): /me Повел
+Sat Aug 12 14:37:19 2023	vadimhalo was killed by ZXCRESLOEBATEL with a swb_shotgun
+Sat Aug 12 14:37:32 2023	Активный гомес was killed by ZXCRESLOEBATEL with a swb_shotgun
+Sat Aug 12 14:37:37 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 пошли рейд на город делать
+Sat Aug 12 14:37:56 2023	ZXCRESLOEBATEL was killed by анимепсих with a swb_smg
+Sat Aug 12 14:37:56 2023	squadron (STEAM_0:1:485914624): Эльфийский:Иди за первого юнита встань
+Sat Aug 12 14:38:01 2023	Max Norris (STEAM_0:1:199254016): /admincunit2
+Sat Aug 12 14:38:02 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // у меня уебан на кмд
+Sat Aug 12 14:38:05 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 14:38:09 2023	KrubirMrubika (STEAM_0:0:201490571): /adminucnit1
+Sat Aug 12 14:38:11 2023	анимепсих (STEAM_0:1:59432880): // i have no enemies
+Sat Aug 12 14:38:31 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sat Aug 12 14:38:33 2023	Активный гомес (STEAM_0:0:502703877) spawned
+Sat Aug 12 14:38:43 2023	Max Norris (STEAM_0:1:199254016): /admincunit2
+Sat Aug 12 14:38:49 2023	Max Norris (STEAM_0:1:199254016): /admincunit2
+Sat Aug 12 14:38:56 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948) spawned
+Sat Aug 12 14:38:57 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 ты где?
+Sat Aug 12 14:39:06 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin у себя в штабе. где встретимся?
+Sat Aug 12 14:39:07 2023	Egor Lisin (STEAM_0:1:464427619): // да похуй
+Sat Aug 12 14:39:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // пиздец у меня отличный был кмд ота
+Sat Aug 12 14:39:13 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 на вход в каналы
+Sat Aug 12 14:39:17 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // 3 раза помощь просил
+Sat Aug 12 14:39:18 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin ок. жди.
+Sat Aug 12 14:39:22 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 в самом начале входа в зс
+Sat Aug 12 14:39:36 2023	squadron (STEAM_0:1:485914624): /me Ударил Человеку по лицу для того что бы очнулся
+Sat Aug 12 14:39:42 2023	squadron (STEAM_0:1:485914624): Живой?
+Sat Aug 12 14:39:46 2023	KrubirMrubika (STEAM_0:0:201490571): Да
+Sat Aug 12 14:39:52 2023	squadron (STEAM_0:1:485914624): За мной иди
+Sat Aug 12 14:39:53 2023	Egor Lisin (STEAM_0:1:464427619): /give 10
+Sat Aug 12 14:39:54 2023	Egor Lisin (STEAM_0:1:464427619) has given 10 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:39:55 2023	squadron (STEAM_0:1:485914624): а то...
+Sat Aug 12 14:40:14 2023	squadron (STEAM_0:1:485914624): /me Достал пистолет для устоновки чипов и поместил чип в него
+Sat Aug 12 14:40:17 2023	squadron (STEAM_0:1:485914624): Поворачивайся
+Sat Aug 12 14:40:22 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 14:40:28 2023	squadron (STEAM_0:1:485914624): /me Вставил чип в шею
+Sat Aug 12 14:40:40 2023	squadron (STEAM_0:1:485914624): /me ((DO)) Чип действует?
+Sat Aug 12 14:40:45 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin я ебу где это.
+Sat Aug 12 14:40:46 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 мы тебя ждем
+Sat Aug 12 14:40:48 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 14:40:49 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin )
+Sat Aug 12 14:40:55 2023	KrubirMrubika (STEAM_0:0:201490571): /do lf
+Sat Aug 12 14:40:55 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 там где постанцы берутся
+Sat Aug 12 14:41:00 2023	Egor Lisin (STEAM_0:1:464427619): /pm STEAM_0:1:59432880 одежда
+Sat Aug 12 14:41:00 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin я стою тут
+Sat Aug 12 14:41:01 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /admicnepu
+Sat Aug 12 14:41:09 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin просто их двое по сити, и я не знаю где второй
+Sat Aug 12 14:41:12 2023	squadron (STEAM_0:1:485914624): Юнит принять приказ взять Форму у человека
+Sat Aug 12 14:41:13 2023	vadimhalo (STEAM_0:0:172707452): /adminvoedagaweqwr
+Sat Aug 12 14:41:16 2023	squadron (STEAM_0:1:485914624): Выполнять
+Sat Aug 12 14:41:19 2023	KrubirMrubika (STEAM_0:0:201490571): как писать do?
+Sat Aug 12 14:41:23 2023	squadron (STEAM_0:1:485914624): не как
+Sat Aug 12 14:41:25 2023	squadron (STEAM_0:1:485914624): нету команды
+Sat Aug 12 14:41:27 2023	Активный гомес (STEAM_0:0:502703877): /adminbeczhenec
+Sat Aug 12 14:41:28 2023	KrubirMrubika (STEAM_0:0:201490571): понял
+Sat Aug 12 14:41:39 2023	squadron (STEAM_0:1:485914624): Принять приказ взять форму у юнита ота
+Sat Aug 12 14:41:50 2023	Total Devastation (STEAM_0:1:487509974) has joined the game
+Sat Aug 12 14:41:50 2023	Total Devastation (STEAM_0:1:487509974) spawned
+Sat Aug 12 14:41:52 2023	squadron (STEAM_0:1:485914624): Денег нема
+Sat Aug 12 14:41:59 2023	KrubirMrubika (STEAM_0:0:201490571): щя надо 3 юнита купить
+Sat Aug 12 14:42:01 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 14:42:05 2023	squadron (STEAM_0:1:485914624): да я твой рот шатал
+Sat Aug 12 14:42:08 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:42:10 2023	Активный гомес (STEAM_0:0:502703877) has given 40 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:42:14 2023	squadron (STEAM_0:1:485914624): иди тогда бери юнита 3 и вставай за любого ота
+Sat Aug 12 14:42:31 2023	анимепсих (STEAM_0:1:59432880) has given 10 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:42:36 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:42:40 2023	анимепсих (STEAM_0:1:59432880) has given 10 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:42:49 2023	vadimhalo (STEAM_0:0:172707452): /setmioney vadimhalo 100000
+Sat Aug 12 14:42:54 2023	vadimhalo (STEAM_0:0:172707452): /setmoney vadimhalo 100000
+Sat Aug 12 14:42:54 2023	vadimhalo (STEAM_0:0:172707452) set vadimhalo's money to 100,000 KWD
+Sat Aug 12 14:42:56 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:42:57 2023	Активный гомес (STEAM_0:0:502703877) has given 10 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:43:05 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:43:56 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin зеленый свет. выходите
+Sat Aug 12 14:43:58 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin зеленый свет. выходите
+Sat Aug 12 14:43:59 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin зеленый свет. выходите
+Sat Aug 12 14:44:24 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin юнит ГО в нексусе
+Sat Aug 12 14:44:27 2023	анимепсих (STEAM_0:1:59432880): /pm Lisin юнит ГО в нексусе
+Sat Aug 12 14:44:55 2023	KrubirMrubika (STEAM_0:0:201490571): /adminotcaunion1
+Sat Aug 12 14:44:57 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): /adminotcaelitee1
+Sat Aug 12 14:44:58 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_pistol_large
+Sat Aug 12 14:44:58 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_pistol_large
+Sat Aug 12 14:44:58 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_pistol_large
+Sat Aug 12 14:44:58 2023	Max Norris was killed by Me6oK with a swb_smg
+Sat Aug 12 14:45:17 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): *запрос протокола*
+Sat Aug 12 14:45:36 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:45:40 2023	Total Devastation (STEAM_0:1:487509974): /pm STEAM_0:0:172707452 что на счет денег и возможности выдачи оружий, энтити и т
+Sat Aug 12 14:45:51 2023	squadron was killed by Активный гомес with a swb_smg
+Sat Aug 12 14:45:59 2023	Max Norris (STEAM_0:1:199254016) spawned
+Sat Aug 12 14:46:49 2023	Max Norris (STEAM_0:1:199254016) disconnected
+Sat Aug 12 14:46:50 2023	Активный гомес (STEAM_0:0:502703877) has given 5 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:46:50 2023	Egor Lisin (STEAM_0:1:464427619): /give 10
+Sat Aug 12 14:46:52 2023	Egor Lisin (STEAM_0:1:464427619) has given 10 KWD to Me6oK (STEAM_0:0:431399359)
+Sat Aug 12 14:47:50 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:48:09 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 14:48:09 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 14:48:09 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 14:48:09 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_ammo_smg1_large
+Sat Aug 12 14:48:23 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:48:26 2023	squadron (STEAM_0:1:485914624) spawned
+Sat Aug 12 14:48:33 2023	Total Devastation (STEAM_0:1:487509974): /drop
+Sat Aug 12 14:49:05 2023	squadron (STEAM_0:1:485914624): !goto Vadimhalo
+Sat Aug 12 14:50:57 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:50:58 2023	vadimhalo (STEAM_0:0:172707452): /ooc голубь ты че прячешься
+Sat Aug 12 14:51:01 2023	Me6oK was killed by KrubirMrubika with a swb_smg
+Sat Aug 12 14:51:18 2023	squadron (STEAM_0:1:485914624): /adminomoshnik
+Sat Aug 12 14:51:18 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948): // я афк
+Sat Aug 12 14:51:43 2023	анимепсих (STEAM_0:1:59432880): /drop
+Sat Aug 12 14:51:51 2023	KrubirMrubika was killed by vadimhalo with a swb_smg
+Sat Aug 12 14:51:56 2023	Me6oK (STEAM_0:0:431399359) disconnected
+Sat Aug 12 14:51:58 2023	анимепсих (STEAM_0:1:59432880): // я на минуту отойду, срочно
+Sat Aug 12 14:52:00 2023	анимепсих (STEAM_0:1:59432880) disconnected
+Sat Aug 12 14:52:00 2023	ZXCRESLOEBATEL was killed by Активный гомес with a swb_smg
+Sat Aug 12 14:52:12 2023	Egor Lisin (STEAM_0:1:464427619): \
+Sat Aug 12 14:52:25 2023	Total Devastation (STEAM_0:1:487509974): /drop
+Sat Aug 12 14:52:29 2023	vadimhalo (STEAM_0:0:172707452): /ooc почему ар2 в руках не было?
+Sat Aug 12 14:52:32 2023	кирилл буданов (STEAM_0:1:59432880) has joined the game
+Sat Aug 12 14:52:32 2023	анимепсих (STEAM_0:1:59432880) spawned
+Sat Aug 12 14:52:33 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:52:39 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:52:54 2023	KrubirMrubika (STEAM_0:0:201490571) spawned
+Sat Aug 12 14:53:05 2023	Total Devastation (STEAM_0:1:487509974): !menu
+Sat Aug 12 14:54:05 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:54:08 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948) spawned
+Sat Aug 12 14:55:01 2023	анимепсих (STEAM_0:1:59432880): // рейд отбили?
+Sat Aug 12 14:55:11 2023	Total Devastation (STEAM_0:1:487509974): /drop
+Sat Aug 12 14:55:13 2023	анимепсих (STEAM_0:1:59432880): // я после открытия полного без отхождений буду, если че
+Sat Aug 12 14:55:14 2023	Total Devastation (STEAM_0:1:487509974): /drop
+Sat Aug 12 14:55:17 2023	анимепсих (STEAM_0:1:59432880): // щас почта пришла
+Sat Aug 12 14:55:19 2023	Активный гомес (STEAM_0:0:502703877): /ooc они отсосали
+Sat Aug 12 14:55:38 2023	ZXCRESLOEBATEL (STEAM_0:1:189765948) disconnected
+Sat Aug 12 14:55:47 2023	vadimhalo (STEAM_0:0:172707452): /ooc че все ливают
+Sat Aug 12 14:55:53 2023	vadimhalo (STEAM_0:0:172707452): /ooc скучно уже что ли я не пойму
+Sat Aug 12 14:55:59 2023	Total Devastation (STEAM_0:1:487509974): /pm STEAM_0:0:172707452 что на счет денег и возможности выдачи оружий, энтити и т
+Sat Aug 12 14:56:06 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 14:56:21 2023	анимепсих (STEAM_0:1:59432880): // не, у мя почта, 5 сек
+Sat Aug 12 14:56:27 2023	vadimhalo (STEAM_0:0:172707452): /adminbeczhenec
+Sat Aug 12 14:56:33 2023	анимепсих (STEAM_0:1:59432880): // рейд был атмосферным, базару нет
+Sat Aug 12 14:56:37 2023	анимепсих (STEAM_0:1:59432880): // сделай только пжлст маники для партизан
+Sat Aug 12 14:56:42 2023	Total Devastation (STEAM_0:1:487509974): /admintorcgovec
+Sat Aug 12 14:56:51 2023	vadimhalo (STEAM_0:0:172707452): /ooc e;t
+Sat Aug 12 14:56:56 2023	vadimhalo (STEAM_0:0:172707452): /ooc уже 
+Sat Aug 12 14:58:15 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 14:58:20 2023	squadron was killed by Entity [1002][trigger_hurt] with a trigger_hurt
+Sat Aug 12 14:58:48 2023	Total Devastation (STEAM_0:1:487509974): /pm STEAM_0:0:172707452 что на счет денег и возможности выдачи оружий, энтити и т
+Sat Aug 12 14:59:12 2023	Total Devastation (STEAM_0:1:487509974): /pm vad у меня 80 квд остаток после фулл покупки ЮНИТОВ и ОТА
+Sat Aug 12 14:59:22 2023	squadron (STEAM_0:1:485914624) spawned
+Sat Aug 12 14:59:23 2023	Total Devastation (STEAM_0:1:487509974): /pm vad + 2 профы повстанцев
+Sat Aug 12 14:59:53 2023	squadron (STEAM_0:1:485914624): /adminomoshnik
+Sat Aug 12 15:00:01 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 15:01:04 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 15:01:22 2023	squadron (STEAM_0:1:485914624): /adcmindvl
+Sat Aug 12 15:01:35 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 15:01:40 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 15:02:02 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 15:02:31 2023	💀 SCP-173 💀(UA) (STEAM_0:0:480303422) has joined the game
+Sat Aug 12 15:02:31 2023	💀 SCP-173 💀(UA) (STEAM_0:0:480303422) spawned
+Sat Aug 12 15:02:46 2023	анимепсих (STEAM_0:1:59432880): // вадим, что насчет дупликатора? добавлять не хочешь?
+Sat Aug 12 15:02:47 2023	KrubirMrubika (STEAM_0:0:201490571): /admi21zaqsdq11qaznzomcbie1
+Sat Aug 12 15:02:51 2023	Активный гомес (STEAM_0:0:502703877): /name Polonar21
+Sat Aug 12 15:02:56 2023	vadimhalo (STEAM_0:0:172707452): /ooc не будет
+Sat Aug 12 15:03:01 2023	анимепсих (STEAM_0:1:59432880): // третье лицо тоже?
+Sat Aug 12 15:03:08 2023	анимепсих (STEAM_0:1:59432880): Извините
+Sat Aug 12 15:03:10 2023	анимепсих (STEAM_0:1:59432880): ГО-шники
+Sat Aug 12 15:03:35 2023	Egor Lisin was killed by KrubirMrubika with a w_z_fustzombie
+Sat Aug 12 15:03:39 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_box_buckshot
+Sat Aug 12 15:03:39 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_box_buckshot
+Sat Aug 12 15:03:39 2023	vadimhalo (STEAM_0:0:172707452) spawned SENT item_box_buckshot
+Sat Aug 12 15:03:41 2023	Total Devastation was killed by KrubirMrubika with a w_z_fustzombie
+Sat Aug 12 15:03:53 2023	KrubirMrubika was killed by vadimhalo with a swb_shotgun
+Sat Aug 12 15:04:08 2023	💀 SCP-173 💀(UA) (STEAM_0:0:480303422): /OOC вадим ти тут дай награду мне
+Sat Aug 12 15:04:23 2023	vadimhalo (STEAM_0:0:172707452): a 
+Sat Aug 12 15:04:24 2023	vadimhalo (STEAM_0:0:172707452): !menu
+Sat Aug 12 15:04:41 2023	Total Devastation (STEAM_0:1:487509974) spawned
+Sat Aug 12 15:04:43 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 15:04:53 2023	KrubirMrubika (STEAM_0:0:201490571) spawned
+Sat Aug 12 15:04:54 2023	💀 SCP-173 💀(UA) (STEAM_0:0:480303422): вадим
+Sat Aug 12 15:05:01 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 15:05:19 2023	vadimhalo (STEAM_0:0:172707452) has given 2,500 KWD to 💀 SCP-173 💀(UA) (STEAM_0:0:480303422)
+Sat Aug 12 15:06:25 2023	💀 SCP-173 💀(UA) (STEAM_0:0:480303422): /admi21zaqsdq11qaznzomcbie1
+Sat Aug 12 15:06:56 2023	Polonar21 was killed by 💀 SCP-173 💀(UA) with a w_z_fustzombie
+Sat Aug 12 15:07:07 2023	Total Devastation was killed by 💀 SCP-173 💀(UA) with a w_z_fustzombie
+Sat Aug 12 15:07:17 2023	Egor Lisin (STEAM_0:1:464427619) spawned
+Sat Aug 12 15:07:23 2023	vadimhalo was killed by 💀 SCP-173 💀(UA) with a w_z_fustzombie
+Sat Aug 12 15:07:50 2023	Egor Lisin (STEAM_0:1:464427619) disconnected
+Sat Aug 12 15:07:51 2023	vadimhalo (STEAM_0:0:172707452): /advert рестарт сервер снимается с пароля
+Sat Aug 12 15:07:56 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 15:07:59 2023	vadimhalo (STEAM_0:0:172707452): /ooc рестарь сервер снимается с пароля
+Sat Aug 12 15:07:59 2023	Total Devastation (STEAM_0:1:487509974): /logs
+Sat Aug 12 15:08:06 2023	Polonar21 (STEAM_0:0:502703877) spawned
+Sat Aug 12 15:08:07 2023	Total Devastation (STEAM_0:1:487509974) spawned
+Sat Aug 12 15:08:09 2023	Total Devastation (STEAM_0:1:487509974): 
+Sat Aug 12 15:08:13 2023	Total Devastation (STEAM_0:1:487509974): /logs

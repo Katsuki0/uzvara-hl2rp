@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name"            "Essential DarkRP Scoreboard"
+	"author_name"     "Yuriy"
+	"author_url"      "https://steamcommunity.com/profiles/76561198089349272"
+}

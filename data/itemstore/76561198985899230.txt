@@ -1,0 +1,1 @@
+[{"Data":{"Amount":0.0,"Clip1":,"Ammo":,"Class":"swb_smg","Model":"models/weapons/w_smg1.mdl","Clip2":},"Class":"spawned_weapon"}]

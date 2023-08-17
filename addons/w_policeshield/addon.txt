@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Police Shield"
+	"version"			"1"
+	"up_date"			"25/01/16"
+	"author_name"			"Drover"
+	"author_email"			""
+	"author_url"			""
+	"info"				""
+	"override"			"0"
+}

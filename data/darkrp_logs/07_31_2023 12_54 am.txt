@@ -1,0 +1,68 @@
+Mon Jul 31 00:54:06 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Jul 31 00:54:06 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Mon Jul 31 01:37:01 2023	Bot02 (BOT) has joined the game
+Mon Jul 31 01:37:01 2023	Bot02 (BOT) spawned
+Mon Jul 31 01:37:06 2023	Я не Shapka (STEAM_0:0:45477833): !goto bot1
+Mon Jul 31 01:37:10 2023	Я не Shapka (STEAM_0:0:45477833): !gob bot
+Mon Jul 31 01:37:16 2023	Я не Shapka (STEAM_0:0:45477833): !goto bot
+Mon Jul 31 01:49:01 2023	Я не Shapka (STEAM_0:0:45477833) disconnected
+Mon Jul 31 01:49:01 2023	Bot02 (BOT) disconnected
+Mon Jul 31 12:15:09 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Jul 31 12:15:09 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Mon Jul 31 12:18:39 2023	Я не Shapka (STEAM_0:0:45477833): !hp ^ 1
+Mon Jul 31 12:19:18 2023	Bot03 (BOT) has joined the game
+Mon Jul 31 12:19:18 2023	Bot03 (BOT) spawned
+Mon Jul 31 12:19:20 2023	Я не Shapka (STEAM_0:0:45477833): !goto bot1
+Mon Jul 31 12:19:22 2023	Я не Shapka (STEAM_0:0:45477833): !goto bot
+Mon Jul 31 12:19:26 2023	Я не Shapka (STEAM_0:0:45477833): !goto bot03
+Mon Jul 31 12:19:29 2023	Bot03 was killed by Я не Shapka with a w_z_zombie
+Mon Jul 31 12:20:29 2023	Bot03 (BOT) spawned
+Mon Jul 31 12:22:40 2023	Я не Shapka (STEAM_0:0:45477833): /rpname Garry Huffan
+Mon Jul 31 12:30:37 2023	Garry Huffan (STEAM_0:0:45477833): !kick bot
+Mon Jul 31 12:30:37 2023	Bot03 (BOT) disconnected
+Mon Jul 31 12:32:45 2023	squadron (STEAM_0:1:485914624) has joined the game
+Mon Jul 31 12:32:45 2023	squadron (STEAM_0:1:485914624) spawned
+Mon Jul 31 12:36:05 2023	squadron (STEAM_0:1:485914624): // Братик че там
+Mon Jul 31 12:37:29 2023	Garry Huffan (STEAM_0:0:45477833): !goto squ
+Mon Jul 31 12:37:35 2023	Garry Huffan (STEAM_0:0:45477833): Не вижу ошибок
+Mon Jul 31 12:44:37 2023	Garry Huffan (STEAM_0:0:45477833): Ну и
+Mon Jul 31 12:44:38 2023	squadron (STEAM_0:1:485914624): хай
+Mon Jul 31 12:44:40 2023	Garry Huffan (STEAM_0:0:45477833): Все ок
+Mon Jul 31 12:44:44 2023	squadron (STEAM_0:1:485914624): щас проверим
+Mon Jul 31 12:44:47 2023	squadron (STEAM_0:1:485914624): скинь деньги
+Mon Jul 31 12:44:50 2023	squadron (STEAM_0:1:485914624): 10 токенов
+Mon Jul 31 12:44:51 2023	Garry Huffan (STEAM_0:0:45477833): /dropmoney 10
+Mon Jul 31 12:44:52 2023	Garry Huffan (STEAM_0:0:45477833) has dropped 10 KWD
+Mon Jul 31 12:44:59 2023	Garry Huffan (STEAM_0:0:45477833): Так, это ошибка с моделей
+Mon Jul 31 12:45:01 2023	Garry Huffan (STEAM_0:0:45477833): похуй
+Mon Jul 31 12:45:02 2023	squadron (STEAM_0:1:485914624): аа понч
+Mon Jul 31 12:45:13 2023	squadron (STEAM_0:1:485914624): щас проверю грузчика
+Mon Jul 31 12:45:13 2023	Garry Huffan (STEAM_0:0:45477833): Еще варианты есть?
+Mon Jul 31 12:45:19 2023	Garry Huffan (STEAM_0:0:45477833): могу дать бабло
+Mon Jul 31 12:45:25 2023	squadron (STEAM_0:1:485914624): /admingruzhcchik
+Mon Jul 31 12:45:29 2023	Garry Huffan (STEAM_0:0:45477833): Так?
+Mon Jul 31 12:45:31 2023	Garry Huffan (STEAM_0:0:45477833): и?
+Mon Jul 31 12:45:41 2023	squadron (STEAM_0:1:485914624): он не робил я приносил а денег не давалось(((
+Mon Jul 31 12:45:58 2023	Garry Huffan (STEAM_0:0:45477833): !goto squ
+Mon Jul 31 12:46:19 2023	squadron (STEAM_0:1:485914624): /me поднял коробку
+Mon Jul 31 12:46:30 2023	squadron (STEAM_0:1:485914624): /me отдал коробку кладовщику
+Mon Jul 31 12:46:34 2023	squadron (STEAM_0:1:485914624): робит
+Mon Jul 31 12:46:36 2023	Garry Huffan (STEAM_0:0:45477833): Кароче все работает
+Mon Jul 31 12:46:45 2023	squadron (STEAM_0:1:485914624): а че было та?
+Mon Jul 31 12:46:50 2023	Garry Huffan (STEAM_0:0:45477833): А я не ебу
+Mon Jul 31 12:46:53 2023	squadron (STEAM_0:1:485914624): аххаха
+Mon Jul 31 12:46:57 2023	Garry Huffan (STEAM_0:0:45477833): Я ничего не делал
+Mon Jul 31 12:47:05 2023	squadron (STEAM_0:1:485914624): ну хз хз
+Mon Jul 31 12:47:08 2023	Garry Huffan (STEAM_0:0:45477833): кароче ладно
+Mon Jul 31 12:47:12 2023	Garry Huffan (STEAM_0:0:45477833): отметим в чек листе как ок
+Mon Jul 31 12:47:15 2023	Garry Huffan (STEAM_0:0:45477833): Спасибо
+Mon Jul 31 12:47:20 2023	squadron (STEAM_0:1:485914624): пожалуйста.
+Mon Jul 31 12:47:22 2023	Garry Huffan (STEAM_0:0:45477833): !kick squa
+Mon Jul 31 12:47:22 2023	squadron (STEAM_0:1:485914624) disconnected
+Mon Jul 31 12:47:44 2023	Garry Huffan (STEAM_0:0:45477833) disconnected
+Mon Jul 31 16:39:14 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Jul 31 16:39:14 2023	Garry Huffan (STEAM_0:0:45477833) spawned
+Mon Jul 31 16:45:25 2023	Garry Huffan (STEAM_0:0:45477833) disconnected
+Mon Jul 31 16:45:59 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Mon Jul 31 16:45:59 2023	Garry Huffan (STEAM_0:0:45477833) spawned
+Mon Jul 31 16:46:52 2023	Garry Huffan (STEAM_0:0:45477833): /lottery

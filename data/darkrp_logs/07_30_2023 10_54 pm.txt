@@ -1,0 +1,7 @@
+Sun Jul 30 22:54:53 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Sun Jul 30 22:54:53 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Sun Jul 30 23:50:19 2023	Я не Shapka (STEAM_0:0:45477833) disconnected
+Sun Jul 30 23:54:50 2023	Я не Shapka (STEAM_0:0:45477833) has joined the game
+Sun Jul 30 23:54:50 2023	Я не Shapka (STEAM_0:0:45477833) spawned
+Sun Jul 30 23:57:08 2023	Я не Shapka (STEAM_0:0:45477833): /advert 123
+Sun Jul 30 23:57:36 2023	Я не Shapka (STEAM_0:0:45477833): /advert 123

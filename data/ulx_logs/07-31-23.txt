@@ -1,0 +1,192 @@
+[00:11:08] New map: rp_city11_sv
+[00:12:13] Client "Я не Shapka" connected.
+[00:12:46] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 33 seconds).
+[00:13:45] Я не Shapka: /advert 123
+[00:17:04] Server is shutting down/changing levels.
+
+
+
+[00:17:26] New map: rp_city11_sv
+[00:18:00] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 42 seconds).
+[00:19:45] (Console) added Я не Shapka to group superadmin
+[00:19:46] (Console) banned steamid STEAM_0:0:45477833(Я не Shapka)  permanently (Я запрещаю тебе срать!)
+[00:19:46] Dropped "Я не Shapka" from server<STEAM_0:0:45477833>
+[00:20:33] (Console) unbanned steamid STEAM_0:0:45477833 (Я не Shapka)
+[00:20:39] Server is shutting down/changing levels.
+
+
+
+[00:21:02] New map: rp_city11_sv
+
+
+
+[00:35:50] New map: rp_city11_sv
+[00:36:28] Client "Я не Shapka" connected.
+[00:36:59] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 31 seconds).
+[00:43:24] Я не Shapka created ent w_z_zombie
+[00:43:46] Я не Shapka set the hp for Themself to 1
+[00:43:46] Я не Shapka: !hp ^ 1
+[00:51:20] Я не Shapka<STEAM_0:0:45477833> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[00:52:13] Я не Shapka set the hp for Themself to 2
+[00:52:13] Я не Shapka: !hp ^ 2
+[00:52:23] (SILENT) Я не Shapka ran rcon command: bot
+[00:52:23] Client "Bot01" connected.
+[00:52:23] Client "Bot01" spawned in server <BOT> (took 1014 seconds).
+[00:52:26] Я не Shapka brought Bot01
+[00:52:26] Я не Shapka: !bring bot
+[00:52:50] Я не Shapka brought Bot01
+[00:52:50] Я не Shapka: !bring bot
+[00:52:52] Я не Shapka froze Bot01
+[00:52:52] Я не Shapka: !freeze bot
+[00:53:08] Server is shutting down/changing levels.
+
+
+
+[00:53:31] New map: rp_city11_sv
+[00:54:06] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 44 seconds).
+[01:37:01] (SILENT) Я не Shapka ran rcon command: bot
+[01:37:01] Client "Bot02" connected.
+[01:37:01] Client "Bot02" spawned in server <BOT> (took 2619 seconds).
+[01:37:06] Я не Shapka: !goto bot1
+[01:37:10] Я не Shapka: !gob bot
+[01:37:16] Я не Shapka teleported to Bot02
+[01:37:16] Я не Shapka: !goto bot
+[01:37:31] (SILENT) Я не Shapka ran rcon command: bot_mimic 1
+[01:49:01] Dropped "Я не Shapka" from server<STEAM_0:0:45477833>
+[01:49:01] Dropped "Bot02" from server<BOT>
+[12:13:21] Client "Я не Shapka" connected.
+[12:15:09] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 108 seconds).
+[12:18:39] Я не Shapka set the hp for Themself to 1
+[12:18:39] Я не Shapka: !hp ^ 1
+[12:19:18] (SILENT) Я не Shapka ran rcon command: bot
+[12:19:18] Client "Bot03" connected.
+[12:19:18] Client "Bot03" spawned in server <BOT> (took 41156 seconds).
+[12:19:20] Я не Shapka: !goto bot1
+[12:19:22] Я не Shapka: !goto bot
+[12:19:23] Client "squadron" connected.
+[12:19:26] Я не Shapka teleported to Bot03
+[12:19:26] Я не Shapka: !goto bot03
+[12:19:29] Я не Shapka killed Bot03 using w_z_zombie
+[12:22:40] Я не Shapka: /rpname Garry Huffan
+[12:22:41] Я не Shapka<STEAM_0:0:45477833> changed their name to Garry Huffan
+[12:28:55] Client "squadron" connected.
+[12:30:37] Garry Huffan kicked Bot03
+[12:30:37] Garry Huffan: !kick bot
+[12:30:37] Dropped "Bot03" from server<BOT>
+[12:32:45] Client "squadron" spawned in server <STEAM_0:1:485914624> (took 230 seconds).
+[12:36:05] squadron: // Братик че там
+[12:37:29] Garry Huffan teleported to squadron
+[12:37:29] Garry Huffan: !goto squ
+[12:37:35] Garry Huffan: Не вижу ошибок
+[12:44:37] Garry Huffan: Ну и
+[12:44:38] squadron: хай
+[12:44:40] Garry Huffan: Все ок
+[12:44:44] squadron: щас проверим
+[12:44:47] squadron: скинь деньги
+[12:44:50] squadron: 10 токенов
+[12:44:51] Garry Huffan: /dropmoney 10
+[12:44:59] Garry Huffan: Так, это ошибка с моделей
+[12:45:01] Garry Huffan: похуй
+[12:45:02] squadron: аа понч
+[12:45:13] squadron: щас проверю грузчика
+[12:45:13] Garry Huffan: Еще варианты есть?
+[12:45:19] Garry Huffan: могу дать бабло
+[12:45:25] squadron: /admingruzhcchik
+[12:45:29] Garry Huffan: Так?
+[12:45:31] Garry Huffan: и?
+[12:45:41] squadron: он не робил я приносил а денег не давалось(((
+[12:45:58] Garry Huffan teleported to squadron
+[12:45:58] Garry Huffan: !goto squ
+[12:46:19] squadron: /me поднял коробку
+[12:46:30] squadron: /me отдал коробку кладовщику
+[12:46:34] squadron: робит
+[12:46:36] Garry Huffan: Кароче все работает
+[12:46:45] squadron: а че было та?
+[12:46:50] Garry Huffan: А я не ебу
+[12:46:53] squadron: аххаха
+[12:46:57] Garry Huffan: Я ничего не делал
+[12:47:05] squadron: ну хз хз
+[12:47:08] Garry Huffan: кароче ладно
+[12:47:12] Garry Huffan: отметим в чек листе как ок
+[12:47:15] Garry Huffan: Спасибо
+[12:47:20] squadron: пожалуйста.
+[12:47:22] Garry Huffan kicked squadron
+[12:47:22] Garry Huffan: !kick squa
+[12:47:22] Dropped "squadron" from server<STEAM_0:1:485914624>
+[12:47:44] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[16:38:10] Client "Я не Shapka" connected.
+[16:39:14] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 64 seconds).
+[16:45:25] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[16:45:26] Client "Я не Shapka" connected.
+[16:45:59] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 33 seconds).
+[16:46:52] Garry Huffan: /lottery
+[17:03:25] Garry Huffan<STEAM_0:0:45477833> changed their name to Я не Shapka
+[17:24:59] Я не Shapka: /lottery " "500
+[17:26:08] Я не Shapka: /lottery " "333
+
+
+
+[17:28:14] New map: rp_city11_sv
+[17:28:52] Server is shutting down/changing levels.
+
+
+
+[17:29:41] New map: rp_city11_sv
+[17:30:14] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 33 seconds).
+[17:32:43] Server is shutting down/changing levels.
+
+
+
+[17:33:06] New map: rp_city11_sv
+[17:33:41] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 44 seconds).
+[17:41:11] Server is shutting down/changing levels.
+
+
+
+[17:41:34] New map: rp_city11_sv
+[17:42:10] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 45 seconds).
+[17:47:04] Server is shutting down/changing levels.
+
+
+
+[17:47:28] New map: rp_city11_sv
+[17:48:02] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 44 seconds).
+[17:50:11] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:50:17] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:50:21] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:50:42] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:50:46] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:50:50] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:51:18] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:51:20] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:51:25] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:51:29] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:51:53] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__vip_printer
+[17:51:54] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__vip_printer
+[17:52:02] Garry Huffan<STEAM_0:0:45477833> spawned sent rp_sign
+[17:52:05] Garry Huffan<STEAM_0:0:45477833> spawned sent rp_sign
+[17:52:07] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:52:14] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:52:20] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:52:27] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:52:29] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:53:50] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:53:56] Garry Huffan<STEAM_0:0:45477833> spawned sent rprint__printer
+[17:56:32] Garry Huffan set the hp for Themself to 1
+[17:56:32] Garry Huffan: !hp ^ 1
+[18:18:57] Server is shutting down/changing levels.
+
+
+
+[18:19:20] New map: rp_city11_sv
+[18:19:53] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 42 seconds).
+[18:21:02] Server is shutting down/changing levels.
+
+
+
+[18:21:26] New map: rp_city11_sv
+[18:22:00] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 44 seconds).
+[18:23:32] Garry Huffan set the hp for Themself to 1
+[18:23:32] Garry Huffan: !hp ^ 1
+[19:00:41] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+<Logging continued in "data/ulx_logs/08-01-23.txt">

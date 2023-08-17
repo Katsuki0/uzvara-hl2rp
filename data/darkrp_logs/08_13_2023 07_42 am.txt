@@ -1,0 +1,3 @@
+Sun Aug 13 07:42:53 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Sun Aug 13 07:42:53 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Sun Aug 13 07:48:30 2023	vadimhalo (STEAM_0:0:172707452): models/props_c17/FurnitureDrawer001a.mdl

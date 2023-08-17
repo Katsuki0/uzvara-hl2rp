@@ -1,0 +1,7 @@
+{
+	"MinButtonCooldown": 0.25,
+	"EnablePermPlacement": true,
+	"MaxSpeakerVolume": 0.75,
+	"MaxButtonCooldown": 15.0,
+	"EnablePermLoading": true
+}

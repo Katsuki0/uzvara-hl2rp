@@ -1,0 +1,22 @@
+[17:06:41] New map: rp_city11_sv
+
+
+
+[21:21:15] New map: rp_city11_sv
+[21:33:52] Client "vadimhalo" connected.
+[21:35:31] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 99 seconds).
+[21:44:11] vadimhalo: !menu
+[21:44:17] vadimhalo установил Themself профессию  Администратор города
+[21:44:17] vadimhalo was killed by trigger_hurt
+[21:44:39] vadimhalo: !menu
+[21:44:40] vadimhalo установил Themself профессию  Администратор города
+[21:45:27] vadimhalo: /lottery " "30
+[21:45:46] vadimhalo: !menu
+[21:45:47] vadimhalo установил Themself профессию  Администратор города
+[21:45:57] vadimhalo установил Themself профессию  Зомби
+[21:46:06] vadimhalo установил Themself профессию  UNIT.1
+[21:46:10] vadimhalo установил Themself профессию  Администратор города
+[22:09:41] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:09:41] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:09:43] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:12:03] Dropped "vadimhalo" from server<STEAM_0:0:172707452>

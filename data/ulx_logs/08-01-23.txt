@@ -1,0 +1,1111 @@
+<Logging continued from "data/ulx_logs/07-31-23.txt">
+[20:18:22] Client "vadimhalo" connected.
+[20:19:48] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 86 seconds).
+[20:20:09] Client "Azzeti" connected.
+[20:21:18] Client "Total Devastation" connected.
+[20:21:19] Client "кирилл буданов" connected.
+[20:21:22] Client "Кэлт" connected.
+[20:21:23] Client "💀 SCP-173 💀(UA)" connected.
+[20:21:23] Client "Паралич мозга" connected.
+[20:21:24] Client "♥schitrelz♥" connected.
+[20:21:36] Client "Шурик" connected.
+[20:21:56] Client "Assassinkz" connected.
+[20:22:21] vadimhalo: !menu
+[20:22:28] vadimhalo установил Themself профессию  UNIT.5
+[20:22:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:22:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:22:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:22:34] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:22:43] Client "Azzeti" spawned in server <STEAM_0:0:586975567> (took 154 seconds).
+[20:22:52] Client "❤ Konsuni ❤" connected.
+[20:23:02] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 100 seconds).
+[20:23:03] Client "Активный гомес" connected.
+[20:23:16] Client "Total Devastation" spawned in server <STEAM_0:1:487509974> (took 118 seconds).
+[20:23:16] Кэлт: блять
+[20:23:19] Кэлт: а хули ерроры
+[20:23:20] Кэлт: сука
+[20:23:43] Client "Паралич мозга" spawned in server <STEAM_0:1:672992849> (took 140 seconds).
+[20:23:45] Client "♥schitrelz♥" spawned in server <STEAM_0:1:539647546> (took 141 seconds).
+[20:23:57] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 141 seconds).
+[20:24:36] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:24:39] Client "Активный гомес" spawned in server <STEAM_0:0:502703877> (took 96 seconds).
+[20:24:40] Кэлт: блять егоры
+[20:24:44] Dropped "Кэлт" from server<STEAM_0:0:230068935>
+[20:24:48] Client "Кэлт" connected.
+[20:25:09] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 21 seconds).
+[20:25:14] Client "Assassinkz" spawned in server <STEAM_0:1:63544152> (took 198 seconds).
+[20:25:15] Client "❤ Konsuni ❤" spawned in server <STEAM_0:1:464427619> (took 143 seconds).
+[20:25:21] Кэлт: да сука
+[20:25:31] Dropped "❤ Konsuni ❤" from server<STEAM_0:1:464427619>
+[20:25:33] Dropped "Активный гомес" from server<STEAM_0:0:502703877>
+[20:26:03] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 284 seconds).
+[20:26:06] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_tube.mdl
+[20:26:13] vadimhalo: !menu
+[20:26:15] Dropped "Кэлт" from server<STEAM_0:0:230068935>
+[20:26:18] Client "KrubirMrubika" connected.
+[20:26:22] vadimhalo установил Themself профессию  Администратор города
+[20:26:41] Client "Активный гомес" connected.
+[20:26:44] Client "Кэлт" connected.
+[20:26:46] кирилл буданов: /rpname
+[20:26:50] кирилл буданов: /rpname анимепсих
+[20:26:50] кирилл буданов<STEAM_0:1:59432880> changed their name to анимепсих
+[20:26:59] Dropped "Assassinkz" from server<STEAM_0:1:63544152>
+[20:27:04] Client "Шурик" connected.
+[20:27:05] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 21 seconds).
+[20:27:05] Client "💀 SCP-173 💀(UA)" spawned in server <STEAM_0:0:480303422> (took 342 seconds).
+[20:27:15] анимепсих: Потрясающе
+[20:27:15] Client "Активный гомес" spawned in server <STEAM_0:0:502703877> (took 34 seconds).
+[20:27:18] Dropped "vadimhalo" from server<STEAM_0:0:172707452>
+[20:27:19] Client "vadimhalo" connected.
+[20:27:31] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_plate1.mdl
+[20:27:33] Dropped "анимепсих" from server<STEAM_0:1:59432880>
+[20:27:35] Dropped "Кэлт" from server<STEAM_0:0:230068935>
+[20:27:36] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 32 seconds).
+[20:27:43] Azzeti: /name Филя Кочевник
+[20:27:43] Azzeti<STEAM_0:0:586975567> changed their name to Филя Кочевник
+[20:27:49] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 30 seconds).
+[20:28:07] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:28:16] Client "Шурик" connected.
+[20:28:16] Dropped "Активный гомес" from server<STEAM_0:0:502703877>
+[20:28:25] Client "Кэлт" connected.
+[20:28:34] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_interiors/furniture_couch01a.mdl
+[20:28:40] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_c17/furniturebed001a.mdl
+[20:28:50] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 34 seconds).
+[20:28:51] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 26 seconds).
+[20:28:52] Филя Кочевник: /admingruzhcchik
+[20:28:52] vadimhalo: !menu
+[20:29:02] vadimhalo установил Themself профессию  Администратор города
+[20:29:03] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[20:29:11] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[20:29:12] Client "KrubirMrubika" spawned in server <STEAM_0:0:201490571> (took 174 seconds).
+[20:29:15] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:29:16] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[20:29:19] ♥schitrelz♥: /adminpocsilnij
+[20:29:24] ♥schitrelz♥: /me получил посылку
+[20:29:27] Client "Assassinkz" connected.
+[20:29:40] Total Devastation: /drop
+[20:29:44] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[20:29:47] vadimhalo: !menu
+[20:29:47] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[20:29:51] vadimhalo set the model for Themself to models/player/female_02_suit.mdl
+[20:30:02] vadimhalo: /lottery " "15
+[20:30:03] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_interiors/furniture_chair03a.mdl
+[20:30:18] Филя Кочевник: /adminpishevojcsnabditel
+[20:30:33] Client "Шурик" connected.
+[20:30:53] Dropped "KrubirMrubika" from server<STEAM_0:0:201490571>
+[20:31:02] Филя Кочевник: /adminpishevojcsnabditel
+[20:31:05] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 32 seconds).
+[20:31:11] ♥schitrelz♥: /me получил посылку
+[20:31:11] Паралич мозга<STEAM_0:1:672992849> spawned model models/props_c17/shelfunit01a.mdl
+[20:31:21] Кэлт: /adminpishevojcsnabditel
+[20:31:29] Client "KrubirMrubika" connected.
+[20:31:32] Client "Assassinkz" spawned in server <STEAM_0:1:63544152> (took 125 seconds).
+[20:31:32] Филя Кочевник: /adminpishevojcsnabditel
+[20:31:33] Total Devastation: /drop
+[20:31:33] Client "Активный гомес" connected.
+[20:31:37] Total Devastation: /drop
+[20:31:56] Филя Кочевник: /adminpishevojcsnabditel
+[20:32:03] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:32:05] Client "кирилл буданов" connected.
+[20:32:05] Client "apictokrat6" connected.
+[20:32:09] Client "Активный гомес" spawned in server <STEAM_0:0:502703877> (took 36 seconds).
+[20:32:12] Total Devastation: /drop
+[20:32:32] ♥schitrelz♥: /me получил посылку
+[20:33:00] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 55 seconds).
+[20:33:23] Кэлт: /admingruzhcchik
+[20:33:34] Филя Кочевник: /admingruzhcchik
+[20:33:39] Client "KrubirMrubika" connected.
+[20:33:59] Assassinkz: /adminpishevojcsnabditel
+[20:34:07] Client "KrubirMrubika" spawned in server <STEAM_0:0:201490571> (took 28 seconds).
+[20:34:11] Филя Кочевник: /admingruzhcchik
+[20:34:16] ♥schitrelz♥: /me получил посылку
+[20:34:24] Кэлт: Понятно
+[20:34:26] Dropped "KrubirMrubika" from server<STEAM_0:0:201490571>
+[20:34:28] Assassinkz: Окей
+[20:34:30] Филя Кочевник: /admingruzhcchik
+[20:34:30] Assassinkz: Берегись!
+[20:34:34] Кэлт: Берегись!
+[20:34:36] Assassinkz: Чёрт
+[20:34:42] Филя Кочевник: /admingruzhcchik
+[20:34:44] анимепсих: /adminomoshnik
+[20:34:58] Филя Кочевник: /admingruzhcchik
+[20:35:13] анимепсих: /admingruzhcchik
+[20:35:30] Филя Кочевник: /me поднял коробку
+[20:35:31] Total Devastation: /drop
+[20:35:31] Client "KrubirMrubika" connected.
+[20:35:35] Филя Кочевник: /me уронил коробку
+[20:35:40] Total Devastation: /drop
+[20:35:43] ♥schitrelz♥: /me получил посылку
+[20:35:50] Филя Кочевник: /me поднял коробку
+[20:36:07] Client "KrubirMrubika" spawned in server <STEAM_0:0:201490571> (took 36 seconds).
+[20:36:11] Филя Кочевник: /me отдал коробку кладовщику
+[20:36:17] Филя Кочевник: /me поднял коробку
+[20:36:18] vadimhalo: !menu
+[20:36:26] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/furnituredrawer001a_shard01.mdl
+[20:36:26] Филя Кочевник: /me отдал коробку кладовщику
+[20:36:28] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[20:36:33] Филя Кочевник: /me поднял коробку
+[20:36:40] Client "Шурик" connected.
+[20:36:41] Client "apictokrat6" spawned in server <STEAM_0:1:658241815> (took 276 seconds).
+[20:36:43] Филя Кочевник: /me отдал коробку кладовщику
+[20:36:50] Филя Кочевник: /me поднял коробку
+[20:37:00] Филя Кочевник: /me отдал коробку кладовщику
+[20:37:00] Кэлт: /admingruzhcchik
+[20:37:03] Assassinkz: /admingruzhcchik
+[20:37:04] Кэлт: /adminpocsilnij
+[20:37:04] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 24 seconds).
+[20:37:05] ♥schitrelz♥: /me получил посылку
+[20:37:05] vadimhalo: !menu
+[20:37:10] анимепсих: /911 помогите
+[20:37:15] vadimhalo установил Themself профессию  CMD.UNIT
+[20:37:18] анимепсих: /911 граждан нарушил первую дерективу
+[20:37:21] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:37:23] vadimhalo: /lottery " "10
+[20:37:26] vadimhalo: !menu
+[20:37:31] vadimhalo: /lottery " "15
+[20:37:33] Филя Кочевник: /admingrazhdanicn
+[20:37:36] vadimhalo: /lottery " "C20
+[20:37:45] Филя Кочевник: /admingrazhdanicn
+[20:37:50] Total Devastation: /drop
+[20:37:54] Филя Кочевник: /admingrazhdanicn
+[20:38:00] Филя Кочевник: /admingrazhdanicn
+[20:38:11] Client "Шурик" connected.
+[20:38:16] vadimhalo: /ooc аниме псик как ты сделал запрос?
+[20:38:20] анимепсих: // /911
+[20:38:25] Кэлт: а
+[20:38:42] ♥schitrelz♥: /me получил посылку
+[20:38:45] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 34 seconds).
+[20:39:32] vadimhalo: Ха-Ха-Ха
+[20:40:02] apictokrat6: /name Фауст
+[20:40:03] apictokrat6<STEAM_0:1:658241815> changed their name to Фауст
+[20:40:15] ♥schitrelz♥: /me получил посылку
+[20:40:25] Total Devastation: /drop
+[20:40:27] Total Devastation: /drop
+[20:40:37] 💀 SCP-173 💀(UA): /adminpocsilnij
+[20:40:39] 💀 SCP-173 💀(UA): /admingruzhcchik
+[20:40:43] Total Devastation: /drop
+[20:40:44] Шурик: /admingruzhcchik
+[20:40:47] Шурик: /adminpocsilnij
+[20:40:56] анимепсих: /adminucnit1
+[20:41:00] Паралич мозга: /rpname Cherr Tait
+[20:41:00] Паралич мозга<STEAM_0:1:672992849> changed their name to Cherr Tait
+[20:41:23] 💀 SCP-173 💀(UA): /me поднял коробку
+[20:41:31] Шурик<STEAM_0:0:452405606> spawned model models/hunter/triangles/1x1x1.mdl
+[20:41:33] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[20:41:40] 💀 SCP-173 💀(UA): /me поднял коробку
+[20:41:40] ♥schitrelz♥: /me получил посылку
+[20:41:48] Фауст: /adminpocsilnij
+[20:41:48] Шурик<STEAM_0:0:452405606> spawned model models/hunter/triangles/1x1x1.mdl
+[20:41:49] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[20:41:56] 💀 SCP-173 💀(UA): /me поднял коробку
+[20:41:57] KrubirMrubika: /adminbeczhenec
+[20:42:02] Client "❤ Konsuni ❤" connected.
+[20:42:15] Кэлт: /adminucnit1
+[20:42:54] анимепсих: /l h
+[20:43:16] Dropped "💀 SCP-173 💀(UA)" from server<STEAM_0:0:480303422>
+[20:43:36] ♥schitrelz♥: /me получил посылку
+[20:43:37] Филя Кочевник: /ooc вадим, дичь с обработкой рациона
+[20:43:43] Total Devastation was killed by trigger_hurt
+[20:43:54] vadimhalo: /ooc норм
+[20:43:57] Client "❤ Konsuni ❤" spawned in server <STEAM_0:1:464427619> (took 115 seconds).
+[20:44:06] Филя Кочевник: /ooc деньги постоянно застревают в обработке рациона
+[20:44:26] Шурик: // +
+[20:44:35] vadimhalo: е
+[20:44:42] Total Devastation: // вадим выдай ранг
+[20:44:44] Total Devastation: // вадим выдай ранг
+[20:44:46] Total Devastation: // вадим выдай ранг
+[20:45:05] Филя Кочевник: /adminpocsilnij
+[20:45:19] Филя Кочевник: /admingruzhcchik
+[20:45:24] ♥schitrelz♥: /me получил посылку
+[20:45:36] Кэлт: Нарушитель
+[20:45:53] Филя Кочевник: /me поднял коробку
+[20:46:05] Филя Кочевник: /me отдал коробку кладовщику
+[20:46:14] Филя Кочевник: /me поднял коробку
+[20:46:24] Филя Кочевник: /me отдал коробку кладовщику
+[20:46:30] Филя Кочевник: /me поднял коробку
+[20:46:36] Total Devastation: /drop
+[20:46:39] Филя Кочевник: /me отдал коробку кладовщику
+[20:46:47] Филя Кочевник: /me поднял коробку
+[20:46:54] vadimhalo: Стоять!
+[20:46:58] Филя Кочевник: /me отдал коробку кладовщику
+[20:47:00] ♥schitrelz♥: /me получил посылку
+[20:47:00] vadimhalo: Первое предупреждение
+[20:47:04] Филя Кочевник: /me поднял коробку
+[20:47:04] анимепсих: Ха-Ха-Ха
+[20:47:12] Assassinkz: /admingruzhcchik
+[20:47:13] ❤ Konsuni ❤: /adminbeczhenec
+[20:47:13] Филя Кочевник: /me отдал коробку кладовщику
+[20:47:21] Филя Кочевник: /me поднял коробку
+[20:47:31] Филя Кочевник: /me отдал коробку кладовщику
+[20:47:41] Филя Кочевник: /me поднял коробку
+[20:47:49] анимепсих killed Шурик using weapon_stunstick2
+[20:47:50] Филя Кочевник: /me отдал коробку кладовщику
+[20:47:56] Филя Кочевник: /me поднял коробку
+[20:47:57] vadimhalo killed Активный гомес using player
+[20:48:01] Client "💀 SCP-173 💀(UA)" connected.
+[20:48:07] Assassinkz: /me поднял коробку
+[20:48:17] Филя Кочевник: /me поднял коробку
+[20:48:18] Assassinkz: /me уронил коробку
+[20:48:25] Assassinkz: /me поднял коробку
+[20:48:28] Филя Кочевник: /me отдал коробку кладовщику
+[20:48:35] Assassinkz: /me отдал коробку кладовщику
+[20:48:36] Филя Кочевник: /me поднял коробку
+[20:48:36] ♥schitrelz♥: /me получил посылку
+[20:48:42] Assassinkz: /me поднял коробку
+[20:48:44] ❤ Konsuni ❤: /pm STEAM_0:0:172707452 Вадим, я Egor Lisin, можно попросить можалуйста выдать модерк
+[20:48:45] Филя Кочевник: /me отдал коробку кладовщику
+[20:48:51] Филя Кочевник: /me поднял коробку
+[20:48:52] Assassinkz: /me отдал коробку кладовщику
+[20:48:54] ❤ Konsuni ❤: /pm STEAM_0:0:172707452 заранее спасибо!
+[20:49:00] Assassinkz: /me поднял коробку
+[20:49:01] Филя Кочевник: /me отдал коробку кладовщику
+[20:49:08] Филя Кочевник: /me поднял коробку
+[20:49:10] Assassinkz: /me отдал коробку кладовщику
+[20:49:17] Assassinkz: /me уронил коробку
+[20:49:18] Филя Кочевник: /me отдал коробку кладовщику
+[20:49:26] Филя Кочевник: /me поднял коробку
+[20:49:34] Assassinkz: /me поднял коробку
+[20:49:36] Филя Кочевник: /me отдал коробку кладовщику
+[20:49:44] Шурик: // Реально псих на ГО. Сказал еще раз и я тебя перевоспита, а потом взял 
+[20:49:44] Филя Кочевник: /me поднял коробку
+[20:49:53] Активный гомес: /ooc Вадим, дай деньгу на профу у пыщей
+[20:49:53] Шурик: // И ебнул меня
+[20:49:53] Филя Кочевник: /me отдал коробку кладовщику
+[20:49:54] анимепсих: // :P
+[20:49:56] vadimhalo: /ooc пишим жалобы
+[20:49:57] Assassinkz: /me поднял коробку
+[20:50:04] Филя Кочевник: /me поднял коробку
+[20:50:07] анимепсих: // /report
+[20:50:10] Assassinkz: /me отдал коробку кладовщику
+[20:50:14] Total Devastation: // вадим выдай ранг
+[20:50:16] Филя Кочевник: /me отдал коробку кладовщику
+[20:50:18] ♥schitrelz♥: /me получил посылку
+[20:50:21] Assassinkz: /me поднял коробку
+[20:50:25] Филя Кочевник: /me поднял коробку
+[20:50:28] vadimhalo: /ooc я некому ничего не выдам сегодня
+[20:50:31] Assassinkz: /me отдал коробку кладовщику
+[20:50:33] Client "💀 SCP-173 💀(UA)" spawned in server <STEAM_0:0:480303422> (took 152 seconds).
+[20:50:35] Филя Кочевник: /me отдал коробку кладовщику
+[20:50:38] ❤ Konsuni ❤: /report можно пожалуйста выдать модерку? Egor Lisin
+[20:50:40] Assassinkz: /me поднял коробку
+[20:50:45] Филя Кочевник: /me поднял коробку
+[20:50:48] ❤ Konsuni ❤: // жаль
+[20:50:51] Assassinkz: /me отдал коробку кладовщику
+[20:50:54] Филя Кочевник: /me отдал коробку кладовщику
+[20:50:59] vadimhalo: \
+[20:50:59] Assassinkz: /me поднял коробку
+[20:51:01] Шурик: // Я как понял. Деньги вообще никакие не поднимаются?
+[20:51:10] Активный гомес: /adminpishevojcsnabditel
+[20:51:10] Assassinkz: /me отдал коробку кладовщику
+[20:51:10] Филя Кочевник: /me поднял коробку
+[20:51:12] vadimhalo: /ooc сегодня да
+[20:51:12] Филя Кочевник: /me уронил коробку
+[20:51:13] Филя Кочевник: /me поднял коробку
+[20:51:22] Assassinkz: /me поднял коробку
+[20:51:24] Фауст: /adminbeczhenec
+[20:51:25] Филя Кочевник: /me отдал коробку кладовщику
+[20:51:33] Assassinkz: /me отдал коробку кладовщику
+[20:51:39] Филя Кочевник: /me поднял коробку
+[20:51:41] Cherr Tait: /ooc где этот пищевой снабдитель?
+[20:51:42] (TEAM) Фауст: аа
+[20:51:44] Assassinkz: /me поднял коробку
+[20:51:46] ♥schitrelz♥: /me получил посылку
+[20:51:51] Филя Кочевник: /me отдал коробку кладовщику
+[20:51:54] Assassinkz: /me отдал коробку кладовщику
+[20:51:58] Филя Кочевник: /me поднял коробку
+[20:51:59] Филя Кочевник: /me уронил коробку
+[20:52:01] Филя Кочевник: /me поднял коробку
+[20:52:05] Assassinkz: /me поднял коробку
+[20:52:09] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_lab/blastdoor001c.mdl
+[20:52:13] Филя Кочевник: /me отдал коробку кладовщику
+[20:52:13] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_lab/blastdoor001b.mdl
+[20:52:15] Assassinkz: /me отдал коробку кладовщику
+[20:52:15] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_lab/blastdoor001c.mdl
+[20:52:21] Assassinkz: /me поднял коробку
+[20:52:32] Assassinkz: /me отдал коробку кладовщику
+[20:52:40] Assassinkz: /me поднял коробку
+[20:52:49] Assassinkz: /me отдал коробку кладовщику
+[20:52:59] Assassinkz: /me поднял коробку
+[20:53:09] Assassinkz: /me отдал коробку кладовщику
+[20:53:15] Assassinkz: /me поднял коробку
+[20:53:22] ♥schitrelz♥: /me получил посылку
+[20:53:24] Assassinkz: /me отдал коробку кладовщику
+[20:53:29] Филя Кочевник: /adminucnit1
+[20:53:32] Assassinkz: /me поднял коробку
+[20:53:34] Assassinkz: /me уронил коробку
+[20:53:34] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_c17/lockers001a.mdl
+[20:53:42] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_c17/furniturechair001a.mdl
+[20:53:51] Assassinkz: /me поднял коробку
+[20:54:01] (TEAM) Филя Кочевник: 10-23
+[20:54:01] Assassinkz: /me отдал коробку кладовщику
+[20:54:08] Assassinkz: /me поднял коробку
+[20:54:13] vadimhalo: !menu
+[20:54:18] Assassinkz: /me отдал коробку кладовщику
+[20:54:24] Assassinkz: /me поднял коробку
+[20:54:34] Assassinkz: /me отдал коробку кладовщику
+[20:54:41] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_c17/fence02a.mdl
+[20:54:41] Assassinkz: /me поднял коробку
+[20:54:48] ♥schitrelz♥: /me получил посылку
+[20:54:50] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_lab/blastdoor001b.mdl
+[20:54:50] Assassinkz: /me отдал коробку кладовщику
+[20:54:54] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_lab/blastdoor001b.mdl
+[20:55:08] Assassinkz: /me поднял коробку
+[20:55:16] Total Devastation: /drop
+[20:55:18] Assassinkz: /me отдал коробку кладовщику
+[20:55:25] Assassinkz: /me уронил коробку
+[20:55:37] 💀 SCP-173 💀(UA): /adminpocsilnij
+[20:55:41] Assassinkz: /me поднял коробку
+[20:55:51] Assassinkz: /me отдал коробку кладовщику
+[20:55:58] Активный гомес<STEAM_0:0:502703877> spawned model models/props_combine/health_charger001.mdl
+[20:56:06] Активный гомес<STEAM_0:0:502703877> spawned model models/props_combine/breenbust.mdl
+[20:56:19] 💀 SCP-173 💀(UA): /OOC завод не работает 
+[20:56:30] 💀 SCP-173 💀(UA): /OOC вадим
+[20:56:58] Assassinkz: /adminucnit1
+[20:57:36] Активный гомес<STEAM_0:0:502703877> spawned model models/props_lab/clipboard.mdl
+[20:57:45] Активный гомес<STEAM_0:0:502703877> spawned model models/props_lab/crematorcase.mdl
+[20:57:48] ❤ Konsuni ❤: /report вопрос, тп пожалуйста
+[20:58:02] Активный гомес<STEAM_0:0:502703877> spawned model models/items/357ammo.mdl
+[20:58:07] vadimhalo: !menu
+[20:58:12] Активный гомес<STEAM_0:0:502703877> spawned model models/quarterlife/fsd-overrun-toy.mdl
+[20:58:18] vadimhalo teleported to ❤ Konsuni ❤
+[20:58:19] ♥schitrelz♥: /adminpcovstanec
+[20:58:23] Активный гомес<STEAM_0:0:502703877> spawned model models/xqm/coastertrack/train_2.mdl
+[20:58:33] Активный гомес<STEAM_0:0:502703877> spawned model models/mechanics/solid_steel/box_beam_4.mdl
+[20:58:34] vadimhalo: !menu
+[20:58:38] vadimhalo: !menu
+[20:58:51] Активный гомес<STEAM_0:0:502703877> spawned model models/xqm/jetbody2fuselage.mdl
+[20:58:52] vadimhalo: !menu
+[20:58:58] Total Devastation: /911 ало начальник выпускай
+[20:59:00] Активный гомес<STEAM_0:0:502703877> spawned model models/chairs/armchair.mdl
+[20:59:01] vadimhalo: !menu
+[20:59:03] vadimhalo returned Themself to their original position
+[20:59:07] Активный гомес<STEAM_0:0:502703877> spawned model models/food/burger.mdl
+[20:59:27] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/glass/glass_plate1x2.mdl
+[20:59:36] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/glass/glass_plate1x2.mdl
+[21:00:00] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[21:00:05] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle002a.mdl
+[21:00:07] vadimhalo: /lockdown
+[21:00:08] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[21:00:20] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/glassbottle01a.mdl
+[21:00:29] vadimhalo: /advert Граждани разойдитесь по домам, и ожидайте проверки!
+[21:00:44] 💀 SCP-173 💀(UA): /OOC вадим дай деньги завод не работайет
+[21:00:54] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:00:57] Активный гомес<STEAM_0:0:502703877> spawned model models/props_lab/harddrive01.mdl
+[21:01:00] Активный гомес<STEAM_0:0:502703877> spawned model models/props_lab/workspace004.mdl
+[21:01:02] vadimhalo: /ooc есть другие способы работать
+[21:01:06] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:01:11] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[21:01:14] Кэлт killed Total Devastation using weapon_stunstick2
+[21:01:20] Total Devastation: ебать вы
+[21:01:22] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:01:28] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:01:31] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:01:38] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:01:40] Cherr Tait: /unownalldoors
+[21:01:40] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:01:47] анимепсих: // ГО садисты
+[21:01:51] Фауст: // согл
+[21:01:58] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[21:02:08] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_c17/furniturebed001a.mdl
+[21:02:18] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_c17/furniturebed001a.mdl
+[21:02:19] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_interiors/radiator01a.mdl
+[21:02:32] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[21:02:34] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[21:02:35] анимепсих: /me достал маленький терминал и сверил владельца
+[21:02:40] ❤ Konsuni ❤: // вадим, в коробках нихрена нет(
+[21:02:46] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_post01.mdl
+[21:02:50] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_post01.mdl
+[21:02:53] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_c17/furniturecouch002a.mdl
+[21:02:56] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_c17/furniturecouch001a.mdl
+[21:02:59] ❤ Konsuni ❤: // ни патрон, только пушки и еда
+[21:03:04] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:03:08] ❤ Konsuni ❤: // а выживать без патрон то как?
+[21:03:09] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:03:19] ♥schitrelz♥: // патроны у торговца покупать надо
+[21:03:28] ❤ Konsuni ❤: // нету торговца 
+[21:03:32] ♥schitrelz♥: // а его нет
+[21:03:40] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/ravenholmsign.mdl
+[21:03:45] vadimhalo: /ooc повстанцы вы уже можете устроить рейд
+[21:03:46] 💀 SCP-173 💀(UA): /admingruzhcchik
+[21:03:47] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_interiors/bathtub01a.mdl
+[21:03:53] ♥schitrelz♥: // профа торговец повастанцев
+[21:03:58] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/trains/double_wheels_base.mdl
+[21:03:58] ❤ Konsuni ❤: // патрон нет! xD
+[21:04:00] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/trains/wheel_medium.mdl
+[21:04:02] Активный гомес<STEAM_0:0:502703877> spawned model models/xqm/coastertrain1seat.mdl
+[21:04:03] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/trains/fsd-overrun2.mdl
+[21:04:05] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/trains/fsd-overrun.mdl
+[21:04:07] Активный гомес<STEAM_0:0:502703877> spawned model models/quarterlife/fsd-overrun-toy.mdl
+[21:04:09] ♥schitrelz♥: // хаха согласен
+[21:04:24] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[21:04:31] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[21:04:36] 💀 SCP-173 💀(UA): /OOC асасин дай свайу прафесийу грущик
+[21:04:37] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[21:04:40] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[21:04:40] 💀 SCP-173 💀(UA): /admingruzhcchik
+[21:04:42] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:04:48] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[21:04:51] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:05:00] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_phx/construct/metal_tube.mdl
+[21:05:00] 💀 SCP-173 💀(UA): /admingruzhcchik
+[21:05:04] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_interiors/furniture_shelf01a.mdl
+[21:05:20] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_c17/furnituredrawer003a.mdl
+[21:05:23] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:05:43] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:05:49] Активный гомес<STEAM_0:0:502703877> spawned model models/items/item_item_crate_chunk05.mdl
+[21:05:54] Активный гомес<STEAM_0:0:502703877> spawned model models/xeon133/slider/slider_stand_12x12x24.mdl
+[21:05:54] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:05:57] Активный гомес<STEAM_0:0:502703877> spawned model models/mechanics/solid_steel/steel_beam45_4.mdl
+[21:05:59] Активный гомес<STEAM_0:0:502703877> spawned model models/mechanics/solid_steel/sheetmetal_box90_4.mdl
+[21:06:08] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/glass/glass_plate1x2.mdl
+[21:06:12] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:06:30] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:06:46] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:06:48] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/glass/glass_plate2x4.mdl
+[21:06:51] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/glass/glass_plate1x2.mdl
+[21:06:52] vadimhalo: /unlockdown
+[21:07:01] vadimhalo: /advert Комендатский час закончился
+[21:07:06] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:07:07] анимепсих: Стоять!
+[21:07:20] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_tube.mdl
+[21:07:20] Шурик<STEAM_0:0:452405606> spawned model models/hunter/plates/plate1x1.mdl
+[21:07:22] Total Devastation: // вадим
+[21:07:32] Total Devastation: // в ПП отмечено гражданский сити 45
+[21:07:37] анимепсих: // +
+[21:07:37] ❤ Konsuni ❤: // дай денег на торговца пожалуйста
+[21:07:48] Total Devastation: // правила профессий
+[21:07:53] Филя Кочевник: /looc vadim
+[21:08:13] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:08:15] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:08:16] 💀 SCP-173 💀(UA): /me получил посылку
+[21:08:32] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:08:35] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:08:37] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:08:40] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_c17/metalpot001a.mdl
+[21:08:45] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:08:47] vadimhalo: Помощь нужна?
+[21:08:47] Assassinkz: /me поднял коробку
+[21:08:53] vadimhalo: Хочешь в участок?
+[21:08:56] Total Devastation: Нет
+[21:08:57] Assassinkz: /me отдал коробку кладовщику
+[21:09:01] Total Devastation: Зачем?
+[21:09:06] vadimhalo: Стоять!
+[21:09:06] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:09:07] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:09:08] Филя Кочевник: /ooc Вадим, перетащи мешка с 1 канала
+[21:09:08] vadimhalo: Ха-Ха-Ха
+[21:09:11] Активный гомес: Понятно
+[21:09:15] Assassinkz: /me поднял коробку
+[21:09:17] Total Devastation: Понятно
+[21:09:20] Total Devastation: Потрясающе
+[21:09:25] Assassinkz: /me отдал коробку кладовщику
+[21:09:37] Assassinkz: /me поднял коробку
+[21:09:40] Client "Me6oK" connected.
+[21:09:48] Assassinkz: /me отдал коробку кладовщику
+[21:09:54] Assassinkz: /me поднял коробку
+[21:10:02] Total Devastation: // нон рп x3 вадим
+[21:10:04] Assassinkz: /me отдал коробку кладовщику
+[21:10:07] Total Devastation: // хахаха
+[21:10:09] Шурик<STEAM_0:0:452405606> spawned model models/hunter/plates/plate1x1.mdl
+[21:10:11] Assassinkz: /me поднял коробку
+[21:10:20] Активный гомес: /ooc це пезда
+[21:10:21] Assassinkz: /me отдал коробку кладовщику
+[21:10:21] Total Devastation: // а как ты имена знаешь
+[21:10:30] Assassinkz: /me поднял коробку
+[21:10:40] Assassinkz: /me отдал коробку кладовщику
+[21:10:45] Филя Кочевник: /ooc проще сказать ГРААААЖДАААНИН
+[21:11:06] Assassinkz: /me поднял коробку
+[21:11:15] Assassinkz: /me отдал коробку кладовщику
+[21:11:21] Assassinkz: /me поднял коробку
+[21:11:30] Assassinkz: /me отдал коробку кладовщику
+[21:11:45] анимепсих: Хочешь в участок?
+[21:11:49] Client "Me6oK" spawned in server <STEAM_0:0:431399359> (took 129 seconds).
+[21:11:50] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:11:53] Шурик<STEAM_0:0:452405606> spawned model models/hunter/plates/plate1x1.mdl
+[21:11:58] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:12:08] vadimhalo: /ooc их можно найти
+[21:12:14] ❤ Konsuni ❤: // неа
+[21:12:16] Шурик<STEAM_0:0:452405606> spawned model models/hunter/plates/plate1x1.mdl
+[21:12:17] Total Devastation: /drop
+[21:12:19] ❤ Konsuni ❤: // от слова совсем
+[21:12:22] ❤ Konsuni ❤: // их нет
+[21:12:25] Кэлт: г
+[21:12:32] vadimhalo: /ooc что ты нашёл за всё время?
+[21:12:49] (TEAM) ♥schitrelz♥: // не их найти можно но шанс выпадения редкий
+[21:12:53] ❤ Konsuni ❤: // по большей части ничего, 2 хавки, смг, дробовик
+[21:12:53] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:13:02] Total Devastation: /drop
+[21:13:04] ❤ Konsuni ❤: // все
+[21:13:07] анимепсих: Хочешь в участок?
+[21:13:19] анимепсих: Хочешь в участок?
+[21:13:23] vadimhalo: /ooc это очень много всегоф
+[21:13:24] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:13:25] (TEAM) Me6oK: 9
+[21:13:31] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/furniturecouch001a.mdl
+[21:13:34] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/furniturecouch002a.mdl
+[21:13:39] (TEAM) Me6oK: City-11
+[21:13:46] Assassinkz: /me поднял коробку
+[21:13:47] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/furniturefridge001a.mdl
+[21:13:57] (TEAM) Me6oK: в сити эээ (дай подсказку) это 17...?
+[21:14:02] Assassinkz: /me отдал коробку кладовщику
+[21:14:08] (TEAM) Me6oK: а
+[21:14:12] Assassinkz: /me поднял коробку
+[21:14:22] Assassinkz: /me отдал коробку кладовщику
+[21:14:32] Assassinkz: /me поднял коробку
+[21:14:39] Шурик<STEAM_0:0:452405606> spawned model models/props_lab/filecabinet02.mdl
+[21:14:41] Assassinkz: /me отдал коробку кладовщику
+[21:14:46] Assassinkz: /me поднял коробку
+[21:14:56] Assassinkz: /me отдал коробку кладовщику
+[21:15:02] Assassinkz: /me поднял коробку
+[21:15:07] Шурик<STEAM_0:0:452405606> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[21:15:09] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:15:11] Assassinkz: /me отдал коробку кладовщику
+[21:15:12] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:15:14] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:15:14] Me6oK: Привет
+[21:15:18] Assassinkz: /me поднял коробку
+[21:15:18] vadimhalo: Ха-Ха-Ха
+[21:15:19] Кэлт: Ха-Ха-Ха
+[21:15:19] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:15:21] Me6oK: Окей
+[21:15:23] Шурик<STEAM_0:0:452405606> spawned model models/props_trainstation/tracksign02.mdl
+[21:15:25] Филя Кочевник<STEAM_0:0:586975567> spawned model models/props_wasteland/interior_fence001g.mdl
+[21:15:25] Шурик<STEAM_0:0:452405606> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[21:15:27] vadimhalo: Хочешь в участок?
+[21:15:28] Total Devastation: /drop
+[21:15:28] Assassinkz: /me отдал коробку кладовщику
+[21:15:30] Me6oK: Нет
+[21:15:33] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/furniture_desk01a.mdl
+[21:15:34] vadimhalo: Убирайся вон!
+[21:15:34] Assassinkz: /me поднял коробку
+[21:15:36] Me6oK: Окей
+[21:15:37] анимепсих: Нарушитель
+[21:15:38] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/furniture_lamp01a.mdl
+[21:15:42] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/furniture_chair01a.mdl
+[21:15:43] Assassinkz: /me отдал коробку кладовщику
+[21:15:50] Assassinkz: /me поднял коробку
+[21:15:52] Me6oK: Привет
+[21:15:57] Me6oK: Привет
+[21:16:00] Me6oK: Привет
+[21:16:01] Assassinkz: /me отдал коробку кладовщику
+[21:16:07] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/tv_monitor01.mdl
+[21:16:08] Me6oK: Окей
+[21:16:10] Assassinkz: /me поднял коробку
+[21:16:13] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_phx/construct/glass/glass_plate1x1.mdl
+[21:16:13] Me6oK: Привет
+[21:16:20] Assassinkz: /me отдал коробку кладовщику
+[21:16:20] Me6oK: Извините
+[21:16:24] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/metalbucket02a.mdl
+[21:16:24] Me6oK: Понятно
+[21:16:26] Assassinkz: /me поднял коробку
+[21:16:27] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/garbage_newspaper001a.mdl
+[21:16:29] Me6oK: Чёрт
+[21:16:30] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[21:16:32] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/garbage_milkcarton001a.mdl
+[21:16:35] Me6oK: Помогите!
+[21:16:36] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/garbage_milkcarton002a.mdl
+[21:16:36] Assassinkz: /me отдал коробку кладовщику
+[21:16:40] Активный гомес<STEAM_0:0:502703877> spawned model models/props_c17/fence01a.mdl
+[21:16:42] Активный гомес<STEAM_0:0:502703877> spawned model models/props_c17/fence01a.mdl
+[21:16:44] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/garbage_metalcan002a.mdl
+[21:16:45] Активный гомес<STEAM_0:0:502703877> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:16:48] Шурик<STEAM_0:0:452405606> spawned model models/props_lab/cactus.mdl
+[21:16:48] Активный гомес<STEAM_0:0:502703877> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:16:51] Assassinkz: /me поднял коробку
+[21:16:52] Шурик<STEAM_0:0:452405606> spawned model models/props_lab/citizenradio.mdl
+[21:16:55] анимепсих: Выполнять
+[21:17:02] Assassinkz: /me отдал коробку кладовщику
+[21:17:07] Шурик<STEAM_0:0:452405606> spawned model models/hunter/plates/plate2x3.mdl
+[21:17:14] Assassinkz: /me поднял коробку
+[21:17:26] Assassinkz: /me отдал коробку кладовщику
+[21:17:33] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/furniture_shelf01a.mdl
+[21:17:40] Assassinkz: /me поднял коробку
+[21:17:40] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/plasticcrate01a.mdl
+[21:17:44] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/sinkkitchen01a.mdl
+[21:17:49] Assassinkz: /me отдал коробку кладовщику
+[21:17:54] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[21:17:55] Assassinkz: /me поднял коробку
+[21:18:00] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/metalpot001a.mdl
+[21:18:04] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/metalpot002a.mdl
+[21:18:05] vadimhalo: /advert Построение граждан на Центральной улице, у вас 5 минут!!!
+[21:18:06] Assassinkz: /me отдал коробку кладовщику
+[21:18:07] Активный гомес<STEAM_0:0:502703877> spawned model models/props_c17/canister01a.mdl
+[21:18:08] Активный гомес<STEAM_0:0:502703877> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[21:18:13] Assassinkz: /me поднял коробку
+[21:18:17] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/furniturestove001a.mdl
+[21:18:23] Assassinkz: /me отдал коробку кладовщику
+[21:18:29] Шурик<STEAM_0:0:452405606> spawned model models/props_interiors/pot01a.mdl
+[21:18:41] Шурик<STEAM_0:0:452405606> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[21:18:41] Me6oK: Привет
+[21:18:48] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/cardboard_box001a.mdl
+[21:18:49] ❤ Konsuni ❤: Понятно
+[21:18:49] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/cardboard_box001a.mdl
+[21:18:51] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/cardboard_box001a.mdl
+[21:18:57] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/lampshade001a.mdl
+[21:19:02] Me6oK: Окей
+[21:19:07] Шурик<STEAM_0:0:452405606> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[21:19:15] анимепсих<STEAM_0:1:59432880> spawned model models/props_lab/workspace004.mdl
+[21:19:33] Активный гомес: Потрясающе
+[21:19:37] Шурик<STEAM_0:0:452405606> spawned model models/props_c17/briefcase001a.mdl
+[21:19:47] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/popcan01a.mdl
+[21:19:54] (TEAM) Me6oK: dream
+[21:19:55] Шурик<STEAM_0:0:452405606> spawned model models/props_junk/terracotta01.mdl
+[21:20:12] Шурик<STEAM_0:0:452405606> spawned model models/hunter/plates/plate2x4.mdl
+[21:20:50] (TEAM) Me6oK:  run for your life
+[21:20:51] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:20:52] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:20:53] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:21:20] Me6oK: this is bad
+[21:21:38] Cherr Tait: Понятно
+[21:22:20] Me6oK: this is bad
+[21:22:21] Филя Кочевник: !warrant Шурик Выбив
+[21:22:21] Шурик: Убирайся отсюда к чёрту!
+[21:22:42] Me6oK: ГО-шники
+[21:22:50] Me6oK: Понятно
+[21:22:54] Me6oK: Окей
+[21:22:59] Me6oK: Понятно
+[21:23:00] Cherr Tait: Понятно
+[21:23:03] Cherr Tait: Понятно
+[21:23:10] (TEAM) Me6oK: Yes
+[21:23:25] Me6oK: Чёрт
+[21:23:41] Me6oK: you sure
+[21:23:45] Кэлт: Ха-Ха-Ха
+[21:23:46] анимепсих: Ха-Ха-Ха
+[21:24:00] Me6oK: excuse me
+[21:24:04] анимепсих: Убирайся вон!
+[21:24:08] Me6oK: Окей
+[21:25:37] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:25:46] Активный гомес<STEAM_0:0:502703877> spawned model models/props_wasteland/medbridge_strut01.mdl
+[21:26:17] ❤ Konsuni ❤: /adminomoshnik
+[21:26:46] 💀 SCP-173 💀(UA): /me получил посылку
+[21:26:50] 💀 SCP-173 💀(UA): /adminpocsilnij
+[21:27:13] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/furniturecouch001a.mdl
+[21:27:21] vadimhalo: /ooc повстанцы нас будут сегодня ебать или как?
+[21:27:29] ❤ Konsuni ❤: // патронов нет бля
+[21:27:31] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_tube.mdl
+[21:27:34] анимепсих: // 01 с дубинками легко ебать)
+[21:27:41] Филя Кочевник: // э, куда, у меня даже нет оружия
+[21:27:51] Total Devastation: // так ты 1
+[21:27:51] ♥schitrelz♥: // хахах у нас патронов нету
+[21:28:08] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:28:09] Total Devastation: // дайте оружие и патроны и посражаемся
+[21:28:15] анимепсих: // +
+[21:28:42] Активный гомес: /me описывает внешность анимепсиха.
+[21:28:43] (TEAM) Филя Кочевник: 10-23
+[21:28:47] Assassinkz: /me поднял коробку
+[21:28:49] 💀 SCP-173 💀(UA): /me получил посылку
+[21:28:58] Assassinkz: /me отдал коробку кладовщику
+[21:28:59] Шурик: /looc Это не так работает
+[21:29:04] Assassinkz: /me поднял коробку
+[21:29:10] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/cashregister01a.mdl
+[21:29:13] Assassinkz: /me отдал коробку кладовщику
+[21:29:28] vadimhalo<STEAM_0:0:172707452> spawned model models/props_c17/gravestone001a.mdl
+[21:29:28] Dropped "Me6oK" from server<STEAM_0:0:431399359>
+[21:29:30] ❤ Konsuni ❤: // вадим, мы можем устроить, только дай нам патронов)))
+[21:29:53] Cherr Tait: /ooc так их в ф4 меню купить можно
+[21:29:58] ❤ Konsuni ❤: // неа
+[21:30:02] ♥schitrelz♥: // нет
+[21:30:06] Total Devastation: // только торговец
+[21:30:09] Cherr Tait: /ooc а. капец
+[21:30:09] Филя Кочевник: // за торговца, а не повстанца
+[21:30:09] ❤ Konsuni ❤: // да
+[21:30:30] 💀 SCP-173 💀(UA): /me получил посылку
+[21:31:03] ❤ Konsuni ❤: /drop
+[21:31:06] Активный гомес<STEAM_0:0:502703877> spawned model models/props_combine/combinethumper001a.mdl
+[21:31:10] Активный гомес<STEAM_0:0:502703877> spawned model models/props_doors/door03_slotted_left.mdl
+[21:31:14] vadimhalo: !menu
+[21:31:19] vadimhalo teleported to ♥schitrelz♥
+[21:31:29] Активный гомес<STEAM_0:0:502703877> spawned model models/phxtended/tri1x1x1solid.mdl
+[21:31:32] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:32] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:32] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:32] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:32] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:32] Активный гомес<STEAM_0:0:502703877> spawned model models/phxtended/tri1x1x2solid.mdl
+[21:31:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:33] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:34] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:34] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:34] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:35] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[21:31:35] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:35] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:35] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:36] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:36] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:36] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:37] vadimhalo<STEAM_0:0:172707452> spawned sent item_box_buckshot
+[21:31:42] vadimhalo: !menu
+[21:31:45] vadimhalo teleported to KrubirMrubika
+[21:31:52] vadimhalo: !menu
+[21:31:52] Активный гомес<STEAM_0:0:502703877> spawned model models/phxtended/tri1x1x2solid.mdl
+[21:31:54] Total Devastation: !menu
+[21:31:58] Активный гомес<STEAM_0:0:502703877> spawned model models/phxtended/tri1x1x1solid.mdl
+[21:32:01] vadimhalo teleported to Фауст
+[21:32:01] 💀 SCP-173 💀(UA): /me получил посылку
+[21:32:15] vadimhalo: !menu
+[21:32:18] vadimhalo returned Themself to their original position
+[21:32:25] Total Devastation: !menu
+[21:32:37] Активный гомес<STEAM_0:0:502703877> spawned model models/props_lab/blastdoor001a.mdl
+[21:32:39] The time is now 09:32 PM.
+[21:33:27] 💀 SCP-173 💀(UA): /me получил посылку
+[21:33:36] vadimhalo: /ooc нас будут сегодня ебать?
+[21:33:44] ❤ Konsuni ❤: // yes
+[21:33:56] Total Devastation: // ебите друг друга
+[21:33:56] Филя Кочевник: /dropmoney 35
+[21:34:07] Филя Кочевник suicided!
+[21:34:16] Активный гомес<STEAM_0:0:502703877> spawned model models/props_lab/blastdoor001a.mdl
+[21:34:42] 💀 SCP-173 💀(UA): /me получил посылку
+[21:35:56] Филя Кочевник: // Вадим
+[21:36:09] vadimhalo: /ooc ???
+[21:36:10] Активный гомес<STEAM_0:0:502703877> spawned model models/props_foliage/tree_poplar_01.mdl
+[21:36:21] Филя Кочевник: // у меня дела, ты не против если я уйду
+[21:36:26] vadimhalo: /ooc да ок
+[21:36:35] Филя Кочевник: // окей, удачи, вернусь скоро
+[21:36:51] Dropped "Филя Кочевник" from server<STEAM_0:0:586975567>
+[21:37:06] vadimhalo: !menu
+[21:37:07] ❤ Konsuni ❤: /drop
+[21:37:09] vadimhalo teleported to ❤ Konsuni ❤
+[21:37:13] Assassinkz: /adminucnit1
+[21:37:15] vadimhalo: !menu
+[21:37:16] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:37:17] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:37:18] vadimhalo returned Themself to their original position
+[21:37:34] Total Devastation: /drop
+[21:37:35] анимепсих: /report 12
+[21:37:36] анимепсих: /rep 123
+[21:37:41] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle002a.mdl
+[21:37:43] анимепсих: // Как там тикет подать?
+[21:37:44] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[21:37:46] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[21:37:50] 💀 SCP-173 💀(UA): /admingruzhcchik
+[21:37:51] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle002a.mdl
+[21:37:53] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[21:37:55] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[21:37:59] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[21:38:04] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle002a.mdl
+[21:38:31] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/glassbottle01a.mdl
+[21:38:37] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/glassbottle01a.mdl
+[21:38:42] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[21:38:46] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[21:38:47] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:38:48] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_milkcarton002a.mdl
+[21:38:52] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:39:01] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:39:08] Активный гомес<STEAM_0:0:502703877> spawned model models/props_c17/tv_monitor01.mdl
+[21:39:08] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:39:17] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:39:24] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:39:27] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/glassjug01.mdl
+[21:39:29] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/glassjug01.mdl
+[21:39:33] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:39:34] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[21:39:36] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[21:39:39] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[21:39:39] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:39:48] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:39:48] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[21:39:51] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[21:39:54] Шурик<STEAM_0:0:452405606> spawned model models/hunter/blocks/cube025x025x025.mdl
+[21:39:54] Фауст: /adminpcovstanec
+[21:39:55] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:39:55] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_glassbottle002a.mdl
+[21:40:02] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/glass/glass_plate2x2.mdl
+[21:40:04] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:40:11] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:40:12] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_plate4x4_tri.mdl
+[21:40:13] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_tube.mdl
+[21:40:20] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:40:27] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:40:27] 💀 SCP-173 💀(UA): /me уронил коробку
+[21:40:30] Фауст: // полтора часика поиграл, мне пора.
+[21:40:33] Фауст: // спокойной ночи.
+[21:40:36] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/watermelon01.mdl
+[21:40:36] анимепсих: // спокойной.
+[21:40:40] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/watermelon01.mdl
+[21:40:41] Total Devastation: // спокойной
+[21:40:44] Dropped "Фауст" from server<STEAM_0:1:658241815>
+[21:40:45] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/watermelon01.mdl
+[21:40:45] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:40:49] ❤ Konsuni ❤: /drop
+[21:40:50] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[21:40:52] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[21:40:53] Cherr Tait<STEAM_0:1:672992849> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:40:54] ❤ Konsuni ❤: /drop
+[21:40:54] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[21:40:55] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[21:40:55] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:40:57] ❤ Konsuni ❤: /drop
+[21:41:01] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:41:02] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[21:41:03] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[21:41:03] ❤ Konsuni ❤: /adminpcovstanec
+[21:41:05] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[21:41:07] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[21:41:09] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[21:41:10] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:41:13] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[21:41:18] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:41:27] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:41:33] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:41:39] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/plasticcrate01a.mdl
+[21:41:42] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/plasticcrate01a.mdl
+[21:41:43] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:41:46] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/plasticcrate01a.mdl
+[21:41:48] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/plasticcrate01a.mdl
+[21:41:50] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:41:51] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/plasticcrate01a.mdl
+[21:41:54] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/plasticcrate01a.mdl
+[21:41:59] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:42:04] Активный гомес<STEAM_0:0:502703877> spawned model models/props_interiors/pot01a.mdl
+[21:42:05] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:42:07] Активный гомес<STEAM_0:0:502703877> spawned model models/props_interiors/pot01a.mdl
+[21:42:13] Total Devastation: /drop
+[21:42:13] Активный гомес<STEAM_0:0:502703877> spawned model models/props_interiors/pot02a.mdl
+[21:42:14] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:42:15] Активный гомес<STEAM_0:0:502703877> spawned model models/props_interiors/pot02a.mdl
+[21:42:16] Активный гомес<STEAM_0:0:502703877> spawned model models/props_interiors/pot02a.mdl
+[21:42:21] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:42:25] Активный гомес<STEAM_0:0:502703877> spawned model models/props_interiors/pot01a.mdl
+[21:42:31] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:42:32] Активный гомес<STEAM_0:0:502703877> spawned model models/props_foliage/tree_poplar_01.mdl
+[21:42:38] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:42:40] Активный гомес<STEAM_0:0:502703877> spawned model models/props_foliage/tree_poplar_01.mdl
+[21:42:47] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:42:54] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:43:03] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:43:10] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:43:20] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:43:21] Total Devastation: /pm STEAM_0:1:539647546 все чисто
+[21:43:26] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:43:34] Total Devastation: /pm STEAM_0:1:539647546 мне к вам к барьеру?
+[21:43:35] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:43:42] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:43:51] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:43:58] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:44:07] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:44:21] (TEAM) ♥schitrelz♥: /pm STEAM_0:1:487509974 да иди к нам
+[21:44:32] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel1x2.mdl
+[21:44:34] Total Devastation: /pm STEAM_0:1:539647546 бля мне пора спать
+[21:44:36] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel2x2.mdl
+[21:44:42] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel2x2.mdl
+[21:44:50] ♥schitrelz♥: /pm STEAM_0:1:487509974 окей
+[21:44:51] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+[21:44:52] Total Devastation: /drop
+[21:45:00] Total Devastation: // я спать, bb
+[21:45:05] анимепсих: // спокойной ночи тотал
+[21:45:09] Cherr Tait: /ooc bb
+[21:45:12] Dropped "Total Devastation" from server<STEAM_0:1:487509974>
+[21:45:28] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+[21:45:28] ❤ Konsuni ❤: // вадим, тпнись к нам
+[21:46:10] ♥schitrelz♥: /pm STEAM_0:0:201490571 ты где мы без тебя рейд устроить не можем
+[21:46:33] ♥schitrelz♥: /pm STEAM_0:0:201490571 мы у завода иди к нам
+[21:47:04] ❤ Konsuni ❤: Зомби!
+[21:47:10] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[21:47:11] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel1x2.mdl
+[21:47:16] ♥schitrelz♥: Чёрт
+[21:47:23] (TEAM) Assassinkz:  [fqkm
+[21:47:30] Активный гомес<STEAM_0:0:502703877> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[21:47:31] Assassinkz: аа
+[21:47:35] Assassinkz: зиг хайль
+[21:47:38] Активный гомес<STEAM_0:0:502703877> spawned model models/props_c17/furniturecupboard001a.mdl
+[21:47:41] Активный гомес<STEAM_0:0:502703877> spawned model models/props_junk/cardboard_box003a.mdl
+[21:47:44] Assassinkz: я это чуть в рацию не ебнул
+[21:48:34] ❤ Konsuni ❤ to admins: застряли
+[21:48:58] анимепсих: 12
+[21:48:59] Assassinkz: а где пыщи
+[21:49:09] Кэлт: оргию устраивают
+[21:50:05] Assassinkz: блять
+[21:50:09] анимепсих: /roll 6
+[21:50:15] Assassinkz: /roll 6
+[21:50:18] анимепсих: /roll 6
+[21:50:19] Кэлт: /roll 6
+[21:50:21] Кэлт: сука
+[21:50:23] Assassinkz: /roll 6
+[21:50:25] Assassinkz: лох
+[21:50:29] Кэлт: соси хуй
+[21:50:33] Assassinkz: лох
+[21:50:38] анимепсих: Стоять!
+[21:50:44] Кэлт: я твою индию потом трахну сука
+[21:50:47] Assassinkz: вадим не пройдет!
+[21:50:52] Assassinkz: соси хуй
+[21:50:54] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:50:56] Кэлт: пидорас
+[21:51:03] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:51:06] Assassinkz: ты мне ленд лиз в ??? ка пехотки должен
+[21:51:11] Assassinkz: за моих турристов
+[21:51:12] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:51:15] Кэлт: ??? много пехотки
+[21:51:19] Assassinkz: 200
+[21:51:21] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:51:23] Assassinkz: казахский ебал
+[21:51:27] Кэлт: 200КА?
+[21:51:29] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:51:30] Assassinkz: да
+[21:51:33] Assassinkz: ты мне обещал
+[21:51:33] Кэлт: я тебе говорил 20к 
+[21:51:34] анимепсих: // повстанцы нападайте!!
+[21:51:35] Кэлт: ебланище
+[21:51:37] Assassinkz: ой
+[21:51:38] Активный гомес: /ooc Вадим, почему ты с дс ливнуд?
+[21:51:38] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:51:40] Assassinkz: ну похуй
+[21:51:41] Assassinkz: 2000
+[21:51:44] Assassinkz: ой блять
+[21:51:45] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:51:46] ❤ Konsuni ❤: // та нет нас блять, нам третий нужен
+[21:51:47] Assassinkz: нгу позуй
+[21:51:48] Кэлт: 20к я могу дать
+[21:51:49] vadimhalo: /ooc так че
+[21:51:51] Кэлт: но не 200 нахуй
+[21:51:53] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:51:57] ❤ Konsuni ❤: // третий ливнул наш
+[21:51:57] vadimhalo: /ooc нас будут ебать?
+[21:52:00] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:52:10] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:52:16] ❤ Konsuni ❤: // дашь нам третьего пыща - будем
+[21:52:16] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:52:25] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:52:29] vadimhalo: !menu
+[21:52:33] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:52:34] vadimhalo teleported to ❤ Konsuni ❤
+[21:52:42] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:52:53] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:52:54] 💀 SCP-173 💀(UA): /me уронил коробку
+[21:52:57] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:52:57] vadimhalo: !menu
+[21:53:00] vadimhalo returned Themself to their original position
+[21:53:07] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:53:13] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:53:21] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:53:27] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:53:36] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:53:56] ❤ Konsuni ❤ to admins: вадим, тп к нам, вопрос
+[21:54:26] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:54:27] vadimhalo: !menu
+[21:54:30] vadimhalo teleported to ❤ Konsuni ❤
+[21:54:35] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:54:40] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:54:40] vadimhalo: !menu
+[21:54:46] vadimhalo returned Themself to their original position
+[21:54:49] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:54:57] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:55:02] ❤ Konsuni ❤: /give 90
+[21:55:07] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:55:15] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:55:23] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:55:27] Активный гомес: /ooc Вадим, дай денег на медика повстанца
+[21:55:29] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:55:39] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:55:46] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:55:48] анимепсих: // Мы распределяться на более активные роли не будем? ОТА, ГО по специа�
+[21:55:55] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:56:01] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:56:02] Активный гомес: /adminbeczhenec
+[21:56:10] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:56:18] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:56:27] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:56:35] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:56:43] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:56:51] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:57:00] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:57:08] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:57:17] Активный гомес: /adminpcovstanec
+[21:57:17] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:57:24] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:57:25] 💀 SCP-173 💀(UA): /me уронил коробку
+[21:57:31] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:57:37] Шурик killed анимепсих using player
+[21:57:39] Активный гомес: /ooc Вадим?
+[21:57:40] анимепсих: // кринж
+[21:57:40] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:57:46] ♥schitrelz♥ killed Кэлт using player
+[21:57:49] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:57:54] Assassinkz killed ♥schitrelz♥ using weapon_stunstick2
+[21:57:58] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:58:03] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:58:11] Шурик killed Assassinkz using player
+[21:58:12] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:58:18] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:58:25] (TEAM) ♥schitrelz♥: /pm STEAM_0:1:464427619 я помер я же говорил что нас обходят
+[21:58:26] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:58:32] анимепсих to admins: 1
+[21:58:35] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:58:44] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:58:49] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:58:51] анимепсих to admins: Деньги на этом тесте или на след будут? Я хочу взять или ГО нормально
+[21:58:56] анимепсих to admins: Отыгрывать за КМД ота или просто за элиту и тд
+[21:58:59] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:59:05] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:59:11] анимепсих to admins: Патрулировать город классная идея но 4 граждана 3 юнита ГО и повстанц
+[21:59:13] ❤ Konsuni ❤ killed vadimhalo using player
+[21:59:14] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:59:20] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:59:27] ♥schitrelz♥: /pm STEAM_0:1:464427619 хахаха ты всех замаслил
+[21:59:29] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:59:32] анимепсих to admins: или дать шанс на кмд ГО сыграть, хз
+[21:59:34] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:59:43] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[21:59:48] 💀 SCP-173 💀(UA): /me поднял коробку
+[21:59:58] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:00:05] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:00:15] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:00:21] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:00:23] ❤ Konsuni ❤: Понятно
+[22:00:27] Активный гомес: /admintorcgovec
+[22:00:30] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:00:35] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:00:45] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:00:51] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:01:00] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:01:06] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:01:08] ♥schitrelz♥: /adminpcovstanec
+[22:01:15] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:01:16] Dropped "Cherr Tait" from server<STEAM_0:1:672992849>
+[22:01:20] Шурик killed анимепсих using player
+[22:01:22] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:01:24] Client "Паралич мозга" connected.
+[22:01:30] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:01:36] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:01:45] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:01:51] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:01:58] Client "Паралич мозга" spawned in server <STEAM_0:1:672992849> (took 34 seconds).
+[22:02:00] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:02:07] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:02:15] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:02:22] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:02:31] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:02:32] Cherr Tait: /ooc да ну ептеть 
+[22:02:37] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:02:46] Cherr Tait: /ooc эрорки даже когда перезашел 
+[22:02:46] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:02:50] анимепсих: // контент
+[22:02:52] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:02:58] Кэлт: /adminucnit1
+[22:02:58] Cherr Tait: /ooc так скачивал 
+[22:03:02] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:03:03] Assassinkz: /adminucnit1
+[22:03:13] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:03:22] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:03:27] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:03:32] Шурик: // Всем споки ноки и чмок в пупок
+[22:03:33] vadimhalo: /ooc всем в обязательном порядке
+[22:03:36] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+[22:03:37] vadimhalo: /ooc написал мне в лс
+[22:03:41] vadimhalo: /ooc как вам сервер
+[22:03:41] 💀 SCP-173 💀(UA): /me поднял коробку
+[22:03:45] vadimhalo: /ooc все спасибо я спать
+[22:03:48] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[22:03:49] Dropped "vadimhalo" from server<STEAM_0:0:172707452>
+[22:03:50] 💀 SCP-173 💀(UA): /me отдал коробку кладовщику
+
+
+
+[22:31:10] New map: rp_city11_sv
+[22:32:40] Client "Я не Shapka" connected.
+[22:35:09] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 149 seconds).
+[22:36:59] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_junk/plasticcrate01a.mdl
+[23:06:09] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+<Logging continued in "data/ulx_logs/08-02-23.txt">

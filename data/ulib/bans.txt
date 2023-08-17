@@ -1,0 +1,235 @@
+"STEAM_0:1:80318179"	
+{
+	"reason"	"Неадыкват + лив + MassDeathMatch + PowerGaming (Mass)"
+	"steamID"	"STEAM_0:1:80318179"
+	"admin"	"Egor Lisin(STEAM_0:1:464427619)"
+	"unban"	"0"
+	"time"	"1691869100"
+}
+"STEAM_0:1:59499199"	
+{
+	"modified_time"	"1691865763"
+	"reason"	"Оск родных + оск сервера + оск админов + неадекват"
+	"steamID"	"STEAM_0:1:59499199"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"1693074454"
+	"time"	"1691864854"
+	"name"	"иван золо 2004"
+	"modified_admin"	"vadimhalo(STEAM_0:0:172707452)"
+}
+"STEAM_0:0:420375915"	
+{
+	"reason"	"срыв ивента"
+	"steamID"	"STEAM_0:0:420375915"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"1692727039"
+	"time"	"1692122239"
+	"name"	"*^*ZeoNus*^*"
+}
+"STEAM_0:0:455770232"	
+{
+	"reason"	"Ддос сервера. Че, поспамил взломщиками?"
+	"steamID"	"STEAM_0:0:455770232"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691913866"
+}
+"STEAM_0:0:88372200"	
+{
+	"reason"	"FloodWeapon "
+	"steamID"	"STEAM_0:0:88372200"
+	"admin"	"Egor Lisin(STEAM_0:1:464427619)"
+	"unban"	"0"
+	"time"	"1691881539"
+	"name"	"PoloS"
+}
+"STEAM_0:1:774078129"	
+{
+	"reason"	"Ддос + эксплоит"
+	"steamID"	"STEAM_0:1:774078129"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691927332"
+	"name"	"Олег Петрочив"
+}
+"STEAM_0:0:586975567"	
+{
+	"reason"	"Я запрещаю тебе срать!"
+	"admin"	"(Console)"
+	"unban"	0
+	"time"	1692211137
+	"name"	"Azzeti"
+}
+"STEAM_0:1:517483238"	
+{
+	"unban"	"0"
+	"steamID"	"STEAM_0:1:517483238"
+}
+"STEAM_0:1:426415567"	
+{
+	"reason"	"Обход бана"
+	"steamID"	"STEAM_0:1:426415567"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1692124329"
+	"name"	"Kanna"
+}
+"STEAM_0:1:534201950"	
+{
+	"reason"	"эксплоит. дежавю?"
+	"steamID"	"STEAM_0:1:534201950"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691939998"
+	"name"	"crxazwse"
+}
+"STEAM_0:0:555171001"	
+{
+	"reason"	"vzlom"
+	"steamID"	"STEAM_0:0:555171001"
+	"admin"	"Egor Lisin(STEAM_0:1:464427619)"
+	"unban"	"0"
+	"time"	"1691884117"
+}
+"STEAM_0:1:430394015"	
+{
+	"reason"	"Оск родных"
+	"steamID"	"STEAM_0:1:430394015"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"1692469750"
+	"time"	"1691864950"
+	"name"	"Taliban Enjoyer"
+}
+"STEAM_0:1:521279369"	
+{
+	"reason"	"reason"
+	"steamID"	"STEAM_0:1:521279369"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1692120918"
+	"name"	"Vadimsalo"
+}
+"STEAM_0:1:48689151"	
+{
+	"reason"	"Эксплоиты"
+	"steamID"	"STEAM_0:1:48689151"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691916698"
+	"name"	"Kiryl Khyrakanov"
+}
+"STEAM_0:0:519029777"	
+{
+	"reason"	"Негодяй"
+	"steamID"	"STEAM_0:0:519029777"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1691920289"
+}
+"STEAM_0:1:434338133"	
+{
+	"reason"	"Негодняй"
+	"steamID"	"STEAM_0:1:434338133"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"1693131272"
+	"time"	"1691921672"
+	"name"	"Diversant"
+}
+"STEAM_0:1:790395248"	
+{
+	"reason"	"Реал вадимхало?"
+	"steamID"	"STEAM_0:1:790395248"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691940721"
+	"name"	"vadimhalo"
+}
+"STEAM_0:1:519047257"	
+{
+	"reason"	"аимбот"
+	"steamID"	"STEAM_0:1:519047257"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1692121532"
+	"name"	"Юпийо Юпией"
+}
+"STEAM_0:0:594137973"	
+{
+	"reason"	"vzlom"
+	"steamID"	"STEAM_0:0:594137973"
+	"admin"	"Egor Lisin(STEAM_0:1:464427619)"
+	"unban"	"0"
+	"time"	"1691884980"
+	"name"	"死の化身"
+}
+"STEAM_0:1:755664602"	
+{
+	"reason"	"DM + Неадекват + помеха жб + лив"
+	"steamID"	"STEAM_0:1:755664602"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"1692469957"
+	"time"	"1691865157"
+}
+"STEAM_0:0:774089010"	
+{
+	"reason"	"Эксплоит"
+	"steamID"	"STEAM_0:0:774089010"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691922757"
+	"name"	"Дон Корлеоне"
+}
+"STEAM_0:1:148232866"	
+{
+	"reason"	"Негодяй"
+	"steamID"	"STEAM_0:1:148232866"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1691920670"
+	"name"	"Кацуки"
+}
+"STEAM_0:0:437774473"	
+{
+	"reason"	"FloodWeapon "
+	"steamID"	"STEAM_0:0:437774473"
+	"admin"	"Egor Lisin(STEAM_0:1:464427619)"
+	"unban"	"0"
+	"time"	"1691881111"
+	"name"	"Andrey Petrov"
+}
+"STEAM_0:0:737789165"	
+{
+	"reason"	"ччччччч"
+	"steamID"	"STEAM_0:0:737789165"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1691864571"
+	"name"	"Guatemala"
+}
+"STEAM_0:0:790466258"	
+{
+	"reason"	"эксплоит. дежавю?"
+	"steamID"	"STEAM_0:0:790466258"
+	"admin"	"Total Devastation(STEAM_0:1:487509974)"
+	"unban"	"0"
+	"time"	"1691940008"
+	"name"	"Zondo"
+}
+"STEAM_0:1:581257154"	
+{
+	"reason"	"Взлом"
+	"steamID"	"STEAM_0:1:581257154"
+	"admin"	"Egor Lisin(STEAM_0:1:464427619)"
+	"unban"	"0"
+	"time"	"1691883384"
+	"name"	"Armagedon"
+}
+"STEAM_0:1:773896939"	
+{
+	"reason"	"Плохой"
+	"steamID"	"STEAM_0:1:773896939"
+	"admin"	"vadimhalo(STEAM_0:0:172707452)"
+	"unban"	"0"
+	"time"	"1691935082"
+	"name"	"Олар"
+}

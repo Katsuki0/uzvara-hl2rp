@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name" "Talk Icon"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "servercontent",
+	"tags": 
+	[]
+}"
+}

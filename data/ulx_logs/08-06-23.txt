@@ -1,0 +1,1208 @@
+[19:58:13] New map: rp_city11_sv
+
+
+
+[20:00:05] New map: rp_city11_sv
+[20:00:30] Client "Я не Shapka" connected.
+[20:02:26] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 116 seconds).
+[20:12:20] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[20:12:21] Client "Я не Shapka" connected.
+[20:13:13] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 52 seconds).
+[20:13:45] Server is shutting down/changing levels.
+
+
+
+[20:14:09] New map: rp_city11_sv
+[20:14:54] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 54 seconds).
+[20:15:23] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[20:15:47] Client "Я не Shapka" connected.
+[20:16:32] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 45 seconds).
+[20:18:58] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[20:18:59] Client "Я не Shapka" connected.
+[20:19:45] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 46 seconds).
+[20:22:02] Server is shutting down/changing levels.
+
+
+
+[20:22:26] New map: rp_city11_sv
+[20:23:11] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 55 seconds).
+[20:24:25] Client "💀 SCP-173 💀(UA)" connected.
+[20:24:27] Client "♥schitrelz♥" connected.
+[20:25:21] Client "❤ Konsuni ❤" connected.
+[20:25:29] Client "❤ Konsuni ❤" connected.
+[20:25:38] Client "Сэр Яйцо" connected.
+[20:25:46] Client "кирилл буданов" connected.
+[20:25:59] Client "♥schitrelz♥" spawned in server <STEAM_0:1:539647546> (took 92 seconds).
+[20:26:02] Client "squadron" connected.
+[20:26:09] Client "Кэлт" connected.
+[20:26:37] Client "nonrp" connected.
+[20:26:40] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 31 seconds).
+[20:26:42] Client "vadimhalo" connected.
+[20:27:04] Client "Assassinkz" connected.
+[20:27:05] Dropped "Кэлт" from server<STEAM_0:0:230068935>
+[20:27:18] Client "www.twitch.tv/lzxcresloebatell" connected.
+[20:27:19] Client "Azzeti" connected.
+[20:27:27] Client "J_EliteCmb" connected.
+[20:27:28] Garry Huffan<STEAM_0:0:45477833> spawned sent yellow_code_panel
+[20:27:38] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 61 seconds).
+[20:27:58] Client "Кэлт" connected.
+[20:28:04] ♥schitrelz♥: /adminpcovstanec
+[20:28:12] Client "Шурик" connected.
+[20:28:24] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 26 seconds).
+[20:28:25] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 103 seconds).
+[20:28:36] Client "Me6oK" connected.
+[20:28:47] Client "💀 SCP-173 💀(UA)" spawned in server <STEAM_0:0:480303422> (took 262 seconds).
+[20:28:51] Dropped "nonrp" from server<STEAM_0:1:575008216>
+[20:28:55] Client "Azzeti" spawned in server <STEAM_0:0:586975567> (took 96 seconds).
+[20:28:59] Client "squadron" spawned in server <STEAM_0:1:485914624> (took 177 seconds).
+[20:29:04] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 198 seconds).
+[20:29:27] Client "Assassinkz" spawned in server <STEAM_0:1:63544152> (took 143 seconds).
+[20:29:29] Client "nonrp" connected.
+[20:29:40] анимепсих: Понятно
+[20:29:41] Кэлт: /adminucnit1
+[20:29:44] Кэлт: /adminucnit1
+[20:29:51] Кэлт: /adminucnit1
+[20:29:52] Client "Me6oK" spawned in server <STEAM_0:0:431399359> (took 76 seconds).
+[20:29:54] Кэлт: /adminucnit1
+[20:30:01] Кэлт: // а хули я не могу мусором стать
+[20:30:04] Client "❤ Konsuni ❤" spawned in server <STEAM_0:1:464427619> (took 275 seconds).
+[20:30:06] Client "Сэр Яйцо" spawned in server <STEAM_0:0:226229891> (took 268 seconds).
+[20:30:09] Кэлт: /adminucnit1
+[20:30:12] Кэлт: /adminucnit1
+[20:30:15] Кэлт: БЛЯИЬ
+[20:30:17] Client "J_EliteCmb" spawned in server <STEAM_0:0:515795929> (took 170 seconds).
+[20:30:17] Кэлт: НАПУГАЛ
+[20:30:24] vadimhalo: че написано?
+[20:30:25] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 56 seconds).
+[20:30:26] squadron suicided!
+[20:30:27] Кэлт: я когда нажимаю ничего не происходит
+[20:30:29] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 137 seconds).
+[20:30:33] Кэлт: на модельку
+[20:30:52] анимепсих: /adminucnit1
+[20:30:56] анимепсих: /adminucnit1
+[20:31:00] Dropped "J_EliteCmb" from server<STEAM_0:0:515795929>
+[20:31:02] анимепсих: /adminucnit1
+[20:31:03] анимепсих: /adminucnit1
+[20:31:03] Кэлт: /adminucnit1
+[20:31:04] анимепсих: /adminucnit1
+[20:31:05] анимепсих: /adminucnit1
+[20:31:09] Server is shutting down/changing levels.
+
+
+
+[20:31:33] New map: rp_city11_sv
+[20:31:55] Client "Кэлт" spawned in server <STEAM_0:0:230068935> (took 32 seconds).
+[20:31:58] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 35 seconds).
+[20:32:02] Client "vadimhalo" spawned in server <STEAM_0:0:172707452> (took 39 seconds).
+[20:32:04] Client "Azzeti" spawned in server <STEAM_0:0:586975567> (took 41 seconds).
+[20:32:04] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 41 seconds).
+[20:32:08] Client "❤ Konsuni ❤" spawned in server <STEAM_0:1:464427619> (took 45 seconds).
+[20:32:10] Client "♥schitrelz♥" spawned in server <STEAM_0:1:539647546> (took 47 seconds).
+[20:32:12] Client "Сэр Яйцо" spawned in server <STEAM_0:0:226229891> (took 49 seconds).
+[20:32:23] Client "squadron" spawned in server <STEAM_0:1:485914624> (took 60 seconds).
+[20:32:23] ♥schitrelz♥ suicided!
+[20:32:23] Client "Me6oK" spawned in server <STEAM_0:0:431399359> (took 60 seconds).
+[20:32:23] Шурик suicided!
+[20:32:30] Client "Assassinkz" spawned in server <STEAM_0:1:63544152> (took 67 seconds).
+[20:32:35] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 72 seconds).
+[20:32:40] Client "кирилл буданов" connected.
+[20:32:59] Client "💀 SCP-173 💀(UA)" spawned in server <STEAM_0:0:480303422> (took 96 seconds).
+[20:33:12] Кэлт: /adminucnit1
+[20:33:13] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 33 seconds).
+[20:33:17] Кэлт: // ура я мусор
+[20:33:27] Client "J_EliteCmb" connected.
+[20:33:42] Dropped "анимепсих" from server<STEAM_0:1:59432880>
+[20:33:47] vadimhalo: !menu
+[20:33:50] vadimhalo teleported to Me6oK
+[20:34:00] ❤ Konsuni ❤: /adminpcovstanec
+[20:34:02] Client "кирилл буданов" connected.
+[20:34:06] Сэр Яйцо: /adminbeczhenec
+[20:34:09] squadron: /name Squadron Jhonson
+[20:34:10] squadron<STEAM_0:1:485914624> changed their name to Squadron Jhonson
+[20:34:21] Client "J_EliteCmb" spawned in server <STEAM_0:0:515795929> (took 54 seconds).
+[20:34:45] ♥schitrelz♥: /adminpcovstanec
+[20:34:50] Client "кирилл буданов" spawned in server <STEAM_0:1:59432880> (took 48 seconds).
+[20:35:14] Garry Huffan: /lottery " "500
+[20:35:17] анимепсих: Понятно
+[20:35:49] J_EliteCmb: /adminpishevojcsnabditel
+[20:35:52] Garry Huffan: /lottery " "555
+[20:35:59] Garry Huffan: /lottery " "100
+[20:36:04] Client "www.twitch.tv/lzxcresloebatell" spawned in server <STEAM_0:1:189765948> (took 281 seconds).
+[20:36:06] Garry Huffan: /lottery " "5
+[20:36:11] анимепсих: /adminucnit1
+[20:36:15] Garry Huffan: /lottery 100
+[20:36:19] анимепсих: Стоять!
+[20:36:28] Dropped "www.twitch.tv/lzxcresloebatell" from server<STEAM_0:1:189765948>
+[20:36:30] Garry Huffan: /setmoney shapka 100
+[20:36:35] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_phx/construct/metal_tube.mdl
+[20:36:46] анимепсих: Ха-Ха-Ха
+[20:36:49] Assassinkz: /adminucnit1
+[20:36:51] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/triangles/1x1x1.mdl
+[20:36:55] Client "www.twitch.tv/lzxcresloebatell" connected.
+[20:36:57] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_phx/construct/metal_plate1.mdl
+[20:37:10] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/triangles/1x1x1.mdl
+[20:37:17] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate2x3.mdl
+[20:37:30] vadimhalo: /ooc кто хочет стать CMD.UNIT?
+[20:37:30] анимепсих: Ха-Ха-Ха
+[20:37:32] анимепсих: Первое предупреждение
+[20:37:37] Client "www.twitch.tv/lzxcresloebatell" spawned in server <STEAM_0:1:189765948> (took 42 seconds).
+[20:37:39] Client "Рейхсмаршал URF.IM" connected.
+[20:37:41] ❤ Konsuni ❤<STEAM_0:1:464427619> spawned model models/props_lab/blastdoor001c.mdl
+[20:37:45] vadimhalo: /OOC + в чат
+[20:37:55] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate05x2.mdl
+[20:37:55] vadimhalo: !menu
+[20:38:03] vadimhalo установил анимепсих профессию  CMD.OTA
+[20:38:03] www.twitch.tv/lzxcresloebatell: /rpname ZXCRESLOEBATEL
+[20:38:04] www.twitch.tv/lzxcresloebatell<STEAM_0:1:189765948> changed their name to ZXCRESLOEBATEL
+[20:38:11] ❤ Konsuni ❤: // +
+[20:38:17] vadimhalo: !menu
+[20:38:19] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube1x1x05.mdl
+[20:38:21] vadimhalo teleported to ❤ Konsuni ❤
+[20:38:25] vadimhalo: !menu
+[20:38:30] анимепсих: // Кто хочет в состав ОТА?)
+[20:38:35] vadimhalo returned Themself to their original position
+[20:38:39] vadimhalo brought ❤ Konsuni ❤
+[20:38:41] ZXCRESLOEBATEL: // бабла дашь?
+[20:38:45] vadimhalo установил ❤ Konsuni ❤ профессию  CMD.UNIT
+[20:39:11] nonrp: // Дай деньги
+[20:39:16] Me6oK: /adminbeczhenec
+[20:39:17] J_EliteCmb: /adminbeczhenec
+[20:39:28] vadimhalo: !menu
+[20:39:38] ❤ Konsuni ❤: /name Egor Lisin
+[20:39:38] ❤ Konsuni ❤<STEAM_0:1:464427619> changed their name to Egor Lisin
+[20:39:40] Client "Рейхсмаршал URF.IM" spawned in server <STEAM_0:1:557995360> (took 121 seconds).
+[20:39:53] 💀 SCP-173 💀(UA): /ooc ГДЕ время на сервере
+[20:39:58] анимепсих: Выполнять
+[20:40:04] Assassinkz: Так точно
+[20:40:07] nonrp: Дай деньги за плюсики
+[20:40:08] vadimhalo: /OOC В F4
+[20:40:09] Assassinkz: Помощь нужна?
+[20:40:10] Сэр Яйцо: // в ф4
+[20:40:11] Garry Huffan: // v f4
+[20:40:13] vadimhalo: !menu
+[20:40:17] vadimhalo brought Сэр Яйцо
+[20:40:19] vadimhalo установил Сэр Яйцо профессию  UNIT.3
+[20:40:22] Dropped "ZXCRESLOEBATEL" from server<STEAM_0:1:189765948>
+[20:40:23] Garry Huffan cloaked Themself by amount 0
+[20:40:23] Garry Huffan: !cloak 
+[20:40:25] Dropped "Рейхсмаршал URF.IM" from server<STEAM_0:1:557995360>
+[20:40:31] vadimhalo: !menu
+[20:40:39] (TEAM) Me6oK: // вадим тп
+[20:40:48] Сэр Яйцо: как ник поменять
+[20:40:52] анимепсих:  /rpname
+[20:40:53] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube3x4x025.mdl
+[20:40:55] Сэр Яйцо: /name влад
+[20:40:55] Сэр Яйцо<STEAM_0:0:226229891> changed their name to влад
+[20:40:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube2x3x025.mdl
+[20:40:57] Client "Рейхсмаршал" connected.
+[20:41:23] nonrp: Измени лимит у посильни
+[20:41:31] Egor Lisin: Стоять!
+[20:41:37] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube2x3x025.mdl
+[20:41:39] Client "Рейхсмаршал" spawned in server <STEAM_0:1:557995360> (took 42 seconds).
+[20:41:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube2x2x025.mdl
+[20:42:19] анимепсих: // Патроны где брать, Вадим?
+[20:42:24] vadimhalo: !menu
+[20:42:25] (TEAM) Me6oK: // вадим тп пж или в дискорд зайди
+[20:42:27] Dropped "Рейхсмаршал URF.IM" from server<STEAM_0:1:557995360>
+[20:42:27] nonrp: /adminvorctigont
+[20:42:32] vadimhalo установил Themself профессию  Глава Отряда
+[20:42:47] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x05x025.mdl
+[20:43:01] Client "Рейхсмаршал" connected.
+[20:43:02] vadimhalo: !menu
+[20:43:06] vadimhalo: !menu
+[20:43:14] nonrp: // админа бузер?
+[20:43:41] Client "Рейхсмаршал" spawned in server <STEAM_0:1:557995360> (took 40 seconds).
+[20:43:42] vadimhalo granted access "ulx gag" to group operator_n
+[20:43:44] vadimhalo granted access "ulx mute" to group operator_n
+[20:43:45] vadimhalo granted access "ulx ungag" to group operator_n
+[20:43:46] vadimhalo granted access "ulx unmute" to group operator_n
+[20:43:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:44:01] vadimhalo granted access "ulx armor" to group operator_n
+[20:44:01] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:44:01] vadimhalo granted access "ulx cloak" to group operator_n
+[20:44:02] vadimhalo granted access "ulx freeze" to group operator_n
+[20:44:03] vadimhalo granted access "ulx god" to group operator_n
+[20:44:08] Рейхсмаршал URF.IM: /name Рейхсмаршал
+[20:44:08] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:44:08] Рейхсмаршал URF.IM<STEAM_0:1:557995360> changed their name to Рейхсмаршал
+[20:44:09] vadimhalo granted access "ulx hp" to group operator_n
+[20:44:10] vadimhalo granted access "ulx jail" to group operator_n
+[20:44:12] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:44:14] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x075x025.mdl
+[20:44:15] vadimhalo granted access "ulx slay" to group operator_n
+[20:44:20] vadimhalo granted access "ulx strip" to group operator_n
+[20:44:22] vadimhalo granted access "ulx unblind" to group operator_n
+[20:44:23] vadimhalo revoked access "ulx unblind" to group operator_n
+[20:44:24] vadimhalo granted access "ulx uncloak" to group operator_n
+[20:44:25] vadimhalo granted access "ulx unfreeze" to group operator_n
+[20:44:25] vadimhalo granted access "ulx ungod" to group operator_n
+[20:44:27] vadimhalo granted access "ulx unjail" to group operator_n
+[20:44:34] vadimhalo granted access "ulx bring" to group operator_n
+[20:44:35] vadimhalo granted access "ulx goto" to group operator_n
+[20:44:35] vadimhalo granted access "ulx send" to group operator_n
+[20:44:37] vadimhalo revoked access "ulx send" to group operator_n
+[20:44:37] vadimhalo granted access "ulx return" to group operator_n
+[20:44:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube025x05x025.mdl
+[20:44:43] Assassinkz: Выполнять
+[20:44:44] vadimhalo granted access "ulx noclip" to group operator_n
+[20:44:46] Кэлт: Ха-Ха-Ха
+[20:44:48] 💀 SCP-173 💀(UA): /adminzomcbie1
+[20:44:55] vadimhalo granted access "ulx kick" to group operator_n
+[20:44:56] vadimhalo revoked access "ulx kick" to group operator_n
+[20:45:02] nonrp: // Дай деньги за плюсики
+[20:45:16] vadimhalo: /ooc плюсики выдаются на открытие 
+[20:45:20] vadimhalo: /ooc все у кого админка
+[20:45:23] vadimhalo: /ooc сейчас +
+[20:45:27] vadimhalo: !menu
+[20:45:29] nonrp: // +
+[20:45:31] vadimhalo brought nonrp
+[20:45:33] анимепсих: // +
+[20:45:34] vadimhalo brought Egor Lisin
+[20:45:37] Me6oK: //а как понять?
+[20:45:37] vadimhalo brought анимепсих
+[20:45:38] J_EliteCmb: /help
+[20:45:41] vadimhalo brought Филя Кочевник
+[20:45:43] Рейхсмаршал: /me кинул шашку под ноги Авелю
+[20:45:43] vadimhalo brought Me6oK
+[20:45:44] Рейхсмаршал: /looc откат
+[20:45:49] J_EliteCmb: /ulx
+[20:45:49] (TEAM) Me6oK: /help
+[20:45:49] nonrp: Там две льянса можно купить
+[20:45:52] vadimhalo: !menu
+[20:45:57] vadimhalo: !menu
+[20:46:03] vadimhalo added Me6oK to group operator_n
+[20:46:06] vadimhalo added Egor Lisin to group operator_n
+[20:46:08] vadimhalo added nonrp to group operator_n
+[20:46:15] Me6oK: !menu
+[20:46:15] nonrp: // Там дверь Альянса можно купить
+[20:46:19] Рейхсмаршал: /
+[20:46:20] анимепсих: 67
+[20:46:34] Client "www.twitch.tv/lzxcresloebatell" connected.
+[20:46:39] Кэлт: Ха-Ха-Ха
+[20:46:42] анимепсих: !menu
+[20:46:45] Кэлт: Ха-Ха-Ха
+[20:46:46] The time is now 08:46 PM.
+[20:46:47] влад: /adminomoshnik
+[20:46:48] анимепсих to admins: message
+[20:46:52] Кэлт: Ха-Ха-Ха
+[20:47:03] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[20:47:10] Филя Кочевник: !menu
+[20:47:14] Client "www.twitch.tv/lzxcresloebatell" spawned in server <STEAM_0:1:189765948> (took 40 seconds).
+[20:47:18] vadimhalo: !menu
+[20:47:22] Egor Lisin: !menu\
+[20:47:25] Egor Lisin: !menu
+[20:47:30] vadimhalo added Филя Кочевник to group admin
+[20:47:37] nonrp: !menu
+[20:47:38] анимепсих:  !noclip
+[20:47:41] Филя Кочевник: /name Azzeti
+[20:47:42] Филя Кочевник<STEAM_0:0:586975567> changed their name to Azzeti
+[20:47:51] vadimhalo: !menu
+[20:47:51] (TEAM) Me6oK: !noclip
+[20:48:07] Egor Lisin: !noclip
+[20:48:10] Egor Lisin: !noclip
+[20:48:11] 💀 SCP-173 💀(UA) killed J_EliteCmb using w_z_zombie
+[20:48:13] Egor Lisin: !noclip
+[20:48:22] vadimhalo: !menu
+[20:48:24] Egor Lisin: !menu
+[20:48:26] ZXCRESLOEBATEL: /pm vadimhalo дай оту любую
+[20:48:27] nonrp:  !noclip
+[20:48:31] vadimhalo added анимепсих to group operator_n
+[20:48:33] анимепсих: !noclip
+[20:48:33] Кэлт: Ха-Ха-Ха
+[20:48:35] анимепсих: !noclip
+[20:48:36] vadimhalo removed all access rights from анимепсих
+[20:48:36] nonrp:  !noclip
+[20:48:38] vadimhalo removed all access rights from Me6oK
+[20:48:42] анимепсих: !menu
+[20:48:46] vadimhalo added Me6oK to group operator_n
+[20:48:46] nonrp: !noclip
+[20:48:49] vadimhalo added анимепсих to group operator_n
+[20:48:50] nonrp: !noclip
+[20:48:55] Egor Lisin: !menu
+[20:48:57] Client "Я не Shapka" connected.
+[20:48:58] анимепсих: !noclip
+[20:49:01] анимепсих: !noclip
+[20:49:15] анимепсих: !menu
+[20:49:16] vadimhalo removed group moder
+[20:49:18] vadimhalo removed group moderator
+[20:49:21] Squadron Jhonson: брат
+[20:49:22] vadimhalo removed group operator
+[20:49:29] анимепсих: !unmute
+[20:49:32] анимепсих: !menu
+[20:49:38] The time is now 08:49 PM.
+[20:49:49] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 52 seconds).
+[20:49:53] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/fence01b.mdl
+[20:50:31] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube4x4x025.mdl
+[20:50:32] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:50:33] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube4x4x025.mdl
+[20:50:36] Кэлт: Первое предупреждение
+[20:50:40] Assassinkz: /roll 6
+[20:50:40] vadimhalo: !menu
+[20:51:02] Egor Lisin returned Themself to their original position
+[20:51:02] Egor Lisin: !return Egor
+[20:51:06] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_debris/metal_panel02a.mdl
+[20:51:10] Me6oK: !meny
+[20:51:13] Client "Шурик" connected.
+[20:51:14] vadimhalo: !menu
+[20:51:16] (TEAM) Me6oK: !menu
+[20:51:20] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_debris/metal_panel02a.mdl
+[20:51:23] Egor Lisin: !menu
+[20:51:30] Me6oK returned Themself to their original position
+[20:51:34] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_debris/metal_panel02a.mdl
+[20:51:34] Egor Lisin teleported to vadimhalo
+[20:51:34] Egor Lisin: !goto vadimhalo
+[20:51:44] (TEAM) Me6oK: !menu 
+[20:51:45] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 32 seconds).
+[20:51:54] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_debris/metal_panel01a.mdl
+[20:51:56] ZXCRESLOEBATEL: /adminbeczhenec
+[20:52:00] nonrp: take this medkit
+[20:52:09] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_debris/metal_panel02a.mdl
+[20:52:11] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[20:52:18] Garry Huffan renamed group operator_vn to operator_VN
+[20:52:21] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_debris/metal_panel02a.mdl
+[20:52:23] Garry Huffan renamed group operator_n to operator_N
+[20:52:25] J_EliteCmb: /help
+[20:52:25] Me6oK teleported to vadimhalo
+[20:52:28] Garry Huffan renamed group operator_vd to operator_VD
+[20:52:34] Garry Huffan renamed group operator_d to operator_D
+[20:52:41] vadimhalo: !menu
+[20:52:41] Egor Lisin returned Themself to their original position
+[20:52:41] Egor Lisin: !return Egor
+[20:52:57] Рейхсмаршал: // у меня взломшик не работает
+[20:53:03] Egor Lisin: !menu
+[20:53:04] ZXCRESLOEBATEL: // там долго стоять надо\
+[20:53:23] Рейхсмаршал: // а вл=злом должен чем-то сопровождаться?
+[20:53:27] ZXCRESLOEBATEL: нет
+[20:53:29] ZXCRESLOEBATEL: // нет
+[20:53:29] J_EliteCmb: /menu
+[20:53:30] nonrp: нажать на профиль
+[20:53:35] Azzeti unfroze J_EliteCmb
+[20:53:35] (TEAM) Me6oK: !menu
+[20:53:35] анимепсих: // ZXC, ты ОТА хотел быть?
+[20:53:40] Azzeti unfroze Me6oK
+[20:53:40] ZXCRESLOEBATEL: // +
+[20:53:47] ZXCRESLOEBATEL: // у меня бабла нет
+[20:53:50] ZXCRESLOEBATEL: // на оту
+[20:53:50] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/furniturecouch001a.mdl
+[20:53:57] vadimhalo: !menu
+[20:54:06] vadimhalo brought J_EliteCmb
+[20:54:09] Garry Huffan renamed group operator_D to operator_d
+[20:54:13] Garry Huffan renamed group operator_VN to operator_vn
+[20:54:16] Garry Huffan renamed group operator_N to operator_n
+[20:54:18] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/furniturefireplace001a.mdl
+[20:54:20] vadimhalo: !menu
+[20:54:21] Garry Huffan renamed group operator_VD to operator_vd
+[20:54:28] vadimhalo установил ZXCRESLOEBATEL профессию  OTA.UNION
+[20:54:32] ZXCRESLOEBATEL: // весело
+[20:54:34] анимепсих returned Themself to their original position
+[20:54:34] анимепсих: !return ^
+[20:54:35] vadimhalo: !menu
+[20:54:37] vadimhalo установил Azzeti профессию  OTA.UNION
+[20:54:37] ZXCRESLOEBATEL: // а можно тп в город
+[20:54:44] анимепсих: // Ты ОТА стал? Нет?
+[20:54:44] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/combine_turrets/floor_turret.mdl
+[20:54:47] ZXCRESLOEBATEL: // стал
+[20:54:49] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/concrete_barrier001a.mdl
+[20:54:50] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[20:54:51] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[20:54:52] ZXCRESLOEBATEL: // токо я в зз
+[20:54:53] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[20:54:53] nonrp: /!return
+[20:54:54] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[20:54:54] анимепсих: // Блять
+[20:54:55] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[20:54:56] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[20:54:58] ZXCRESLOEBATEL: // ага
+[20:55:02] nonrp: /!return
+[20:55:02] Azzeti returned Themself to their original position
+[20:55:02] Azzeti: !return ^
+[20:55:02] влад: /name Владислав Зайцев
+[20:55:03] Рейхсмаршал: /adminbeczhenec
+[20:55:05] nonrp returned Themself to their original position
+[20:55:05] nonrp: !return
+[20:55:09] (TEAM) Me6oK: !noclip
+[20:55:11] влад: Владислав Зайцев
+[20:55:15] nonrp: // я нашёл баг
+[20:55:19] Egor Lisin: !setname Владислав Зайцев
+[20:55:20] анимепсих to admins: Азеррати, тп дай к омне
+[20:55:21] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:25] Egor Lisin: !setname @ Владислав Зайцев
+[20:55:25] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/gate_door01a.mdl
+[20:55:28] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:30] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/furnituresink001a.mdl
+[20:55:32] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/gate_door01a.mdl
+[20:55:34] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_c17/gate_door01a.mdl
+[20:55:34] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:34] Egor Lisin: !setname STEAM_0:0:226229891\ Владислав Зайцев
+[20:55:39] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:44] Egor Lisin: !setname STEAM_0:0:226229891 Владислав Зайцев
+[20:55:44] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:47] Egor Lisin: !menu
+[20:55:52] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:55:59] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01b.mdl
+[20:56:01] Me6oK: !meny
+[20:56:11] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01a.mdl
+[20:56:14] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_combine/combine_fence01a.mdl
+[20:56:16] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:56:16] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:56:16] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[20:56:18] Me6oK: /adminomoshnik
+[20:56:26] Me6oK: !menu
+[20:56:30] Client "Шурик" connected.
+[20:56:31] Me6oK brought ZXCRESLOEBATEL
+[20:56:31] влад: /name Влад Зайцев
+[20:56:32] влад<STEAM_0:0:226229891> changed their name to Влад Зайцев
+[20:56:39] vadimhalo killed 💀 SCP-173 💀(UA) using player
+[20:56:49] Me6oK: !menu
+[20:56:54] Кэлт: Ха-Ха-Ха
+[20:56:54] vadimhalo: !menu
+[20:57:01] Me6oK cloaked Themself by amount 0
+[20:57:06] Client "Шурик" spawned in server <STEAM_0:0:452405606> (took 36 seconds).
+[20:57:25] (TEAM) Me6oK: !noclip
+[20:57:36] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/shelfunit01a.mdl
+[20:57:39] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_interiors/refrigerator01a.mdl
+[20:57:43] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/blocks/cube1x5x025.mdl
+[20:57:43] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x4.mdl
+[20:57:45] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_interiors/radiator01a.mdl
+[20:57:46] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/plates/plate05x3.mdl
+[20:57:49] анимепсих<STEAM_0:1:59432880> spawned model models/hunter/plates/plate075x3.mdl
+[20:57:49] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate2x4.mdl
+[20:57:51] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_junk/cardboard_box001a.mdl
+[20:57:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x3.mdl
+[20:57:58] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_junk/cardboard_box001a.mdl
+[20:58:06] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x3.mdl
+[20:58:07] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_junk/cardboard_box001a.mdl
+[20:58:08] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x3.mdl
+[20:58:09] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x6.mdl
+[20:58:11] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x5.mdl
+[20:58:12] ♥schitrelz♥<STEAM_0:1:539647546> spawned model models/props_junk/cardboard_box001a.mdl
+[20:58:23] Azzeti: /ooc Вадим, тп, тут одна вещь
+[20:58:28] vadimhalo: !menu
+[20:58:34] vadimhalo teleported to Azzeti
+[20:58:34] Garry Huffan cloaked Themself by amount 0
+[20:58:34] Garry Huffan: !cloak
+[20:58:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x4.mdl
+[20:58:42] Egor Lisin: !menu
+[20:58:55] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate3x3.mdl
+[20:58:57] nonrp: /admingrazhdanicn
+[20:59:02] Me6oK: /adminomoshnik
+[20:59:15] Azzeti<STEAM_0:0:586975567> spawned model models/props_lab/citizenradio.mdl
+[20:59:29] Me6oK: /menu
+[20:59:32] vadimhalo<STEAM_0:0:172707452> spawned sent radio_receiver
+[20:59:34] (TEAM) Me6oK: !menu
+[20:59:35] vadimhalo: radio_microphone
+[20:59:36] vadimhalo: !menu
+[20:59:42] Egor Lisin: Нарушитель
+[20:59:46] Me6oK teleported to vadimhalo
+[20:59:50] nonrp: /adminvoedagaweqwr
+[21:00:06] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furniturefireplace001a.mdl
+[21:00:47] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/oildrum001_explosive.mdl
+[21:00:48] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/oildrum001_explosive.mdl
+[21:00:49] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/oildrum001_explosive.mdl
+[21:00:55] Шурик: /admincunitmedic
+[21:01:03] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube075x3x1.mdl
+[21:01:05] J_EliteCmb: /adminbeczhenec
+[21:01:07] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube075x1x1.mdl
+[21:01:15] J_EliteCmb: /adminbeczhenec
+[21:01:16] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/2x2x2.mdl
+[21:01:16] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/blocks/cube075x1x1.mdl
+[21:01:19] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[21:01:23] nonrp<STEAM_0:1:575008216> spawned model models/hunter/triangles/1x1x1.mdl
+[21:01:26] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate1x5.mdl
+[21:01:28] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate1x4.mdl
+[21:01:33] Azzeti: /ooc Вадим, тут тоже одна вещь
+[21:01:35] nonrp<STEAM_0:1:575008216> spawned model models/hunter/plates/plate05x1.mdl
+[21:01:39] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate075x105.mdl
+[21:01:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate1x2.mdl
+[21:01:46] Garry Huffan teleported to Azzeti
+[21:01:46] J_EliteCmb: /adminbeczhenec
+[21:01:49] 💀 SCP-173 💀(UA): /ooc вадим меня тепнуло на спавн
+[21:02:02] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/furnituretable001a.mdl
+[21:02:21] Dropped "Рейхсмаршал" from server<STEAM_0:1:557995360>
+[21:02:28] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/oildrum001.mdl
+[21:02:56] J_EliteCmb: /adminbeczhenec
+[21:03:02] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_pipes/pipe01_lcurve01_long.mdl
+[21:03:26] Garry Huffan was killed by trigger_hurt
+[21:03:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_pipes/valvewheel001.mdl
+[21:03:41] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_pipes/valvewheel002a.mdl
+[21:03:43] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[21:03:49] 💀 SCP-173 💀(UA): /ooc вадим я заспалнилса на спавне
+[21:04:09] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props/cs_office/coffee_mug.mdl
+[21:04:34] (TEAM) ♥schitrelz♥: /pm STEAM_0:0:172707452 вадим а патроны на смг можешь дать?
+[21:04:47] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:04:50] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:04:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_pallet001a.mdl
+[21:04:59] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_crate001a.mdl
+[21:05:04] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_pallet001a.mdl
+[21:05:09] nonrp: там Зомби
+[21:05:38] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_crate001a.mdl
+[21:05:40] ZXCRESLOEBATEL: /pm vadimhalo выдай опера
+[21:05:48] nonrp: там Зомби
+[21:05:51] Egor Lisin: !noclip
+[21:06:06] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:06:06] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_crate001a.mdl
+[21:06:08] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:06:08] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_crate001a.mdl
+[21:06:11] Egor Lisin brought 💀 SCP-173 💀(UA)
+[21:06:11] Egor Lisin: !bring 173
+[21:06:15] Me6oK granted god mode upon Themself
+[21:06:15] (TEAM) Me6oK: !god
+[21:06:24] Egor Lisin: !menu
+[21:06:35] Me6oK: Окей
+[21:06:37] Egor Lisin set the hp for 💀 SCP-173 💀(UA) to 100
+[21:06:39] nonrp: /adminvoedagaweqwr
+[21:06:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:06:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_pallet001a.mdl
+[21:06:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_crate001a.mdl
+[21:06:40] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:06:49] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/cardboard_box002b.mdl
+[21:06:50] Egor Lisin: !menu
+[21:06:51] nonrp: !log
+[21:06:52] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/cardboard_box001a.mdl
+[21:06:54] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/cardboard_box001a.mdl
+[21:06:55] Egor Lisin set the hp for 💀 SCP-173 💀(UA) to 600
+[21:06:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/cardboard_box001a.mdl
+[21:07:01] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/oildrum001.mdl
+[21:07:11] Azzeti: /ooc шо ты творишь
+[21:07:12] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate075x075.mdl
+[21:07:20] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/hunter/plates/plate05x05.mdl
+[21:07:20] ZXCRESLOEBATEL: // рил
+[21:07:47] Me6oK: Окей
+[21:07:50] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/oildrum001.mdl
+[21:08:06] Azzeti: // тимоха ты чё творишь на уй
+[21:08:10] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_interiors/furniture_shelf01a.mdl
+[21:08:10] Azzeti: // это рофлс
+[21:08:15] Кэлт: Ха-Ха-Ха
+[21:08:21] Assassinkz: Прикройте меня, я захожу!
+[21:08:22] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/shelfunit01a.mdl
+[21:08:29] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/shelfunit01a.mdl
+[21:08:32] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/shelfunit01a.mdl
+[21:08:43] nonrp: /adminpishevojcsnabditel
+[21:08:54] Кэлт: рп ситуация:
+[21:09:16] Squadron Jhonson: // ВАДИМ СРОЧНО! ТУТ кажется баг)))
+[21:09:46] Egor Lisin teleported to vadimhalo
+[21:09:46] Egor Lisin: !goto vadim
+[21:09:54] Azzeti: // кто там балуется?
+[21:09:58] Шурик killed Кэлт using player
+[21:10:04] Egor Lisin: // у меня вопрос
+[21:10:05] Squadron Jhonson: // крч норм что я могу использывать тоол doors
+[21:10:07] Egor Lisin: // к вадиму
+[21:10:14] Egor Lisin returned Themself to their original position
+[21:10:14] Egor Lisin: !return Egor
+[21:10:22] анимепсих: // Вадим, я двверь не могу откріть
+[21:10:26] анимепсих: // открыть
+[21:10:29] (TEAM) Me6oK: !noclip
+[21:10:35] анимепсих: // А, кринж, открылась, забей
+[21:10:37] анимепсих: !noclip
+[21:10:39] анимепсих: !noclip
+[21:11:00] Squadron Jhonson to admins: Вадим это норма что я могу использывать тоол doors?
+[21:11:22] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/cardboard_box001a.mdl
+[21:11:32] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/popcan01a.mdl
+[21:11:42] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/wood_crate002a.mdl
+[21:11:59] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_junk/cardboard_box001a.mdl
+[21:12:41] Egor Lisin: /advert Объявляется сбор населения на главной площади! Неявка - ампутаци�
+[21:12:53] Кэлт: /adminucnit1
+[21:12:58] Squadron Jhonson: /me уронил шкаф
+[21:12:58] Egor Lisin: /advert У Вас - 2 цикла на сборы!
+[21:12:59] Кэлт: /adminucnit1
+[21:13:22] Squadron Jhonson: !menu
+[21:13:37] Me6oK: !menu 
+[21:13:40] Me6oK teleported to vadimhalo
+[21:14:12] анимепсих killed 💀 SCP-173 💀(UA) using player
+[21:14:37] анимепсих: Стоять!
+[21:14:39] J_EliteCmb: /adminbeczhenec
+[21:14:43] Dropped "J_EliteCmb" from server<STEAM_0:0:515795929>
+[21:15:12] ZXCRESLOEBATEL: /pm vadimhalo вадим. а дай аг. у вас хоть цель будет
+[21:15:41] Egor Lisin killed Squadron Jhonson using player
+[21:15:53] (TEAM) Me6oK: !menu
+[21:15:58] Me6oK returned Themself to their original position
+[21:16:08] анимепсих: /warrant
+[21:16:12] анимепсих: /warrant Squa
+[21:16:15] анимепсих: /warrant Squa А-К
+[21:16:17] Azzeti: /warrant Squadron Зачистка
+[21:16:23] Egor Lisin killed 💀 SCP-173 💀(UA) using player
+[21:16:43] Squadron Jhonson: /pm STEAM_0:0:172707452 вадим дай роль оператора плис
+[21:16:51] nonrp: /sleep
+[21:17:00] Squadron Jhonson: /job Бандит
+[21:17:07] Шурик killed Кэлт using player
+[21:18:01] Шурик: // Келт ты чего такой бедный?
+[21:18:01] Squadron Jhonson: ((меня убили гении))
+[21:18:13] Шурик: // Тебя убивать невыгодно
+[21:18:16] (TEAM) Me6oK: !menu
+[21:18:16] Assassinkz: // лоботомия дорого стоит
+[21:18:17] анимепсих: ((как скажешь))
+[21:18:20] Me6oK teleported to Squadron Jhonson
+[21:18:22] Squadron Jhonson: (( его меня убил гении))
+[21:18:24] Шурик: // Yes
+[21:18:32] Squadron Jhonson: ((егор))
+[21:18:37] nonrp: // так он умер
+[21:18:40] Кэлт: е
+[21:18:50] nonrp: // Есть правила New Life
+[21:18:50] Egor Lisin: /me достал КПК из подсумка, начал проверять БД гражданского напротив.
+[21:19:08] Egor Lisin: /me нашел гражданку с именем Sqyadrom Jhonson
+[21:19:13] Egor Lisin: /l блять
+[21:19:17] Egor Lisin: /looc бля
+[21:19:22] Egor Lisin: ((похуй))
+[21:19:23] Me6oK: /admingrazhdanicn
+[21:19:26] Squadron Jhonson: [looc]:какая гражданка нахуй
+[21:19:30] (TEAM) Me6oK: !menu 
+[21:19:39] Me6oK cloaked Themself by amount 0
+[21:19:53] Egor Lisin: /me начал проверять гражданку на наличие роззыска.
+[21:20:00] Egor Lisin: /do есть ли розыск?
+[21:20:05] Egor Lisin: ((бля))
+[21:20:10] Egor Lisin: /roll 6
+[21:20:20] Squadron Jhonson to admins: Дайте оператора плис
+[21:20:22] nonrp: // Вадим нужно добавить больше РП команд
+[21:20:27] Egor Lisin: // +++
+[21:20:31] Влад Зайцев: // /me /do там
+[21:20:39] Влад Зайцев: // looc чат
+[21:20:39] Egor Lisin: // и /looc
+[21:20:45] nonrp: // /try /l
+[21:20:55] Egor Lisin killed Squadron Jhonson using player
+[21:20:58] nonrp: /looc /roll 100
+[21:21:08] nonrp: /roll 100
+[21:21:23] анимепсих: Проверить
+[21:21:25] анимепсих: Убирайся вон!
+[21:22:04] ♥schitrelz♥: вадим
+[21:22:21] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[21:22:22] Влад Зайцев: все хорошо
+[21:22:24] Влад Зайцев: вы свободны
+[21:22:25] Влад Зайцев: можете идти 
+[21:23:00] Кэлт: /adminucnit1
+[21:23:28] nonrp: я хотел вам дать я её нашёл в мусорке
+[21:23:45] nonrp: я хотел найти еду
+[21:24:20] nonrp: // Я думаю это это баг
+[21:24:29] Squadron Jhonson: /me открыл, там были трусы и новая гражданская форма...
+[21:24:31] ZXCRESLOEBATEL: /pm анимепсих как ты сделал голос типа гошника???
+[21:24:36] nonrp: // Вадим ТП
+[21:24:40] Влад Зайцев: мы узнали твое истинное лицо
+[21:24:45] анимепсих: /pm zxcre в интернете нашел
+[21:24:51] ZXCRESLOEBATEL: /pm анимепсих оки
+[21:24:52] nonrp: У меня нет маскировки
+[21:25:03] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_phx/construct/metal_plate1.mdl
+[21:25:30] nonrp was killed by trigger_hurt
+[21:27:17] анимепсих: Выполнять
+[21:28:45] nonrp: /adminpishevojcsnabditel
+[21:29:41] Me6oK: !menu
+[21:29:48] Me6oK teleported to vadimhalo
+[21:30:22] nonrp: hi
+[21:30:26] анимепсих: Двигайся!
+[21:30:29] nonrp: помнишь меня
+[21:30:30] ZXCRESLOEBATEL: Вас понял!
+[21:30:30] анимепсих: Хочешь в участок?
+[21:30:37] nonrp: yeah
+[21:31:15] Azzeti: /looc 10-20, а не  10-2
+[21:31:22] анимепсих: я сказал 10-20(())
+[21:31:29] (TEAM) Me6oK: !menu
+[21:31:35] Me6oK teleported to анимепсих
+[21:31:50] nonrp: забери гражданского и буду тебя ждать
+[21:32:00] nonrp: ?
+[21:32:13] nonrp: ?
+[21:32:27] nonrp: неважно Иди 
+[21:33:08] Egor Lisin: (( да мы карту изучаем))
+[21:33:27] Egor Lisin: 10-9, повторите.
+[21:33:31] Me6oK teleported to ♥schitrelz♥
+[21:33:33] Влад Зайцев: ((мы просто ходим карту смотрим))
+[21:33:34] Egor Lisin: мы Вас не понимаем
+[21:33:44] Egor Lisin: 10-4
+[21:34:07] Squadron Jhonson: Лояльно...
+[21:34:11] Squadron Jhonson: /me Засыпает
+[21:34:14] Squadron Jhonson: а-ага...
+[21:34:18] Egor Lisin: Мало граждан, хотел включить КК
+[21:34:24] Egor Lisin: Отклонение от Численности
+[21:34:27] Влад Зайцев: (( вниз получается нельзя просто так идти?))
+[21:34:29] Egor Lisin: Никак нет
+[21:34:37] Egor Lisin: Вместе со Старшим Юнитом
+[21:34:40] Azzeti: /looc нет
+[21:34:57] Влад Зайцев: /looc буду знать, я просто карту изучал)
+[21:35:19] Egor Lisin: (( мы тебя не понимаем, отключи нахуй эту хуню
+[21:35:22] Egor Lisin: ))
+[21:35:30] (TEAM) Me6oK: !menu
+[21:35:30] Egor Lisin: ((иначе я тоже включу))
+[21:35:36] Me6oK teleported to Влад Зайцев
+[21:35:38] Egor Lisin: ( и пиздец))
+[21:35:45] ZXCRESLOEBATEL: (( мы то его понимаем ))
+[21:35:46] Azzeti: /looc не, ну реально, говорите натуральный своим голосом
+[21:35:51] анимепсих: Я буду рад если Вы, отдадите приказ третьему юниту патрулировать.
+[21:35:53] анимепсих: город.
+[21:35:57] Azzeti: /looc я только со второго раза понимаю
+[21:36:07] анимепсих: Пусть он удалиться, у меня есть важный диалог с Вами.
+[21:36:42] анимепсих: UNION 2, протокол щит, цель: лифт. Никого внутрь не пропускать, в случае пр
+[21:36:50] анимепсих: UNION 1, щит, цель КМД.ЮНИТ.
+[21:36:55] анимепсих: Пройдемте.
+[21:37:08] анимепсих: Сейчас, покажите мне комнату с Красным Кодом.
+[21:37:10] анимепсих: Прошу.
+[21:37:44] (TEAM) Me6oK: !menu
+[21:37:46] Me6oK teleported to Squadron Jhonson
+[21:37:54] 💀 SCP-173 💀(UA): /adminzomcbie1
+[21:37:56] (TEAM) Azzeti: ^^ меня забирает советник, на пару циклов ^^
+[21:38:00] 💀 SCP-173 💀(UA): /adminzomcbie1
+[21:38:06] (TEAM) Egor Lisin: (( окей ))
+[21:38:12] ZXCRESLOEBATEL: (( ха ха кожаные пиздят ))
+[21:38:24] Azzeti: /pm Me6 ну?
+[21:38:33] (TEAM) Me6oK: !menu
+[21:38:39] Me6oK brought Azzeti
+[21:38:41] ZXCRESLOEBATEL: (( про адверт не забудьте ))
+[21:38:49] Шурик: /pm STEAM_0:1:575008216 Нет людей, которые хотят сбежать
+[21:39:06] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:39:10] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:39:18] nonrp<STEAM_0:1:575008216> spawned model models/props_phx/construct/windows/window2x2.mdl
+[21:39:19] nonrp<STEAM_0:1:575008216> spawned model models/props_phx/construct/windows/window2x2.mdl
+[21:39:29] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:39:30] Me6oK: !menu
+[21:39:32] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:39:33] Me6oK returned Azzeti to their original position
+[21:39:42] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:39:49] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:40:03] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:40:15] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:40:34] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:40:41] Me6oK: !menu
+[21:40:44] (TEAM) Azzeti: <:: 2 прибыл на место, выполняю протокол дальше ::>
+[21:40:56] (TEAM) Me6oK: !menu
+[21:40:56] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:40:59] Me6oK brought Squadron Jhonson
+[21:41:03] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:41:15] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:41:20] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:41:46] Влад Зайцев: // вида от 3 лица нету?
+[21:41:49] Egor Lisin: /\ +
+[21:41:51] Azzeti: // нет\
+[21:41:53] Egor Lisin: // +
+[21:41:53] ZXCRESLOEBATEL: // ytn
+[21:42:06] Влад Зайцев: Ха-Ха-Ха
+[21:42:08] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[21:42:09] Влад Зайцев: Так точно
+[21:42:10] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[21:42:24] анимепсих: Проверить
+[21:42:34] анимепсих: // Ну, КК не работает Вадим
+[21:42:43] Azzeti: // он в афк
+[21:42:53] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[21:42:54] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:42:56] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[21:43:00] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[21:43:04] Egor Lisin: /advert Все СГО, явиться в НН на построение в помещении взятия формы. У Ва�
+[21:43:19] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:43:22] Egor Lisin: /advert у Вас - 4 цикла. Неявка - 10-103!
+[21:43:23] vadimhalo suicided!
+[21:43:25] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:43:29] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:43:33] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:43:39] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:43:50] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/trappropeller_engine.mdl
+[21:43:55] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/suitcase001a.mdl
+[21:44:05] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/garbage128_composite001b.mdl
+[21:44:09] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:44:09] Me6oK<STEAM_0:0:431399359> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:44:13] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:44:19] nonrp<STEAM_0:1:575008216> spawned model models/props_trainstation/traincar_seats001.mdl
+[21:44:25] nonrp<STEAM_0:1:575008216> spawned model models/props_interiors/pot01a.mdl
+[21:44:55] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/oildrum001.mdl
+[21:44:59] Egor Lisin: /lockdown
+[21:45:01] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/pottery09a.mdl
+[21:45:13] Egor Lisin: /advert причина : Отклонение от численности!
+[21:45:20] Egor Lisin: // кк не робит :D
+[21:45:22] ZXCRESLOEBATEL: // ЭТО КК УТОЧНИ
+[21:45:32] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/streetsign004e.mdl
+[21:45:46] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/lockers001a.mdl
+[21:45:48] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:45:55] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/furniturefridge001a.mdl
+[21:45:58] Egor Lisin: // это кк если чо
+[21:45:59] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/props_phx/games/chess/white_dama.mdl
+[21:46:13] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/powerbox.mdl
+[21:46:19] (TEAM) Me6oK: !menu
+[21:46:22] Me6oK returned Squadron Jhonson to their original position
+[21:46:22] Влад Зайцев: Так точно
+[21:46:32] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/gravestone003a.mdl
+[21:47:20] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/furnitureradiator001a.mdl
+[21:47:28] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/woodbarrel001.mdl
+[21:47:36] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/woodbarrel001.mdl
+[21:47:55] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:48:00] Squadron Jhonson: /report нон рп((((
+[21:48:04] Squadron Jhonson to admins: нон рп!!!
+[21:48:15] nonrp<STEAM_0:1:575008216> spawned model models/props_debris/walldestroyed09g.mdl
+[21:48:19] Me6oK: !menu
+[21:48:20] nonrp<STEAM_0:1:575008216> spawned model models/props_debris/concrete_debris128pile001a.mdl
+[21:48:22] Me6oK teleported to Squadron Jhonson
+[21:49:17] Шурик killed Squadron Jhonson using weapon_stunstick2
+[21:49:37] nonrp<STEAM_0:1:575008216> spawned model models/props_silo/wall_console1.mdl
+[21:49:54] анимепсих killed nonrp using player
+[21:49:58] Dropped "nonrp" from server<STEAM_0:1:575008216>
+[21:50:02] Client "nonrp" connected.
+[21:50:04] Assassinkz killed Шурик using weapon_stunstick2
+[21:50:21] Azzeti: /warrant nonrp Зачистка
+[21:50:36] Client "nonrp" spawned in server <STEAM_0:1:575008216> (took 34 seconds).
+[21:50:46] Влад Зайцев: почему он умер?
+[21:51:03] Влад Зайцев: стоим
+[21:51:04] Влад Зайцев: ждем
+[21:51:14] (TEAM) Me6oK: !menu
+[21:51:23] Egor Lisin: юнит 1 КЭЛТ вы будете признаны 10-103 за нападение и убийство НАШЕГО СГО.
+[21:51:24] Squadron Jhonson to admins: Жалоба!!
+[21:51:31] Egor Lisin: Прощайте.
+[21:51:32] Egor Lisin killed Кэлт using player
+[21:51:50] (TEAM) Me6oK: !menu
+[21:52:02] Me6oK teleported to Squadron Jhonson
+[21:52:07] Me6oK returned Themself to their original position
+[21:52:12] Me6oK brought Squadron Jhonson
+[21:52:42] Шурик: /admincunitmedic
+[21:52:53] Влад Зайцев: документ
+[21:52:56] (TEAM) ♥schitrelz♥: /pm STEAM_0:0:431399359 можешь патронов дать?
+[21:52:56] Влад Зайцев: покажи
+[21:52:59] Влад Зайцев: снова
+[21:53:06] Squadron Jhonson: по логам чекни
+[21:53:15] nonrp: /adminpishevojcsnabditel
+[21:53:29] Шурик: /admincunitmedic
+[21:53:36] Влад Зайцев: у тебя топор
+[21:54:09] Влад Зайцев: так
+[21:54:11] Egor Lisin: 1
+[21:54:16] Egor Lisin: 3
+[21:54:23] Me6oK: !menu 
+[21:54:36] Me6oK teleported to Шурик
+[21:55:09] Кэлт: Зачем?
+[21:55:11] Squadron Jhonson: Зачем?
+[21:55:11] Кэлт: Понятно
+[21:55:15] Me6oK: !menu 
+[21:55:17] Squadron Jhonson: Привет
+[21:55:23] Me6oK returned Themself to their original position
+[21:55:27] Me6oK teleported to Шурик
+[21:55:31] Me6oK returned Themself to their original position
+[21:55:36] Me6oK: !menu 
+[21:55:38] Me6oK brought Шурик
+[21:55:48] Azzeti: /warrant schit
+[21:55:53] ♥schitrelz♥: // ну мне хона
+[21:55:57] Azzeti: /warrant schi Зачистка
+[21:56:04] Azzeti killed ♥schitrelz♥ using player
+[21:56:08] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_office/offinspd.mdl
+[21:56:15] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_office/offpaintingj.mdl
+[21:56:23] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_office/shelves_metal.mdl
+[21:56:31] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_office/sofa.mdl
+[21:56:42] Кэлт: /adminucnit1
+[21:57:00] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_militia/axe.mdl
+[21:57:01] ZXCRESLOEBATEL: /pm Azzeti ты чо так крутился?
+[21:57:08] Squadron Jhonson<STEAM_0:1:485914624> spawned model models/weapons/w_package.mdl
+[21:57:10] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_militia/axe.mdl
+[21:57:15] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_militia/axe.mdl
+[21:57:18] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_militia/axe.mdl
+[21:57:22] Azzeti: /pmn zxc нажал альт таб и вылетело
+[21:57:24] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_militia/axe.mdl
+[21:57:28] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_militia/axe.mdl
+[21:57:31] ZXCRESLOEBATEL: Понял
+[21:57:36] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_assault/dollar.mdl
+[21:57:38] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props/cs_assault/money.mdl
+[21:57:45] vadimhalo: /ooc ну как так оно?
+[21:57:49] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/lockers001a.mdl
+[21:57:56] nonrp<STEAM_0:1:575008216> spawned model models/props_interiors/furniture_chair03a.mdl
+[21:57:57] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/gravestone_coffinpiece002a.mdl
+[21:57:59] Me6oK: // тп вадим
+[21:58:04] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/furnituredrawer001a.mdl
+[21:58:06] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[21:58:13] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_junk/cardboard_box001b.mdl
+[21:58:34] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[21:58:43] Egor Lisin: // вадим тп
+[21:58:48] (TEAM) Me6oK: // тп вадим тут жалоба 
+[21:58:51] nonrp<STEAM_0:1:575008216> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[21:58:52] vadimhalo: !menu
+[21:58:55] Me6oK: !menu 
+[21:58:55] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/filecabinet02.mdl
+[21:58:55] vadimhalo teleported to Me6oK
+[21:59:09] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/furnitureradiator001a.mdl
+[21:59:09] 💀 SCP-173 💀(UA): /me бистра взял топор 
+[21:59:23] nonrp<STEAM_0:1:575008216> spawned model models/props_combine/breenglobe.mdl
+[21:59:25] 💀 SCP-173 💀(UA): /me бистра взял топор со стелажа
+[21:59:28] Egor Lisin: /unlockdown
+[21:59:29] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/monitor01a.mdl
+[21:59:32] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/workspace002.mdl
+[21:59:41] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/servers.mdl
+[21:59:46] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/servers.mdl
+[21:59:50] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/suitcase001a.mdl
+[21:59:53] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/popcan01a.mdl
+[22:00:06] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/reciever_cart.mdl
+[22:00:06] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/furnituredrawer001a.mdl
+[22:00:11] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/consolebox01a.mdl
+[22:00:13] ZXCRESLOEBATEL: (( это рофлс? ))
+[22:00:13] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/consolebox01a.mdl
+[22:00:14] ♥schitrelz♥: /adminucnit1
+[22:00:15] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/consolebox03a.mdl
+[22:00:18] Кэлт: а
+[22:00:33] Squadron Jhonson: /me заломал человека напротив
+[22:00:35] ZXCRESLOEBATEL: (( молчу ))
+[22:00:35] Кэлт: :exclamation:
+[22:00:40] Egor Lisin to admins: вадим, разве Вы не починили сдачу контрабанды?
+[22:00:40] Squadron Jhonson: /me одел жгут на руки человека
+[22:00:42] Squadron Jhonson: /me повел
+[22:01:15] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/bicycle01a.mdl
+[22:01:25] nonrp<STEAM_0:1:575008216> spawned model models/props_interiors/furniture_lamp01a.mdl
+[22:01:35] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/frame002a.mdl
+[22:01:47] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/wood_crate002a.mdl
+[22:01:49] Squadron Jhonson: нарушил правила го 6
+[22:01:56] ZXCRESLOEBATEL: /adminpishevojcsnabditel
+[22:02:02] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[22:02:04] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/garbage_newspaper001a.mdl
+[22:02:04] ZXCRESLOEBATEL: // я устал тухнуть в ГО
+[22:02:06] Egor Lisin: /advert Начинается сбор гражданских на ГП
+[22:02:08] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/garbage256_composite002a.mdl
+[22:02:17] Azzeti: // ладно
+[22:02:23] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/reciever01d.mdl
+[22:02:25] Egor Lisin: /advert Всем явиться на ГП на построение
+[22:02:27] Azzeti: // а мне по кайфу, люблю СЧОПА
+[22:02:28] Me6oK: !menu 
+[22:02:32] ZXCRESLOEBATEL: // хз я устал
+[22:02:33] Egor Lisin: /advert У Вас - 4 цикла.
+[22:02:42] (TEAM) Me6oK: !noclip
+[22:03:13] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/reciever01b.mdl
+[22:03:21] Me6oK: !menu 
+[22:03:24] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[22:03:25] анимепсих: /drop
+[22:03:25] Кэлт: Проверить
+[22:03:26] Me6oK returned Шурик to their original position
+[22:03:29] Me6oK returned Squadron Jhonson to their original position
+[22:03:31] Dropped "Шурик" from server<STEAM_0:0:452405606>
+[22:03:34] nonrp<STEAM_0:1:575008216> spawned model models/props_combine/breenbust.mdl
+[22:03:39] Me6oK: !menu 
+[22:03:41] Squadron Jhonson: // мешек давай реп батл!
+[22:03:42] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/clock01.mdl
+[22:03:43] Me6oK teleported to Squadron Jhonson
+[22:04:02] nonrp<STEAM_0:1:575008216> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[22:04:04] Egor Lisin: (( вадим))
+[22:04:14] Egor Lisin: (( Вы починили сдачу контрабанды?))
+[22:04:16] Me6oK: !menu 
+[22:04:19] Egor Lisin: (( не работает))
+[22:04:24] Me6oK teleported to ZXCRESLOEBATEL
+[22:04:30] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/citizenradio.mdl
+[22:04:39] Squadron Jhonson: /me чешет яйца
+[22:04:42] Egor Lisin: (( а также, долбавте пожалуйста /looc, /do, /try
+[22:04:45] Egor Lisin: ))
+[22:05:05] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/traffic_light001a.mdl
+[22:05:20] nonrp<STEAM_0:1:575008216> spawned model models/props_c17/gasmeter002a.mdl
+[22:05:35] Squadron Jhonson: (( анимепсих по рп заломй мне руку лучше
+[22:05:37] Squadron Jhonson: ))
+[22:05:49] анимепсих: Хочешь в участок?
+[22:05:58] ZXCRESLOEBATEL: /pm vadimhalo выдай опера
+[22:06:05] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/tpplugholder.mdl
+[22:06:08] Egor Lisin: Выполнять
+[22:06:12] Влад Зайцев: Так точно
+[22:06:29] Egor Lisin: Первое предупреждение
+[22:06:36] vadimhalo: Потрясающе
+[22:06:40] vadimhalo: Помогите!
+[22:06:41] Squadron Jhonson: /me чещит яйца
+[22:06:45] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/lockers.mdl
+[22:06:49] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/tpplugholder_single.mdl
+[22:06:55] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/monitor01b.mdl
+[22:07:12] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/metal_paintcan001a.mdl
+[22:07:19] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/rock001a.mdl
+[22:07:27] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/trashcluster01a.mdl
+[22:07:37] nonrp<STEAM_0:1:575008216> spawned model models/props_junk/garbage_glassbottle002a_chunk01.mdl
+[22:07:57] nonrp<STEAM_0:1:575008216> spawned model models/props_lab/cactus.mdl
+[22:08:01] Client "Avangard" connected.
+[22:08:02] vadimhalo: /adminpishevojcsnabditel
+[22:08:21] Влад Зайцев: мне кмд юнит приказал выпустить гражданского
+[22:08:22] Влад Зайцев: из карцера
+[22:08:27] Azzeti: /looc счопа не контактируют с вами
+[22:08:28] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/oildrum001.mdl
+[22:08:45] анимепсих<STEAM_0:1:59432880> spawned model models/props_c17/gravestone_coffinpiece001a.mdl
+[22:09:01] Me6oK: !menu 
+[22:09:10] Влад Зайцев: кмд ота, мне кмд юнит приказал выпустить гражданского из карцера, но м
+[22:09:11] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_lab/blastdoor001b.mdl
+[22:09:13] Me6oK teleported to vadimhalo
+[22:09:17] Влад Зайцев: меня не пускает юнион
+[22:09:26] nonrp: // это имба жить за городом за поварa
+[22:09:34] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/weapons/w_shot_m3super90.mdl
+[22:09:39] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/weapons/w_pist_elite_dropped.mdl
+[22:09:40] vadimhalo: /ooc запрещено жить за повора за городом
+[22:09:44] vadimhalo: /ooc это нарушение правил
+[22:09:54] анимепсих killed Squadron Jhonson using player
+[22:09:56] Assassinkz: // нон рп оправдал ник
+[22:10:14] Client "Avangard" spawned in server <STEAM_0:1:227941382> (took 133 seconds).
+[22:10:25] nonrp: // так я живу в городе
+[22:10:36] Влад Зайцев: кмд ота, разрешите пройти гражданского выпустить
+[22:10:39] Влад Зайцев: из карцера
+[22:10:53] Влад Зайцев: где-то там
+[22:10:55] Me6oK: /adminpishevojcsnabditel
+[22:10:58] ZXCRESLOEBATEL: /buybitminerfuel
+[22:10:59] ZXCRESLOEBATEL: /buybitminerfuel
+[22:11:11] Avangard: // дайте че нибудь
+[22:11:18] Me6oK: !menu
+[22:11:21] Me6oK teleported to vadimhalo
+[22:11:21] Avangard: lfhjd
+[22:11:22] Avangard: даров
+[22:11:24] Avangard:  я в дс
+[22:11:27] Avangard: говори тула
+[22:11:37] Влад Зайцев: кмд ота, это он
+[22:11:45] Влад Зайцев: нет
+[22:11:47] Avangard: че
+[22:11:48] Влад Зайцев: его мне надо выпустить
+[22:11:52] Avangard: Ты у меня
+[22:11:53] Avangard: еррор
+[22:11:53] Avangard: ка
+[22:11:54] Влад Зайцев: по приказу кмд юнита
+[22:11:57] Avangard: контент дай
+[22:12:02] Влад Зайцев: он ушел
+[22:12:03] Влад Зайцев: на время
+[22:12:04] Avangard: ты модер
+[22:12:07] 💀 SCP-173 💀(UA): Я ЩЯС ЗДОХНУ
+[22:12:09] Azzeti: /ooc Вадим, тут магическим образом у гражданского в карцере вещи появил
+[22:12:11] Avangard: сука
+[22:12:13] Avangard: набрали 13 летних
+[22:12:17] Влад Зайцев: выходим
+[22:12:21] Влад Зайцев: гражднаский
+[22:12:21] ZXCRESLOEBATEL: /advert Возле вокзала открылся бар "У галочки"! Приходите! 
+[22:12:24] Влад Зайцев: гражданский
+[22:12:24] Avangard: // контент дайте
+[22:12:30] Me6oK: !menu
+[22:12:31] vadimhalo: /admingrazhdanicn
+[22:12:36] Me6oK uncloaked Themself
+[22:12:50] (TEAM) Кэлт: н
+[22:12:52] Me6oK: /adminpishevojcsnabditel
+[22:12:54] Assassinkz: егр
+[22:12:55] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_pistol_large
+[22:12:55] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_pistol_large
+[22:12:55] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_pistol_large
+[22:13:22] Влад Зайцев: они тут открываются
+[22:13:25] Avangard: !content
+[22:13:28] Avangard: /content
+[22:13:31] Avangard: [[ ало
+[22:13:34] Avangard: [[ контент дайте
+[22:13:37] Squadron Jhonson: /me обыскивает карманы
+[22:13:44] Squadron Jhonson: /me достает 2 монеты и ложит на стол
+[22:13:45] Avangard: Здарова мужики
+[22:13:50] nonrp: Я за работу есть место
+[22:13:57] анимепсих killed 💀 SCP-173 💀(UA) using player
+[22:14:03] Влад Зайцев: нормально
+[22:14:03] Azzeti: /ooc Fear rp
+[22:14:07] анимепсих: // у тебя фир рп ты в бане
+[22:14:08] Avangard: [[ дайте контент
+[22:14:09] Avangard: [[ бля
+[22:14:09] Azzeti: /ooc Фууу фир рп!
+[22:14:20] Avangard: на нахуй
+[22:14:26] Avangard: /dropmone 1
+[22:14:29] Avangard: /droptoken 1
+[22:14:51] Avangard: ебать ахуевший
+[22:15:00] nonrp: там надо топор
+[22:15:05] nonrp: надо топор?
+[22:15:10] nonrp: 5
+[22:15:19] nonrp: 5
+[22:16:03] nonrp: 5
+[22:16:12] Влад Зайцев: // как броню пополнять?
+[22:16:17] Dropped "Avangard" from server<STEAM_0:1:227941382>
+[22:16:18] Me6oK: прости
+[22:16:21] 💀 SCP-173 💀(UA): /adminbeczhenec
+[22:16:41] ZXCRESLOEBATEL killed Squadron Jhonson using player
+[22:16:51] vadimhalo killed nonrp using player
+[22:17:07] vadimhalo killed ZXCRESLOEBATEL using player
+[22:17:23] nonrp to admins: За что ты меня убил
+[22:17:30] ZXCRESLOEBATEL: // вадим заебал жизнь рушить
+[22:17:46] Me6oK: !menu
+[22:17:54] Me6oK revoked god mode from Themself
+[22:18:08] vadimhalo killed Me6oK using player
+[22:18:20] ZXCRESLOEBATEL: // вадим отьебись уже от нас
+[22:18:31] nonrp: /adminpishevojcsnabditel
+[22:18:31] vadimhalo: /ooc а че за поножовчина случилась?
+[22:18:38] ZXCRESLOEBATEL: // ты ее организовал
+[22:18:38] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:38] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:39] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:40] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:41] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:41] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:43] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:18:49] ZXCRESLOEBATEL: // харош хилится q меню
+[22:19:12] ZXCRESLOEBATEL: /adminpishevojcsnabditel
+[22:19:23] vadimhalo: /ooc а где вся гражданская оборона,
+[22:19:47] Squadron Jhonson: // Вадим потсавь меня я не много по рпшу плис
+[22:19:50] ZXCRESLOEBATEL: /adminpishevojcsnabditel
+[22:19:53] Azzeti killed vadimhalo using player
+[22:20:21] nonrp: // причина на freekill : где Гражданская оборона
+[22:20:35] ZXCRESLOEBATEL: /adminpishevojcsnabditel
+[22:21:41] 💀 SCP-173 💀(UA): /adminzomcbie1
+[22:22:19] vadimhalo: !menu
+[22:22:26] vadimhalo teleported to Влад Зайцев
+[22:22:27] Azzeti: /drop
+[22:22:31] vadimhalo: !menu
+[22:22:32] vadimhalo teleported to Кэлт
+[22:22:42] vadimhalo: !menu
+[22:22:48] vadimhalo brought Egor Lisin
+[22:22:51] nonrp: // Дай директор гср
+[22:22:54] Squadron Jhonson: // вадим дай 100 токинов я встану за го
+[22:23:18] vadimhalo killed Кэлт using player
+[22:23:20] vadimhalo killed Assassinkz using player
+[22:23:21] vadimhalo killed Egor Lisin using player
+[22:23:25] nonrp: /adminpishevojcsnabditel
+[22:24:13] nonrp: Дай директор гср
+[22:24:26] nonrp: /l Дай директор гср
+[22:24:40] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_debris/metal_panel01a.mdl
+[22:24:42] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/shelfunit01a.mdl
+[22:24:48] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:24:48] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:24:49] vadimhalo<STEAM_0:0:172707452> spawned sent item_healthkit
+[22:24:49] nonrp:  директор гср
+[22:24:49] vadimhalo: !menu
+[22:24:57] vadimhalo: !menu
+[22:24:57] 💀 SCP-173 💀(UA)<STEAM_0:0:480303422> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:25:01] nonrp: глава
+[22:25:03] vadimhalo установил Squadron Jhonson профессию  CMD.UNIT
+[22:25:09] vadimhalo установил nonrp профессию  Глава ГСР
+[22:25:19] ZXCRESLOEBATEL: // вадим дай аг
+[22:25:45] nonrp: ты открыл свой бар
+[22:26:06] Dropped "♥schitrelz♥" from server<STEAM_0:1:539647546>
+[22:26:23] Dropped "Влад Зайцев" from server<STEAM_0:0:226229891>
+[22:27:12] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_interiors/bathtub01a.mdl
+[22:27:26] vadimhalo<STEAM_0:0:172707452> spawned model models/props_borealis/bluebarrel001.mdl
+[22:27:52] Dropped "Egor Lisin" from server<STEAM_0:1:464427619>
+[22:28:03] Azzeti killed 💀 SCP-173 💀(UA) using player
+[22:28:11] Squadron Jhonson: Двигайся!
+[22:28:14] Squadron Jhonson: Убирайся вон!
+[22:28:52] vadimhalo: Понятно
+[22:28:55] vadimhalo: Привет
+[22:28:57] vadimhalo: Зомби!
+[22:29:26] Azzeti killed vadimhalo using player
+[22:29:45] Squadron Jhonson: Двигайся!
+[22:30:04] 💀 SCP-173 💀(UA): /me Выполнил воинское приветствие
+[22:30:40] Squadron Jhonson: Я включи кч?
+[22:30:45] 💀 SCP-173 💀(UA) killed ZXCRESLOEBATEL using w_z_zombie
+[22:30:47] Squadron Jhonson: /lockdown
+[22:31:13] Azzeti: Вас понял!
+[22:31:13] nonrp: там Зомби
+[22:31:22] анимепсих: /adminomoshnik
+[22:31:25] анимепсих: /adminomoshnik
+[22:31:41] анимепсих: // всем пака ребята я должен бежать в магазин
+[22:31:46] анимепсих: // ща вернусь если успею
+[22:31:49] ZXCRESLOEBATEL: // вадим дай кмд оту
+[22:31:53] ZXCRESLOEBATEL: // вадим дай кмд оту
+[22:31:55] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_pistol_large
+[22:31:57] Dropped "анимепсих" from server<STEAM_0:1:59432880>
+[22:32:28] Assassinkz<STEAM_0:1:63544152> spawned model models/props_c17/furnituredresser001a.mdl
+[22:32:34] vadimhalo killed Squadron Jhonson using player
+[22:32:54] Squadron Jhonson: // вадим я обиделся
+[22:32:58] ZXCRESLOEBATEL: /pm vadimhalo дай кмдшку
+[22:33:34] vadimhalo<STEAM_0:0:172707452> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[22:33:42] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/props_combine/suit_charger001.mdl
+[22:33:43] Squadron Jhonson: // Вадим я пошел, покаа
+[22:33:55] Azzeti killed vadimhalo using player
+[22:34:08] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/gibs/helicopter_brokenpiece_04_cockpit.mdl
+[22:34:09] ZXCRESLOEBATEL<STEAM_0:1:189765948> spawned model models/gibs/helicopter_brokenpiece_05_tailfan.mdl
+[22:34:12] Dropped "Squadron Jhonson" from server<STEAM_0:1:485914624>
+[22:34:47] Azzeti killed 💀 SCP-173 💀(UA) using player
+[22:36:07] Azzeti killed ZXCRESLOEBATEL using player
+[22:36:41] Azzeti killed Me6oK using player
+[22:36:45] Azzeti killed vadimhalo using player
+[22:36:52] Dropped "nonrp" from server<STEAM_0:1:575008216>
+[22:37:07] Кэлт: /adminucnit1
+[22:37:12] ZXCRESLOEBATEL: /pm vadimhalo дай кмдшку
+[22:37:55] 💀 SCP-173 💀(UA) killed Assassinkz using w_z_zombie
+[22:38:09] vadimhalo: !menu
+[22:38:14] vadimhalo установил Themself профессию  Дезертир
+[22:38:23] ZXCRESLOEBATEL: /pm vadimhalo дай кмдшку
+[22:38:26] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[22:38:26] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[22:38:27] vadimhalo<STEAM_0:0:172707452> spawned sent item_ammo_smg1_large
+[22:39:13] Azzeti killed 💀 SCP-173 💀(UA) using player
+[22:39:48] vadimhalo: Первое предупреждение
+[22:39:50] vadimhalo: Второе предупреждение
+[22:39:56] 💀 SCP-173 💀(UA): /OOC зомби нету смисла играть ани гамно
+[22:39:59] vadimhalo killed ZXCRESLOEBATEL using player
+[22:40:22] ZXCRESLOEBATEL to admins: дезертир убил гражданина
+[22:40:25] vadimhalo: Двигайся!
+[22:40:35] vadimhalo: /ooc напишите рецензию в лс
+[22:40:40] Client "Avangard" connected.
+[22:40:40] vadimhalo: /ooc всем спасибо

@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"Ents Health System" 
+	"version"	"1.0"
+	"author_name"	"First Mouse"
+	"author_email"	""
+	"author_url"	""
+	"info"		""
+	"override"	"0"
+}

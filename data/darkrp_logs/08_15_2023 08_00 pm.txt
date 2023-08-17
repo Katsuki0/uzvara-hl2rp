@@ -1,0 +1,19 @@
+Tue Aug 15 20:00:53 2023	Jack (STEAM_0:1:586636911) has joined the game
+Tue Aug 15 20:00:53 2023	Жорка Дридмен (STEAM_0:1:586636911) spawned
+Tue Aug 15 20:00:55 2023	Drake (STEAM_0:1:438429767) has joined the game
+Tue Aug 15 20:00:55 2023	Drake (STEAM_0:1:438429767) spawned
+Tue Aug 15 20:01:09 2023	привет мой лучший (STEAM_0:1:618342637) has joined the game
+Tue Aug 15 20:01:09 2023	привет мой лучший (STEAM_0:1:618342637) spawned
+Tue Aug 15 20:01:17 2023	hshg Allan (STEAM_0:1:623854304) has joined the game
+Tue Aug 15 20:01:17 2023	Allan (STEAM_0:1:623854304) spawned
+Tue Aug 15 20:01:28 2023	squadron (STEAM_0:1:485914624) has joined the game
+Tue Aug 15 20:01:28 2023	squadron (STEAM_0:1:485914624) spawned
+Tue Aug 15 20:01:54 2023	Kserg31 (STEAM_0:1:102748913) has joined the game
+Tue Aug 15 20:01:54 2023	Kserg31 (STEAM_0:1:102748913) spawned
+Tue Aug 15 20:02:03 2023	vadimhalo (STEAM_0:0:172707452) has joined the game
+Tue Aug 15 20:02:03 2023	vadimhalo (STEAM_0:0:172707452) spawned
+Tue Aug 15 20:02:07 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) has joined the game
+Tue Aug 15 20:02:07 2023	𝙢𝙖𝙨𝙮𝙡𝙢𝙖𝙣 (STEAM_0:0:514531332) spawned
+Tue Aug 15 20:02:30 2023	привет мой лучший (STEAM_0:1:618342637): /admicnunit5
+Tue Aug 15 20:02:36 2023	Жорка Дридмен (STEAM_0:1:586636911): /adminpishevojcsnabditel
+Tue Aug 15 20:02:52 2023	vadimhalo (STEAM_0:0:172707452): !menu

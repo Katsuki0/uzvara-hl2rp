@@ -1,0 +1,48 @@
+[01:32:25] New map: rp_city11_sv
+[01:33:20] Client "Я не Shapka" connected.
+[01:35:21] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 121 seconds).
+[01:36:00] Garry Huffan<STEAM_0:0:45477833> spawned sent yellow_code_panel
+[01:45:55] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+[17:45:43] Client "Я не Shapka" connected.
+[17:47:53] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 130 seconds).
+[17:48:26] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furnituredrawer001a.mdl
+[17:48:27] Garry Huffan<STEAM_0:0:45477833> spawned model models/props_c17/furnituredrawer001a.mdl
+[17:51:13] Garry Huffan<STEAM_0:0:45477833> spawned sent yellow_code_panel
+[18:00:27] Garry Huffan<STEAM_0:0:45477833> spawned sent yellow_code_panel
+[18:05:09] Garry Huffan<STEAM_0:0:45477833> spawned sent red_code_panel
+[18:05:47] Garry Huffan<STEAM_0:0:45477833> spawned sent stolprodaz
+[18:05:49] Garry Huffan<STEAM_0:0:45477833> spawned sent yellow_code_panel
+[18:10:22] Garry Huffan suicided!
+[18:10:22] Garry Huffan slayed Themself
+[18:10:22] Garry Huffan: !slay ^
+[18:11:41] Garry Huffan<STEAM_0:0:45477833> spawned sent red_code_panel
+[18:11:53] Garry Huffan suicided!
+[18:11:53] Garry Huffan slayed Themself
+[18:11:53] Garry Huffan: !slay ^
+[18:12:45] Garry Huffan suicided!
+[18:12:45] Garry Huffan slayed Themself
+[18:12:45] Garry Huffan: !slay ^
+[18:14:13] Garry Huffan<STEAM_0:0:45477833> spawned sent ligyh_dispenser
+[18:22:05] Server is shutting down/changing levels.
+
+
+
+[18:22:29] New map: rp_city11_sv
+[18:23:20] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 61 seconds).
+[18:24:18] Garry Huffan<STEAM_0:0:45477833> spawned sent ligyh_dispenser
+[18:24:53] Server is shutting down/changing levels.
+
+
+
+[18:25:17] New map: rp_city11_sv
+[18:25:52] Client "Я не Shapka" spawned in server <STEAM_0:0:45477833> (took 44 seconds).
+[18:26:25] Garry Huffan<STEAM_0:0:45477833> spawned sent ligyh_dispenser
+[18:29:22] Garry Huffan<STEAM_0:0:45477833> spawned sent storage_city1
+[18:29:52] Garry Huffan<STEAM_0:0:45477833> spawned sent storage_city2
+[18:30:07] Garry Huffan<STEAM_0:0:45477833> spawned sent storage_city2
+[18:31:20] Garry Huffan<STEAM_0:0:45477833> spawned sent hl2sys_cpterminal
+[18:31:44] Garry Huffan<STEAM_0:0:45477833> spawned sent bodyman_closet
+[18:32:15] Garry Huffan<STEAM_0:0:45477833> spawned sent bodyman_closet
+[18:32:21] Garry Huffan<STEAM_0:0:45477833> spawned sent stolprodaz
+[18:36:26] Dropped "Garry Huffan" from server<STEAM_0:0:45477833>
+<Logging continued in "data/ulx_logs/08-08-23.txt">
